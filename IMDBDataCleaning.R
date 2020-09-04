@@ -6,12 +6,17 @@
 library(tidyverse)
 
 ## Read in the data
-imdb <- read_csv("./IMDBTrain.csv")
+imdb.train <- read_csv("./IMDBTrain.csv")
 imdb.test <- read_csv("./IMDBTest.csv")
 
-##
-## Exploratory Data Analysis
-##
+## Merge the two datasets together so when I clean the
+## training dataset I also treat the test set the same way
+names(imdb.test)[names(imdb.test)=="Id"] <- "movie_title"
+imdb <- bind_rows(train=imdb.train, test=imdb.test, .id="Set")
+
+####################################
+## Some Exploratory Data Analysis ##
+####################################
 
 ## Overall summary of the data
 summary(imdb)
