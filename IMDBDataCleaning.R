@@ -157,7 +157,7 @@ actors.likes <- data.frame(actor=all.actors, likes=actor.likes) %>%
 pop.actors <- actors.likes %>% filter(likes>quantile(likes, probs=0.99)) %>%
   pull(actor)
 imdb <- imdb %>%
-  mutate(num_top_actors=(ifelse(actor_1_name%in%pop.actors, 1, 0) +
+  mutate(num_pop_actors=(ifelse(actor_1_name%in%pop.actors, 1, 0) +
                            ifelse(actor_2_name%in%pop.actors, 1, 0) +
                            ifelse(actor_3_name%in%pop.actors, 1, 0)))
 
