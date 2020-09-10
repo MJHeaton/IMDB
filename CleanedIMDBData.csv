@@ -279,7 +279,7 @@ train,1,143,88,120618403,Mulan ,171792,222,English,G,90000000,1998,7.5,1.66,1,A
 train,1,308,121,110416702,Tropic Thunder ,307539,577,English,R,92000000,2008,7,2.35,4,Action,2,2,1
 train,1,148,128,100012500,Die Hard with a Vengeance ,299258,346,English,R,90000000,1995,7.6,2.35,9,Action,3,1,0
 train,1,415,128,209019489,Sherlock Holmes ,477300,621,English,PG13,90000000,2009,7.6,1.85,3,Action,5,1,1
-train,1,1,141,93060734.26602192,Ben-Hur ,57,1,English,PG13,59900477.508205555,2016,6.1,2.35,3,Adventure,3,1,0
+train,1,1,141,48116175.70878304,Ben-Hur ,57,1,English,PG13,59900477.508205555,2016,6.1,2.35,3,Adventure,3,1,0
 train,1,146,95,84037039,Atlantis: The Lost Empire ,72591,289,English,PG,120000000,2001,6.8,2.35,2,Action,6,0,0
 train,1,269,121,83077470,Valkyrie ,183247,440,English,PG13,75000000,2008,7.1,1.85,7,Drama,4,2,0
 train,1,198,113,100018837,You Don't Mess with the Zohan ,156348,380,English,PG13,90000000,2008,5.5,1.85,9,Action,2,1,0
@@ -320,13 +320,13 @@ train,1,80,130,50016394,Last Action Hero ,106528,257,English,PG13,70000000,1993
 train,1,229,145,57010853,Memoirs of a Geisha ,119286,548,English,PG13,85000000,2005,7.3,2.35,5,Drama,2,0,0
 train,1,98,178,44606335,Meet Joe Black ,169023,703,English,PG13,90000000,1998,7.1,1.85,4,Drama,3,2,0
 train,1,135,108,40048332,Collateral Damage ,61417,339,English,R,85000000,2002,5.5,1.85,4,Action,3,0,0
-train,1,84,123,27919823.603085414,All That Jazz ,19228,146,English,R,11983704.163628774,1979,7.8,1.85,2,Comedy,4,0,0
+train,1,84,123,103211737.65931739,All That Jazz ,19228,146,English,R,11983704.163628774,1979,7.8,1.85,2,Comedy,4,0,0
 train,1,382,106,64933670,Mirror Mirror ,70838,208,English,PG,85000000,2012,5.6,1.85,4,Adventure,5,1,0
 train,1,393,112,31494270,Scott Pilgrim vs. the World ,273921,522,English,PG13,60000000,2010,7.5,1.85,1,Action,4,1,0
 train,1,149,135,31111260,The Core ,77029,466,English,PG13,60000000,2003,5.4,2.35,4,Action,4,0,0
 train,1,94,109,123307945,Nutty Professor II: The Klumps ,39391,171,English,PG13,65000000,2000,4.3,1.85,7,Comedy,3,0,0
 train,1,138,86,153288182,Scooby-Doo ,71424,521,English,PG,84000000,2002,4.9,1.85,6,Adventure,3,0,0
-train,1,127,130,19411780.468621604,Creepshow ,29932,211,English,R,8000000,1982,6.9,1.85,5,Comedy,3,0,0
+train,1,127,130,62131607.78602386,Creepshow ,29932,211,English,R,8000000,1982,6.9,1.85,5,Comedy,3,0,0
 train,1,238,88,80170146,Jumper ,243053,488,English,PG13,85000000,2008,6.1,2.35,7,Action,4,1,0
 train,1,345,120,75754670,Hellboy II: The Golden Army ,208422,342,English,PG13,85000000,2008,7,1.85,4,Action,5,0,0
 train,1,377,162,33048353,Zodiac ,301279,589,English,R,65000000,2007,7.7,2.35,10,Crime,5,2,1
@@ -372,7 +372,7 @@ train,1,129,74,60507228,Fantasia 2000 ,27543,186,English,G,80000000,1999,7.3,1.
 train,1,124,96,56684819,The Time Machine ,103787,615,English,PG13,80000000,2002,5.9,2.35,2,Action,3,0,0
 train,1,35,114,50628009,Mighty Joe Young ,22955,88,English,PG,90000000,1998,5.6,1.85,3,Action,5,1,0
 train,1,166,99,69772969,Swordfish ,155532,543,English,R,80000000,2001,6.5,2.35,3,Action,3,3,1
-train,1,137,129,45356386,The Legend of Zorro ,71574,244,Spanish,PG,75000000,2005,5.9,2.35,5,Action,3,0,0
+train,1,137,129,45356386,The Legend of Zorro ,71574,244,Other,PG,75000000,2005,5.9,2.35,5,Action,3,0,0
 train,1,87,90,39442871,Little Nicky ,80639,237,English,PG13,80000000,2000,5.3,1.85,4,Comedy,2,2,0
 train,1,233,118,37899638,The Brothers Grimm ,98472,492,English,PG13,88000000,2005,5.9,1.85,3,Action,5,1,0
 train,1,132,106,37754208,Mars Attacks! ,172217,405,English,PG13,70000000,1996,6.3,2.35,14,Action,3,1,1
@@ -520,7 +520,7 @@ train,1,176,118,85911262,Annie ,24735,213,English,PG,65000000,2014,5.2,2.39,3,C
 train,1,279,105,53846915,Focus ,149337,221,English,R,50100000,2015,6.6,1.85,2,Comedy,4,1,0
 train,1,241,103,54758461,This Means War ,147641,238,English,PG13,65000000,2012,6.3,2.35,6,Action,3,0,1
 train,1,185,122,52397389,Blade: Trinity ,132954,514,English,R,65000000,2004,5.9,2.35,2,Action,6,1,0
-train,1,97,114,47497107.51865177,Red Dawn ,41776,383,English,PG13,16900000,1984,6.4,1.85,3,Action,3,0,0
+train,1,97,114,4848749.789820923,Red Dawn ,41776,383,English,PG13,16900000,1984,6.4,1.85,3,Action,3,0,0
 train,1,94,121,33328051,The Long Kiss Goodnight ,60508,285,English,R,65000000,1996,6.7,2.35,14,Action,5,0,0
 train,1,134,135,32598931,Proof of Life ,49300,265,English,R,65000000,2000,6.2,2.35,6,Action,3,0,0
 train,1,136,101,28045540,Zathura: A Space Adventure ,67707,202,English,PG,65000000,2005,6.1,1.85,5,Action,6,2,0
@@ -614,7 +614,7 @@ train,1,127,90,11802056,Meet Dave ,31640,109,English,PG,60000000,2008,4.9,1.85,
 train,1,115,122,22362500,Edtv ,35599,195,English,PG13,55000000,1999,6.1,1.85,12,Comedy,2,1,0
 train,1,223,103,19781879,The Spirit ,53864,290,English,PG13,60000000,2008,4.8,2.35,3,Action,4,1,1
 train,1,54,127,4426297,Beyond Borders ,22570,156,English,R,35000000,2003,6.5,2.35,5,Adventure,4,1,0
-train,0,81,132,10166502,The Great Raid ,18209,183,Filipino,R,80000000,2005,6.7,2.35,4,Action,3,1,0
+train,0,81,132,10166502,The Great Raid ,18209,183,Other,R,80000000,2005,6.7,2.35,4,Action,3,1,0
 train,1,579,108,363024263,Deadpool ,479047,1058,English,R,58000000,2016,8.1,2.35,1,Action,5,1,0
 train,1,56,114,12065985,Holy Man ,16260,88,English,PG,60000000,1998,4.9,2.35,8,Comedy,2,1,0
 train,1,490,133,350123553,American Sniper ,325264,916,English,R,58800000,2014,7.3,2.35,20,Action,6,1,0
@@ -623,7 +623,7 @@ train,1,142,95,48291624,Just Like Heaven ,82819,263,English,PG13,58000000,2005,
 train,1,57,90,35231365,The Flintstones in Viva Rock Vegas ,15517,85,English,PG,60000000,2000,3.6,1.85,5,Comedy,4,0,0
 train,1,84,87,53715611,Rambo III ,92106,171,English,R,63000000,1988,5.7,2.35,1,Action,4,1,0
 train,1,186,114,31199215,Leatherheads ,27664,120,English,PG13,58000000,2008,6,1.85,5,Comedy,4,0,0
-train,1,53,119,9224898.380093988,The Ridiculous 6 ,27019,143,English,TV,28861155.458529163,2015,4.9,2.35,7,Comedy,2,2,0
+train,1,53,119,43488674.95660491,The Ridiculous 6 ,27019,143,English,TV,28861155.458529163,2015,4.9,2.35,7,Comedy,2,2,0
 train,1,133,103,29580087,Did You Hear About the Morgans? ,29523,121,English,PG13,58000000,2009,4.7,2.35,3,Comedy,3,0,0
 train,1,144,125,49875589,Red Tails ,28807,273,English,PG13,58000000,2012,5.9,2.35,1,Action,5,0,0
 train,1,117,136,60984028,The Devil's Advocate ,259519,431,English,R,57000000,1997,7.5,2.35,6,Drama,3,3,0
@@ -675,7 +675,7 @@ train,1,84,280,12870569,Gods and Generals ,13215,497,English,PG13,56000000,2003
 train,1,44,100,11466088,Turbulence ,8983,84,English,R,71000000,1997,4.7,2.35,1,Action,2,0,0
 train,1,93,107,16088610,Imagine That ,10417,39,English,PG,55000000,2009,5.6,2.35,1,Comedy,4,1,0
 train,1,197,119,39440655,Burlesque ,61680,222,English,PG13,55000000,2010,6.4,2.35,1,Drama,4,0,0
-train,1,66,96,15421033.160195498,Eye See You ,19706,142,English,R,55000000,2002,5.3,2.35,2,Crime,4,1,0
+train,1,66,96,38680292.933978416,Eye See You ,19706,142,English,R,55000000,2002,5.3,2.35,2,Crime,4,1,0
 train,1,224,117,81645152,Blade II ,158267,559,English,R,54000000,2002,6.7,1.85,4,Action,4,0,0
 train,1,202,123,69951824,Seven Pounds ,232710,599,English,PG13,55000000,2008,7.7,2.35,3,Drama,2,2,0
 train,1,279,92,9483821,Bullet to the Head ,39247,131,English,R,55000000,2012,5.7,1.85,4,Action,2,1,0
@@ -796,7 +796,7 @@ train,1,158,123,37339525,Out of Sight ,71708,307,English,R,48000000,1998,7,1.85
 train,1,72,96,60154431,The Cable Guy ,122347,345,English,PG13,47000000,1996,6,2.35,4,Comedy,3,1,0
 train,1,72,105,103738726,Dick Tracy ,47819,164,English,PG,100000000,1990,6.1,1.85,3,Action,6,0,0
 train,1,89,132,29781453,Riding in Cars with Boys ,22447,210,English,PG13,48000000,2001,6.4,1.85,4,Biography,3,0,0
-train,1,145,93,11410597.06165331,First Blood ,172489,376,English,R,14000000,1982,7.7,2.35,1,Action,3,1,0
+train,1,145,93,8359918.969096022,First Blood ,172489,376,English,R,14000000,1982,7.7,2.35,1,Action,3,1,0
 train,1,93,75,15519841,Happily N'Ever After ,8693,71,English,PG,47000000,2006,4.5,1.85,1,Adventure,5,0,0
 train,1,46,108,5600000,Mary Reilly ,11913,97,English,R,47000000,1996,5.8,1.85,2,Drama,4,1,0
 train,1,84,105,126805112,My Best Friend's Wedding ,98199,169,English,PG13,46000000,1997,6.3,2.35,1,Comedy,2,1,0
@@ -825,7 +825,7 @@ train,1,155,107,60786269,Coyote Ugly ,90539,379,English,PG13,45000000,2000,5.6,
 train,1,117,95,162792677,A Bug's Life ,211226,317,English,G,120000000,1998,7.2,2.35,5,Adventure,5,1,0
 train,1,208,122,31598308,From Hell ,124765,541,English,R,35000000,2001,6.8,2.35,3,Horror,3,1,1
 train,1,48,135,53854588,Tin Cup ,37911,73,English,R,45000000,1996,6.3,2.35,4,Comedy,4,0,0
-train,1,8,111,182446.43619270143,"Yours, Mine and Ours ",5888,61,English,Unrated,2500000,1968,7.2,1.85,1,Comedy,2,0,0
+train,1,8,111,33022924.240847155,"Yours, Mine and Ours ",5888,61,English,Unrated,2500000,1968,7.2,1.85,1,Comedy,2,0,0
 train,1,94,95,52580895,Kicking & Screaming ,30255,118,English,PG,45000000,2005,5.6,2.35,3,Comedy,4,3,0
 train,1,276,109,51019112,The Hitchhiker's Guide to the Galaxy ,155745,1053,English,PG,50000000,2005,6.8,2.35,1,Adventure,3,2,0
 train,1,59,93,48114556,Fat Albert ,9380,91,English,PG,26000000,2004,4.3,2.35,2,Comedy,4,0,0
@@ -928,7 +928,7 @@ train,1,70,98,54967359,Spawn ,52805,209,English,R,40000000,1997,5.2,1.85,1,Acti
 train,1,274,118,57981889,The Lincoln Lawyer ,173848,203,English,R,40000000,2011,7.3,2.35,2,Crime,3,1,0
 train,1,196,116,54414716,Horrible Bosses 2 ,114294,187,English,R,42000000,2014,6.3,2.35,4,Comedy,2,1,0
 train,1,83,89,57011847,Escape from Planet Earth ,20615,44,English,PG,40000000,2013,5.9,2.35,1,Adventure,5,1,0
-train,1,283,139,50859889,Apocalypto ,236000,1043,Maya,R,40000000,2006,7.8,1.85,3,Action,4,0,0
+train,1,283,139,50859889,Apocalypto ,236000,1043,Other,R,40000000,2006,7.8,1.85,3,Action,4,0,0
 train,1,351,107,52000688,Predators ,171418,619,English,R,40000000,2010,6.4,2.35,3,Action,4,0,0
 train,1,16,116,49851591,Legal Eagles ,7900,34,English,PG,40000000,1986,5.9,2.35,8,Comedy,3,0,0
 train,1,195,96,47781388,Secret Window ,147504,531,English,PG13,40000000,2004,6.6,2.35,4,Mystery,2,1,1
@@ -1084,7 +1084,7 @@ train,1,95,112,26494611,Blast from the Past ,48621,239,English,PG13,35000000,19
 train,1,164,102,25266129,Jersey Girl ,54346,358,English,PG13,35000000,2004,6.2,2.35,11,Comedy,3,2,0
 train,1,211,101,25863915,Alex Cross ,28257,151,English,PG13,35000000,2012,5.1,2.35,9,Action,4,0,0
 train,1,91,155,25078937,Midnight in the Garden of Good and Evil ,31751,216,English,R,30000000,1997,6.6,1.85,20,Crime,4,1,0
-train,1,44,93,33411509.521168865,Heist ,16193,57,English,R,19000000,2015,6.1,2.35,1,Action,3,1,1
+train,1,44,93,35077732.17568932,Heist ,16193,57,English,R,19000000,2015,6.1,2.35,1,Action,3,1,1
 train,1,32,140,24276500,Hoffa ,17124,68,English,R,35000000,1992,6.6,2.35,2,Biography,3,0,0
 train,1,270,108,20981633,The X Files: I Want to Believe ,78256,492,English,PG13,30000000,2008,5.9,2.35,1,Drama,4,0,0
 train,1,89,96,22913677,Ella Enchanted ,47800,244,English,PG,35000000,2004,6.3,1.85,2,Comedy,4,2,0
@@ -1122,7 +1122,7 @@ train,1,117,128,37432299,The Longest Ride ,50041,116,English,PG13,34000000,2015
 train,1,107,109,10654581,The Astronaut's Wife ,45497,260,English,R,34000000,1999,5.3,1.85,1,Drama,3,2,1
 train,1,52,114,6543194,I Dreamed of Africa ,3740,61,English,PG13,34000000,2000,5.6,2.35,1,Adventure,3,0,0
 train,1,135,105,13101142,Playing for Keeps ,23916,50,English,PG13,35000000,2012,5.7,2.35,3,Comedy,3,3,0
-train,1,57,195,37906773.56350119,Reds ,16255,127,English,PG,35000000,1981,7.5,1.85,3,Biography,4,0,0
+train,1,57,195,17939030.517861985,Reds ,16255,127,English,PG,35000000,1981,7.5,1.85,3,Biography,4,0,0
 train,1,81,138,141340178,A Few Good Men ,181879,319,English,R,40000000,1992,7.6,2.35,11,Drama,2,2,0
 train,1,107,101,51758599,Exit Wounds ,27580,232,English,R,33000000,2001,5.5,2.35,3,Action,5,1,0
 train,1,100,99,117559438,Big Momma's House ,66941,148,English,PG13,30000000,2000,5.1,1.85,6,Action,3,1,0
@@ -1148,7 +1148,7 @@ train,1,88,113,37911876,"Big Mommas: Like Father, Like Son ",19671,47,English,P
 train,1,522,93,54696902,Source Code ,379462,571,English,PG13,32000000,2011,7.5,1.85,2,Mystery,3,1,0
 train,1,43,120,36733909,Alive ,38949,112,English,R,32000000,1993,7.1,1.85,4,Adventure,4,0,0
 train,1,224,98,35063732,The Number 23 ,164608,383,English,R,32000000,2007,6.4,2.35,10,Mystery,2,0,0
-train,1,56,142,44954658.83765962,1941 ,25193,217,English,PG,35000000,1979,5.9,2.35,24,Action,3,1,0
+train,1,56,142,56956695.90417442,1941 ,25193,217,English,PG,35000000,1979,5.9,2.35,24,Action,3,1,0
 train,1,75,98,32701088,Dreamer: Inspired by a True Story ,10018,108,English,PG,32000000,2005,6.9,2.35,1,Drama,3,0,0
 train,1,441,96,31493782,A History of Violence ,186606,1125,English,R,32000000,2005,7.5,1.85,3,Crime,3,2,0
 train,1,163,121,16640210,Bringing Out the Dead ,53028,382,English,R,55000000,1999,6.8,2.35,20,Drama,2,1,0
@@ -1156,7 +1156,7 @@ train,1,197,119,13763130,Repo Men ,87768,187,English,R,32000000,2010,6.3,2.35,1
 train,1,15,110,4357000,Bogus ,5176,30,English,PG,30000000,1996,5.3,1.85,4,Comedy,3,0,0
 train,1,260,100,22525921,The Incredible Burt Wonderstone ,60596,158,English,PG13,30000000,2013,5.9,2.35,1,Comedy,1,3,0
 train,1,70,132,2899970,Cradle Will Rock ,8039,161,English,R,32000000,1999,6.9,2.35,1,Drama,1,1,0
-train,1,12,93,34253467.481790535,George and the Dragon ,3088,31,English,PG,32000000,2004,5.7,2.35,1,Action,5,0,0
+train,1,12,93,10953614.1656782,George and the Dragon ,3088,31,English,PG,32000000,2004,5.7,2.35,1,Action,5,0,0
 train,1,261,289,78800000,Apocalypse Now ,450676,983,English,R,31500000,1979,8.5,2.35,11,Drama,2,2,0
 train,1,42,143,82528097,Mr. Holland's Opus ,30230,154,English,PG,6500000,1995,7.3,2.35,8,Drama,2,0,0
 train,1,66,161,87100000,Out of Africa ,52339,200,English,PG,31000000,1985,7.2,1.85,4,Biography,3,1,0
@@ -1275,14 +1275,14 @@ train,1,117,131,3752725,The Merchant of Venice ,29715,161,English,R,18000000,20
 train,1,41,80,3101301,Supercross ,3926,38,English,PG13,27279071.023191605,2005,4,1.85,1,Action,4,1,0
 train,1,110,87,480314,DOA: Dead or Alive ,38503,180,English,PG13,21000000,2006,4.8,2.35,1,Action,2,0,0
 train,1,273,160,3904982,The Assassination of Jesse James by the Coward Robert Ford ,136104,415,English,R,30000000,2007,7.5,2.35,2,Biography,5,2,0
-train,1,130,92,17288.16835964959,Wild Card ,36487,114,English,R,30000000,2015,5.6,2.35,8,Action,4,1,1
+train,1,130,92,7189656.946387041,Wild Card ,36487,114,English,R,30000000,2015,5.6,2.35,8,Action,4,1,1
 train,1,134,129,537580,Machine Gun Preacher ,52972,124,English,R,30000000,2011,6.8,2.35,7,Action,4,1,0
-train,1,65,89,5598360.842396092,Sausage Party ,3302,14,English,R,19000000,2016,7.5,1.85,1,Adventure,4,2,0
+train,1,65,89,73938241.51109308,Sausage Party ,3302,14,English,R,19000000,2016,7.5,1.85,1,Adventure,4,2,0
 train,1,221,115,183436380,Pitch Perfect 2 ,97697,185,English,PG13,29000000,2015,6.5,1.85,2,Comedy,2,1,0
 train,1,291,153,119518352,Walk the Line ,188637,815,English,PG13,28000000,2005,7.9,2.39,8,Biography,4,0,0
 train,1,148,128,37036404,Keeping the Faith ,44816,259,English,PG13,30000000,2000,6.4,1.85,1,Comedy,3,0,0
 train,1,302,122,18593156,Frost/Nixon ,88682,241,English,R,35000000,2008,7.7,2.35,12,Drama,1,1,0
-train,1,181,113,48027384.77028716,Confessions of a Dangerous Mind ,71596,276,English,R,29000000,2002,7.1,2.35,5,Biography,6,0,0
+train,1,181,113,68668243.99743988,Confessions of a Dangerous Mind ,71596,276,English,R,29000000,2002,7.1,2.35,5,Biography,6,0,0
 train,1,154,99,63034755,The Boss ,16984,96,English,R,29000000,2016,5.3,1.85,2,Comedy,1,1,1
 train,1,161,94,6301131,The Jacket ,92850,263,English,R,29000000,2005,7.1,2.35,1,Drama,4,0,0
 train,1,124,90,217350219,Aladdin ,260939,244,English,G,28000000,1992,8,1.33,3,Adventure,7,1,1
@@ -1356,9 +1356,9 @@ train,1,200,113,54540525,New Year's Eve ,66579,134,English,PG13,56000000,2011,5
 train,1,265,110,16005978,The Raven ,72886,190,English,R,26000000,2012,6.4,2.35,4,Crime,3,0,0
 train,1,82,110,14469428,Welcome to Mooseport ,10667,95,English,PG13,26000000,2004,5.2,1.85,8,Comedy,2,1,0
 train,1,42,101,1075288,Blood and Wine ,7772,55,English,R,22000000,1996,6.1,1.85,2,Crime,3,1,0
-train,1,22,100,12497505.32571693,Snow White: A Tale of Terror ,8118,69,English,R,26000000,1997,6.3,1.85,1,Fantasy,2,0,0
+train,1,22,100,33287207.823760666,Snow White: A Tale of Terror ,8118,69,English,R,26000000,1997,6.3,1.85,1,Fantasy,2,0,0
 train,1,116,103,7496522,The Curse of the Jade Scorpion ,31798,178,English,PG13,26000000,2001,6.8,1.37,18,Comedy,4,1,0
-train,1,56,100,25207919.158991735,Accidental Love ,5006,28,English,PG13,26000000,2015,4,1.85,8,Comedy,2,1,0
+train,1,56,100,37789968.669152275,Accidental Love ,5006,28,English,PG13,26000000,2015,4,1.85,8,Comedy,2,1,0
 train,1,23,95,20047715,Flipper ,8008,26,English,PG,25530000,1996,5.2,2.35,1,Adventure,2,0,0
 train,1,178,117,12276810,Self/less ,57674,126,English,PG13,26000000,2015,6.5,2.35,4,Action,4,1,0
 train,1,57,125,219200000,Mrs. Doubtfire ,181380,223,English,PG13,25000000,1993,6.9,2.35,7,Comedy,4,1,1
@@ -1518,7 +1518,7 @@ train,1,22,143,5000000,Darling Lili ,1547,50,English,G,25000000,1970,6.2,2.35,1
 train,1,41,77,9694105,Dudley Do-Right ,8176,77,English,PG,22000000,1999,3.8,2.35,4,Comedy,3,1,0
 train,1,176,100,13746550,Hit and Run ,29322,104,English,R,2000000,2012,6.1,2.35,1,Action,3,1,0
 train,1,98,104,20668843,Mad Money ,16831,54,English,PG13,22000000,2008,5.8,2.35,2,Comedy,3,1,0
-train,1,84,92,51118191.02978878,Sorcerer ,9513,116,English,PG,12000000,1977,7.7,1.85,6,Adventure,3,0,0
+train,1,84,92,7153988.214276024,Sorcerer ,9513,116,English,PG,12000000,1977,7.7,1.85,6,Adventure,3,0,0
 train,1,138,105,1796024,Stone ,34985,135,English,R,22000000,2010,5.4,2.35,1,Drama,2,1,1
 train,1,288,116,11326836,Out of the Furnace ,83171,231,English,R,22000000,2013,6.8,2.35,3,Crime,3,2,1
 train,1,299,119,49024969,Michael Clayton ,133367,363,English,R,25000000,2007,7.3,2.35,3,Crime,4,1,0
@@ -1563,7 +1563,7 @@ train,1,64,118,56398162,Drumline ,28649,185,English,PG13,20000000,2002,5.7,2.35
 train,1,40,121,60072596,Why Did I Get Married Too? ,7664,68,English,PG13,20000000,2010,4.4,1.85,9,Comedy,3,0,0
 train,1,111,105,56362352,Edward Scissorhands ,357581,588,English,PG13,20000000,1990,7.9,1.85,14,Fantasy,2,1,1
 train,1,31,114,65623128,Madea's Witness Protection ,7354,50,English,PG13,20000000,2012,4.8,1.85,9,Comedy,3,0,0
-train,1,138,104,25380460.61307009,The French Connection ,82476,280,English,R,1800000,1971,7.8,1.85,6,Action,4,0,0
+train,1,138,104,33916016.95400354,The French Connection ,82476,280,English,R,1800000,1971,7.8,1.85,6,Action,4,0,0
 train,1,99,85,48546578,Date Movie ,50415,613,English,PG13,20000000,2006,2.7,1.85,1,Comedy,2,1,0
 train,1,80,72,48423368,Return to Never Land ,13324,79,English,G,20000000,2002,5.8,1.66,1,Adventure,4,0,0
 train,1,85,72,47887943,The Jungle Book 2 ,11634,58,English,G,20000000,2003,5.4,1.85,1,Adventure,4,0,0
@@ -1578,7 +1578,7 @@ train,1,131,137,39143839,The Grudge 2 ,38658,284,English,PG13,20000000,2006,5,1
 train,1,29,124,37672350,How Stella Got Her Groove Back ,5427,51,English,R,20000000,1998,5.5,1.85,3,Comedy,3,0,0
 train,1,43,93,38037513,Bill & Ted's Bogus Journey ,49680,117,English,PG,20000000,1991,6.2,1.85,3,Adventure,5,1,0
 train,1,111,115,37442180,Man of the Year ,28005,236,English,PG13,20000000,2006,6.2,2.35,13,Comedy,4,2,1
-train,1,90,98,11968198.477952652,The Black Hole ,18481,230,English,PG,20000000,1979,5.9,2.35,1,Action,2,0,0
+train,1,90,98,8011215.958983923,The Black Hole ,18481,230,English,PG,20000000,1979,5.9,2.35,1,Action,2,0,0
 train,1,333,105,35596227,The American ,79461,463,English,R,20000000,2010,6.3,2.35,1,Crime,3,0,0
 train,1,37,127,35422828,Selena ,19126,155,English,PG,20000000,1997,6.7,2.35,1,Biography,3,0,0
 train,1,156,103,34290142,This Is Where I Leave You ,54242,145,English,R,19800000,2014,6.6,2.35,11,Comedy,2,0,0
@@ -1587,7 +1587,7 @@ train,1,233,98,32774834,Team America: World Police ,136048,700,English,R,300000
 train,1,282,92,34334256,Texas Chainsaw 3D ,35131,255,English,R,11000000,2013,4.8,2.35,2,Horror,2,0,0
 train,1,57,123,32051917,Copycat ,42315,140,English,R,20000000,1995,6.6,2.35,4,Crime,4,0,0
 train,1,153,88,32014289,Scary Movie 5 ,50337,177,English,PG13,20000000,2013,3.5,1.85,7,Comedy,1,0,1
-train,1,20,158,58081686.35446678,Paint Your Wagon ,9352,106,English,PG13,20000000,1969,6.7,2.35,1,Comedy,5,1,0
+train,1,20,158,77781536.65056221,Paint Your Wagon ,9352,106,English,PG13,20000000,1969,6.7,2.35,1,Comedy,5,1,0
 train,1,324,128,31838002,Milk ,136673,281,English,R,20000000,2008,7.6,1.85,7,Biography,3,1,0
 train,1,122,107,36874745,Risen ,12276,117,English,PG13,20000000,2016,6.3,2.35,4,Action,4,0,0
 train,1,156,91,30079316,Ghost Ship ,75920,474,English,R,35000000,2002,5.5,1.85,2,Horror,1,0,0
@@ -1609,7 +1609,7 @@ train,1,114,104,20241395,Vampires ,42664,403,English,R,20000000,1998,6.1,2.35,9
 train,1,80,112,19151864,My Best Friend's Girl ,36983,100,English,R,40000000,2008,5.9,1.85,3,Comedy,2,0,0
 train,1,98,104,23393765,Endless Love ,31323,76,English,PG13,20000000,2014,6.3,2.35,2,Drama,2,1,0
 train,1,88,113,18882880,Georgia Rule ,20539,125,English,R,20000000,2007,5.9,2.35,8,Comedy,2,0,0
-train,1,52,121,5299061.700322077,Ladyhawke ,33597,185,English,PG13,20000000,1985,7,2.35,8,Adventure,4,1,0
+train,1,52,121,86720248.37683283,Ladyhawke ,33597,185,English,PG13,20000000,1985,7,2.35,8,Adventure,4,1,0
 train,1,60,114,18252684,Simon Birch ,18366,219,English,PG,30000000,1998,6.9,1.85,2,Comedy,3,1,0
 train,1,154,124,19661987,Reign Over Me ,83786,231,English,R,20000000,2007,7.5,2.35,3,Drama,1,2,0
 train,1,274,148,18352454,Into the Wild ,426359,760,English,R,15000000,2007,8.2,2.35,2,Adventure,3,2,0
@@ -1618,14 +1618,14 @@ train,1,165,108,25753840,From Dusk Till Dawn ,219091,592,English,R,19000000,199
 train,1,45,68,18081626,Pooh's Heffalump Movie ,4180,32,English,G,20000000,2005,6.4,1.85,1,Animation,4,0,0
 train,1,45,103,17518220,Home for the Holidays ,9105,76,English,PG13,20000000,1995,6.6,1.85,3,Comedy,3,1,1
 train,1,43,88,16988996,The Country Bears ,3875,75,English,G,35000000,2002,4,1.85,1,Comedy,4,1,0
-train,1,201,128,15797907,The Kite Runner ,68119,230,Dari,PG13,20000000,2007,7.6,2.35,7,Drama,1,0,0
+train,1,201,128,15797907,The Kite Runner ,68119,230,Other,PG13,20000000,2007,7.6,2.35,7,Drama,1,0,0
 train,1,192,124,16248701,21 Grams ,189683,559,English,R,20000000,2003,7.7,1.85,3,Drama,1,1,0
 train,1,77,84,15712072,Paparazzi ,13210,138,English,PG13,20000000,2004,5.8,2.35,1,Action,4,0,0
 train,1,81,101,15408822,A Guy Thing ,14147,92,English,PG13,20000000,2003,5.6,1.85,2,Comedy,2,1,0
 train,1,81,98,15464026,Loser ,23076,158,English,PG13,20000000,2000,5.3,1.85,4,Comedy,2,0,0
 train,1,222,105,14359793,Capitalism: A Love Story ,35137,188,English,R,20526933.452849027,2009,7.4,1.85,4,Crime,3,0,0
 train,1,27,225,8000000,The Greatest Story Ever Told ,6484,100,English,G,20000000,1965,6.6,2.76,1,Biography,3,1,0
-train,1,155,111,51186978.05571768,Secret in Their Eyes ,20186,81,English,PG13,19500000,2015,6.2,2.35,2,Crime,4,1,0
+train,1,155,111,39706309.21519525,Secret in Their Eyes ,20186,81,English,PG13,19500000,2015,6.2,2.35,2,Crime,4,1,0
 train,1,111,88,14174654,Disaster Movie ,74945,359,English,PG13,25000000,2008,1.9,1.85,4,Comedy,1,0,0
 train,1,107,88,15988876,Armored ,26236,110,English,PG13,27000000,2009,5.7,2.35,3,Action,3,0,1
 train,1,34,94,13801755,The Man Who Knew Too Little ,23928,100,English,PG,20000000,1997,6.6,1.85,4,Action,4,1,0
@@ -1645,7 +1645,7 @@ train,1,166,111,9525276,Death Sentence ,60156,299,English,R,20000000,2007,6.8,2
 train,1,160,99,8855646,Everybody's Fine ,49855,117,English,PG13,21000000,2009,7.2,2.35,4,Adventure,2,1,1
 train,1,53,91,8104069,Code Name: The Cleaner ,9785,26,English,PG13,20000000,2007,4.5,1.85,4,Action,3,0,0
 train,1,76,108,8054280,Connie and Carla ,6838,117,English,PG13,20000000,2004,6.3,1.85,2,Comedy,3,0,0
-train,1,15,154,19763651.829253446,Sweet Charity ,3454,64,English,G,20000000,1969,7,2.35,2,Comedy,5,0,0
+train,1,15,154,95632928.06392825,Sweet Charity ,3454,64,English,G,20000000,1969,7,2.35,2,Comedy,5,0,0
 train,1,401,148,8093318,Inherent Vice ,61935,242,English,R,20000000,2014,6.7,1.85,6,Comedy,5,0,0
 train,1,31,77,7382993,Doogal ,3851,114,English,G,20000000,2006,2.8,1.85,1,Adventure,5,0,0
 train,1,65,110,8888355,Battle of the Year ,7894,25,English,PG13,20000000,2013,5,1.85,1,Drama,2,0,0
@@ -1672,16 +1672,16 @@ train,1,140,101,578382,All Good Things ,41249,67,English,R,20218456.741085615,2
 train,1,9,107,305070,Rapa Nui ,3843,25,English,R,20000000,1994,6.4,2.35,4,Action,5,0,0
 train,1,138,107,1183354,Dylan Dog: Dead of Night ,13026,75,English,PG13,20000000,2010,5.1,2.35,1,Action,8,0,0
 train,1,92,110,263365,The Tempest ,6147,36,English,PG13,20000000,2010,5.4,2.35,3,Comedy,4,1,0
-train,1,121,7,38408959.9221962,The Touch ,118,303.7473714953271,English,Unknown,13000,2007,5.2,1.85,1,Other,2,0,0
-train,1,64,96,6433049.023606043,Survivor ,21833,101,English,PG13,20000000,2015,5.6,2.35,4,Action,3,0,0
-train,1,120,105,29495795.841468405,The Frozen Ground ,43879,133,English,R,27220000,2013,6.4,2.35,1,Crime,4,1,0
+train,1,121,7,25558922.90670067,The Touch ,118,303.7473714953271,English,Unknown,13000,2007,5.2,1.85,1,Other,2,0,0
+train,1,64,96,20701420.554541185,Survivor ,21833,101,English,PG13,20000000,2015,5.6,2.35,4,Action,3,0,0
+train,1,120,105,48781387.917132095,The Frozen Ground ,43879,133,English,R,27220000,2013,6.4,2.35,1,Crime,4,1,0
 train,1,92,236,184208848,Dances with Wolves ,186485,382,English,PG13,22000000,1990,8,2.35,3,Adventure,3,0,0
 train,1,286,97,100292856,Bad Teacher ,160418,296,English,R,20000000,2011,5.7,1.85,4,Comedy,1,0,0
 train,1,43,113,58571513,Sea of Love ,30213,112,English,R,19000000,1989,6.8,1.85,4,Crime,4,1,0
 train,1,69,95,51431160,A Cinderella Story ,62861,232,English,PG,20000000,2004,5.9,1.85,2,Comedy,3,1,0
 train,1,242,103,103001286,Scream ,222018,869,English,R,15000000,1996,7.2,2.35,10,Horror,2,0,0
 train,1,149,91,41867960,Thir13en Ghosts ,65512,478,English,R,20000000,2001,5.5,1.33,2,Horror,1,0,0
-train,1,253,146,189210921.5268153,The Shining ,610333,1320,English,R,19000000,1980,8.4,1.37,2,Drama,2,0,0
+train,1,253,146,55455607.70799054,The Shining ,610333,1320,English,R,19000000,1980,8.4,1.37,2,Drama,2,0,0
 train,1,198,116,210609762,Back to the Future ,732212,809,English,PG,19000000,1985,8.5,1.18,13,Adventure,3,0,0
 train,1,147,93,40846082,House on Haunted Hill ,45317,536,English,R,19000000,1999,5.6,1.37,1,Horror,3,0,0
 train,1,36,113,51697449,I Can Do Bad All by Myself ,8346,59,English,PG13,13000000,2009,4.1,1.85,9,Comedy,2,0,0
@@ -1691,7 +1691,7 @@ train,1,308,101,39103378,The Crazies ,93272,251,English,R,20000000,2010,6.5,2.3
 train,1,252,131,21483154,The Book Thief ,98741,236,English,PG13,19000000,2013,7.6,2.35,1,Drama,2,0,0
 train,1,102,129,8396942,Sex Drive ,72715,103,English,R,19000000,2008,6.5,1.85,4,Adventure,3,0,0
 train,1,134,100,12561,Leap Year ,71276,181,English,PG,19000000,2010,6.4,2.35,2,Comedy,2,1,0
-train,1,30,172,14636562.06038854,The Fall of the Roman Empire ,6156,91,English,Approved,19000000,1964,6.7,2.2,1,Drama,3,0,0
+train,1,30,172,100769002.96173322,The Fall of the Roman Empire ,6156,91,English,Approved,19000000,1964,6.7,2.2,1,Drama,3,0,0
 train,1,102,121,5308553,Won't Back Down ,5147,37,English,PG,20475164.121328805,2012,6.4,2.35,2,Drama,1,0,0
 train,1,10,92,2119994,The Nutcracker ,1153,15,English,G,19000000,1993,5.7,1.85,1,Other,3,0,0
 train,1,220,90,64255243,The Amityville Horror ,80903,518,English,R,19000000,2005,6,2.35,1,Drama,4,2,1
@@ -1722,7 +1722,7 @@ train,1,279,111,31471430,United 93 ,83374,828,English,R,15000000,2006,7.6,2.35,
 train,1,27,81,26906039,Spy Hard ,29621,76,English,PG13,18000000,1996,5.3,1.85,1,Action,2,0,0
 train,1,212,89,21378000,The Fog ,46492,335,English,R,1000000,1980,6.8,2.35,9,Fantasy,2,1,0
 train,1,110,106,43853424,Soul Surfer ,35514,114,English,PG,18000000,2011,7.1,2.35,2,Biography,4,1,0
-train,1,45,122,67764937.3032029,Catch-22 ,17277,124,English,R,18000000,1970,7.2,2.35,5,Comedy,3,0,0
+train,1,45,122,50205340.33827622,Catch-22 ,17277,124,English,R,18000000,1970,7.2,2.35,5,Comedy,3,0,0
 train,1,190,86,23993605,Observe and Report ,52467,248,English,R,18000000,2009,5.8,2.35,1,Comedy,3,0,0
 train,1,77,103,26400000,Conan the Destroyer ,62009,109,English,PG,18000000,1984,5.8,2.35,2,Action,3,0,0
 train,0,151,121,45250,Raging Bull ,235133,494,English,R,18000000,1980,8.3,1.85,20,Biography,3,1,1
@@ -1736,7 +1736,7 @@ train,1,54,91,16702864,Catch That Kid ,8023,49,English,PG,18000000,2004,5.2,1.8
 train,1,99,125,15561627,Life as a House ,39105,359,English,R,18000000,2001,7.5,2.35,4,Drama,1,0,0
 train,1,25,98,8000000,The Legend of the Lone Ranger ,1400,41,English,PG,18000000,1981,5,2.35,1,Action,3,0,0
 train,1,104,109,13491653,The Tailor of Panama ,23728,213,English,R,18000000,2001,6.1,2.35,3,Drama,2,2,0
-train,1,120,107,29999897.967986733,Blow Out ,27629,149,English,R,18000000,1981,7.4,2.35,10,Mystery,2,0,0
+train,1,120,107,46814722.42888836,Blow Out ,27629,149,English,R,18000000,1981,7.4,2.35,10,Mystery,2,0,0
 train,1,146,90,10494494,Getaway ,19586,109,English,PG13,18000000,2013,4.4,2.35,1,Action,3,0,0
 train,1,124,112,7837632,The Ice Storm ,46396,287,English,R,18000000,1997,7.5,1.85,7,Drama,1,0,0
 train,1,107,94,15155772,And So It Goes ,8895,48,English,PG13,18000000,2014,5.7,2.35,11,Comedy,3,0,0
@@ -1749,13 +1749,13 @@ train,1,40,99,5333658,Megaforce ,2541,54,English,PG,20000000,1982,3.5,1.85,1,Ac
 train,1,128,108,3203044,Anything Else ,25165,155,English,R,18000000,2003,6.4,2.35,18,Comedy,2,1,0
 train,1,70,93,3500000,The Wraith ,10082,100,English,R,2700000,1986,5.9,1.85,1,Action,5,0,0
 train,1,103,93,3419967,Metallica Through the Never ,13359,56,English,R,7302055.134664637,2013,7.2,2.35,3,Other,1,0,0
-train,1,184,87,65238144.90161304,Day of the Dead ,49669,419,English,Unrated,3500000,1985,7.2,1.85,5,Horror,1,0,0
+train,1,184,87,5207837.795918759,Day of the Dead ,49669,419,English,Unrated,3500000,1985,7.2,1.85,5,Horror,1,0,0
 train,1,256,119,121463226,Superbad ,422606,555,English,R,20000000,2007,7.6,1.85,3,Comedy,1,1,0
 train,1,44,103,90485233,Madea Goes to Jail ,9544,45,English,PG13,15658188.867786001,2009,4.1,1.85,9,Comedy,3,0,0
 train,1,97,98,58006147,Step Up 2: The Streets ,67653,108,English,PG13,23000000,2008,6.2,1.85,5,Drama,4,0,0
 train,1,142,80,51053787,Hoodwinked! ,45900,247,English,PG,17500000,2005,6.5,1.85,1,Action,5,2,0
 train,1,40,93,7017178,Black Nativity ,1633,17,English,PG,17500000,2013,4.4,2.35,3,Drama,4,0,0
-train,1,46,93,1815101.5111592528,The Prince ,13133,101,English,R,18000000,2014,4.6,2.35,1,Action,2,1,0
+train,1,46,93,6097397.807886903,The Prince ,13133,101,English,R,18000000,2014,4.6,2.35,1,Action,2,1,0
 train,1,38,116,325491,City of Ghosts ,4387,67,English,R,17500000,2002,6,1.85,1,Crime,3,0,0
 train,1,239,101,96471845,The Others ,268581,1109,English,PG13,17000000,2001,7.6,1.85,1,Fantasy,3,0,0
 train,1,250,154,85200000,Aliens ,488537,1076,English,R,18500000,1986,8.4,1.85,6,Action,3,0,0
@@ -1777,14 +1777,14 @@ train,1,81,89,12693621,They ,10885,271,English,PG13,17000000,2002,4.8,2.35,2,Ho
 train,1,37,89,15655665,Larry the Cable Guy: Health Inspector ,9104,112,English,PG13,4000000,2006,3.1,1.33,1,Comedy,2,0,0
 train,1,44,73,11634458,The Adventures of Elmo in Grouchland ,2045,37,English,G,17000000,1999,5.8,1.85,1,Adventure,5,0,0
 train,1,197,132,27154426,Brooklyn's Finest ,52852,138,English,R,17000000,2009,6.7,2.35,8,Crime,3,1,0
-train,1,15,154,73947163.38753664,55 Days at Peking ,4550,50,English,Unrated,9000000,1963,6.8,2.2,1,Action,5,0,0
+train,1,15,154,23604517.407939736,55 Days at Peking ,4550,50,English,Unrated,9000000,1963,6.8,2.2,1,Action,5,0,0
 train,1,543,96,54239856,Evil Dead ,125016,789,English,R,17000000,2013,6.5,2.35,1,Horror,1,0,0
 train,1,112,98,8662318,My Life in Ruins ,15033,75,English,PG13,17000000,2009,5.9,1.85,8,Comedy,2,0,0
 train,1,153,107,7156725,American Dreamz ,22639,217,English,PG13,19000000,2006,5.5,1.85,6,Comedy,2,2,0
 train,1,35,128,2694071,Bobby Jones: Stroke of Genius ,3222,64,English,PG,13244552.44812553,2004,6.7,2.35,2,Biography,4,0,0
 train,1,236,110,39825798,The Illusionist ,295375,645,English,PG13,16000000,2006,7.6,1.85,4,Drama,4,0,0
 train,1,50,102,2000000,Roar ,1275,27,English,PG,17000000,1981,6.4,2.35,1,Adventure,3,0,0
-train,1,41,91,2296944.3674847116,Damnation Alley ,3701,71,English,PG,17000000,1977,5.2,2.35,2,Sci-Fi,1,0,0
+train,1,41,91,21605979.92996632,Damnation Alley ,3701,71,English,PG,17000000,1977,5.2,2.35,2,Sci-Fi,1,0,0
 train,1,145,83,4930798,The Apparition ,16268,108,English,PG13,17000000,2012,4.1,2.35,1,Horror,2,0,0
 train,1,31,102,59847242,My Girl ,55895,115,English,PG13,16500000,1991,6.8,1.85,2,Comedy,4,1,0
 train,1,114,126,43848100,Wall Street ,119150,219,English,R,15000000,1987,7.4,1.85,10,Crime,2,0,0
@@ -1812,7 +1812,7 @@ train,1,64,88,14792779,Radio Days ,24256,91,English,PG,16000000,1987,7.6,1.85,1
 train,1,158,113,19057024,Remember Me ,113963,361,English,PG13,16000000,2010,7.2,1.85,1,Drama,2,0,1
 train,1,15,105,13854000,My Stepmother Is an Alien ,21079,55,English,PG13,20000000,1988,5.2,1.85,3,Comedy,3,1,0
 train,1,21,97,11540112,The Cookout ,2385,20,English,PG13,10941013.892706962,2004,3.6,1.85,1,Comedy,1,0,0
-train,1,42,108,9509451.86218334,Meteor ,5237,90,English,PG,16000000,1979,4.9,2.35,1,Action,4,1,0
+train,1,42,108,21017871.003673136,Meteor ,5237,90,English,PG,16000000,1979,4.9,2.35,1,Action,4,1,0
 train,1,65,112,4734235,Duets ,8217,123,English,R,15000000,2000,6,1.85,1,Comedy,3,0,0
 train,1,109,112,4839383,Hollywood Ending ,21613,148,English,PG13,16000000,2002,6.6,1.85,18,Comedy,2,1,0
 train,1,42,95,4193025,Detroit Rock City ,30682,194,English,R,15000000,1999,6.8,2.35,1,Comedy,2,1,0
@@ -1821,7 +1821,7 @@ train,1,36,97,1686429,Steel ,8687,62,English,PG13,16000000,1997,2.8,1.85,1,Acti
 train,1,230,120,1984743,The Immigrant ,20616,70,English,R,16000000,2013,6.6,2.35,4,Drama,2,0,0
 train,1,75,92,13922211,Soul Plane ,18271,150,English,R,16000000,2004,4.4,1.85,1,Comedy,1,0,0
 train,1,54,92,2964,Vamps ,7444,42,English,PG13,16000000,2012,5.1,1.78,4,Comedy,3,0,0
-train,1,84,93,30699872.958095625,Hachi: A Dog's Tale ,155249,304,English,G,16000000,2009,8.1,1.85,8,Drama,2,0,0
+train,1,84,93,13242077.68989154,Hachi: A Dog's Tale ,155249,304,English,G,16000000,2009,8.1,1.85,8,Drama,2,0,0
 train,1,208,122,2428883,The Homesman ,21370,132,English,R,16000000,2014,6.6,2.35,1,Drama,2,0,0
 train,1,32,91,13571817,Juwanna Mann ,5312,40,English,PG13,15600000,2002,4.5,1.85,1,Comedy,4,1,0
 train,1,21,94,508867,Madison ,1033,26,English,PG,5554202.8056624215,2001,6.5,2.35,1,Drama,2,1,0
@@ -1903,7 +1903,7 @@ train,1,71,118,9059588,Dark Blue ,17261,125,English,R,15000000,2002,6.6,2.35,4,
 train,1,190,108,9172810,A Mighty Heart ,24150,118,English,R,16000000,2007,6.7,2.35,2,Biography,5,1,0
 train,1,50,94,8735529,Whatever It Takes ,8055,89,English,PG13,15000000,2000,5.5,1.85,3,Comedy,3,1,0
 train,1,63,97,8586376,Boat Trip ,26598,132,English,R,20000000,2002,4.9,1.85,1,Comedy,1,2,0
-train,1,121,99,41619286.17853059,The Love Letter ,1465,56,English,Unrated,8788877.196069164,1998,7.4,1.33,1,Fantasy,2,0,0
+train,1,121,99,5004516.461264378,The Love Letter ,1465,56,English,Unrated,8788877.196069164,1998,7.4,1.33,1,Fantasy,2,0,0
 train,1,49,91,8080116,Hoot ,6562,66,English,PG,15000000,2006,5.6,1.85,1,Adventure,3,0,0
 train,1,43,95,9123834,Peeples ,4065,33,English,PG13,15000000,2013,5.3,2.35,1,Comedy,2,0,0
 train,1,132,102,6409206,The Rocker ,32311,104,English,PG13,15000000,2008,6.2,1.85,1,Comedy,2,2,0
@@ -1925,7 +1925,7 @@ train,1,222,115,66009973,Magic Mike XXL ,38202,135,English,R,14800000,2015,5.7,
 train,1,106,120,46338728,Romeo + Juliet ,167750,506,English,PG13,14500000,1996,6.8,2.35,2,Drama,2,1,1
 train,1,131,131,101157447,Unforgiven ,277505,495,English,R,14400000,1992,8.3,2.35,20,Drama,2,2,0
 train,1,94,119,156645693,Fatal Attraction ,55101,201,English,R,14000000,1987,6.9,1.85,4,Drama,3,0,0
-train,1,22,101,8601849.159189599,Broken Horses ,1554,20,English,R,15000000,2015,5.7,2.35,1,Action,5,0,0
+train,1,22,101,6383.762885437895,Broken Horses ,1554,20,English,R,15000000,2015,5.7,2.35,1,Action,5,0,0
 train,1,72,145,70001698,Born on the Fourth of July ,76842,173,English,R,14000000,1989,7.2,2.35,10,Biography,3,1,0
 train,0,39,98,68856263,Cool Runnings ,69733,97,English,PG,15000000,1993,6.9,1.85,7,Adventure,4,0,0
 train,1,101,99,38048637,Urban Legend ,47814,426,English,R,14000000,1998,5.5,2.35,2,Horror,3,0,0
@@ -1935,12 +1935,12 @@ train,1,43,81,30628981,Superstar ,15047,160,English,PG13,14000000,1999,5,1.85,2
 train,1,38,82,25571351,Jonah: A VeggieTales Movie ,3135,78,English,G,14000000,2002,6.6,1.85,2,Adventure,6,0,0
 train,1,40,95,25482931,All About the Benjamins ,9693,33,English,R,14000000,2002,5.7,2.35,2,Action,4,1,0
 train,1,34,100,19900000,Vampire in Brooklyn ,17262,53,English,R,20000000,1995,4.5,1.85,10,Comedy,4,0,0
-train,1,82,118,75291314.45563968,Exorcist II: The Heretic ,16294,252,English,R,14000000,1977,3.7,1.85,3,Horror,1,0,0
+train,1,82,118,14305389.97801565,Exorcist II: The Heretic ,16294,252,English,R,14000000,1977,3.7,1.85,3,Horror,1,0,0
 train,1,56,90,15549702,My Boss's Daughter ,24038,123,English,PG13,14000000,2003,4.6,1.85,5,Comedy,2,0,0
 train,1,160,108,15483540,A Perfect Getaway ,56338,215,English,R,14000000,2009,6.5,2.35,4,Adventure,3,1,1
 train,1,71,103,20246959,Our Family Wedding ,5721,20,English,PG13,14000000,2010,4.9,2.35,4,Comedy,2,0,0
 train,1,37,96,15062898,Dead Man on Campus ,11729,106,English,R,14000000,1998,6,1.85,1,Comedy,1,0,0
-train,1,59,136,20202870.576953672,"New York, New York ",13548,75,English,PG,14000000,1977,6.7,1.66,20,Drama,4,1,1
+train,1,59,136,13846010.432314975,"New York, New York ",13548,75,English,PG,14000000,1977,6.7,1.66,20,Drama,4,1,1
 train,1,25,115,13640000,Crooklyn ,6011,39,English,PG13,14000000,1994,6.9,1.85,16,Comedy,2,2,0
 train,1,97,94,12550242,I Think I Love My Wife ,13866,55,English,R,16457081.1408548,2007,5.5,1.85,3,Comedy,3,1,0
 train,1,205,85,12610731,Jason X ,38985,673,English,R,11000000,2001,4.4,1.85,1,Action,4,0,0
@@ -1983,7 +1983,7 @@ train,1,242,112,22858926,Being John Malkovich ,254404,840,English,R,13000000,19
 train,1,40,90,22235901,Two Can Play That Game ,4339,31,English,R,6000000,2001,6.1,1.85,2,Comedy,2,1,0
 train,1,112,91,38916903,Earth to Echo ,15664,149,English,PG,13000000,2014,5.8,1.85,2,Adventure,3,0,0
 train,1,84,135,16929123,Crazy/Beautiful ,21406,169,English,PG13,14000000,2001,6.5,1.85,3,Drama,2,2,0
-train,1,251,141,13753931,Letters from Iwo Jima ,132149,316,Japanese,R,19000000,2006,7.9,2.35,20,Drama,3,0,0
+train,1,251,141,13753931,Letters from Iwo Jima ,132149,316,Other,R,19000000,2006,7.9,2.35,20,Drama,3,0,0
 train,1,113,104,10996440,The Astronaut Farmer ,19707,128,English,PG,13000000,2006,6.3,2.35,4,Adventure,3,2,1
 train,1,52,95,7881335,Serial Mom ,21212,107,English,R,13000000,1994,6.7,1.66,2,Comedy,3,0,0
 train,1,39,99,5871603,Light It Up ,3116,39,English,R,13000000,1999,6,1.85,1,Drama,2,1,0
@@ -1997,15 +1997,15 @@ train,1,364,102,17738570,The Perks of Being a Wallflower ,351274,457,English,PG
 train,1,19,87,1200000,Excessive Force ,922,23,English,R,3000000,1993,5.1,1.85,1,Action,1,0,0
 train,1,129,118,1150403,Infamous ,14143,102,English,R,13000000,2006,7.1,1.85,2,Biography,3,0,0
 train,1,93,91,1712111,The Vatican Tapes ,7199,53,English,PG13,8495000,2015,4.5,1.85,5,Horror,2,1,0
-train,1,110,127,301305,In the Land of Blood and Honey ,31414,180,Bosnian,R,13000000,2011,4.3,2.35,3,Drama,3,0,0
+train,1,110,127,301305,In the Land of Blood and Honey ,31414,180,Other,R,13000000,2011,4.3,2.35,3,Drama,3,0,0
 train,1,285,94,51872378,The Call ,88241,266,English,R,13000000,2013,6.7,1.85,3,Crime,2,0,0
 train,1,83,109,14060950,The Emperor's Club ,14354,139,English,PG13,12500000,2002,6.9,1.85,2,Drama,1,0,0
 train,1,122,121,12281500,True Romance ,163492,460,English,R,13000000,1993,8,2.35,10,Action,5,3,0
 train,1,120,100,10725228,Glengarry Glen Ross ,75675,365,English,R,12500000,1992,7.8,2.35,3,Crime,3,2,0
 train,1,225,109,214966,The Killer Inside Me ,28483,176,English,R,13000000,2010,6.1,2.35,2,Crime,3,0,0
-train,1,130,93,102095744.8489705,Cat People ,14193,106,English,R,18000000,1982,6.1,1.85,4,Fantasy,3,1,0
+train,1,130,93,60809383.93295136,Cat People ,14193,106,English,R,18000000,1982,6.1,1.85,4,Fantasy,3,1,0
 train,1,167,101,11956207,Sorority Row ,24012,126,English,R,16000000,2009,5.1,2.35,1,Horror,2,0,0
-train,0,7,101,63957494.85880984,The Prisoner of Zenda ,3256,44,English,Approved,4503301.229983491,1937,7.8,1.37,1,Adventure,3,0,0
+train,0,7,101,31910379.39390439,The Prisoner of Zenda ,3256,44,English,Approved,4503301.229983491,1937,7.8,1.37,1,Adventure,3,0,0
 train,1,226,106,5949693,Lars and the Real Girl ,114762,299,English,PG13,12000000,2007,7.4,1.85,4,Comedy,3,1,1
 train,1,28,132,1508689,Oscar and Lucinda ,5648,50,English,R,16000000,1997,6.7,2.35,2,Drama,2,1,0
 train,1,48,99,1227324,The Funeral ,6921,48,English,R,12500000,1996,6.6,1.85,1,Crime,2,0,0
@@ -2026,7 +2026,7 @@ train,1,140,154,39647595,Jackie Brown ,239540,462,English,R,12000000,1997,7.5,1
 train,1,414,89,64572496,Chronicle ,204327,471,English,PG13,12000000,2012,7.1,1.85,2,Drama,3,0,0
 train,1,111,93,37188667,Crossroads ,34219,578,English,PG13,12000000,2002,3.3,1.85,2,Comedy,2,0,0
 train,1,229,93,54724272,Project X ,157051,261,English,R,12000000,2012,6.7,1.85,1,Comedy,2,0,0
-train,1,112,172,23587216.629960466,Patton ,76398,258,English,PG,12000000,1970,8,2.2,2,Biography,3,0,0
+train,1,112,172,2904031.803833533,Patton ,76398,258,English,PG,12000000,1970,8,2.2,2,Biography,3,0,0
 train,1,207,96,31597131,One Hour Photo ,97938,605,English,R,12000000,2002,6.8,1.85,1,Drama,2,2,1
 train,1,198,89,31691811,Quarantine ,57446,369,English,R,12000000,2008,6,1.85,4,Horror,3,1,1
 train,1,172,92,31397498,The Eye ,44130,156,English,PG13,12000000,2008,5.4,2.35,1,Horror,2,1,0
@@ -2038,7 +2038,7 @@ train,1,68,93,25240988,Katy Perry: Part of Me ,12383,50,English,PG,12000000,201
 train,1,326,133,124868837,The Fault in Our Stars ,249688,548,English,PG13,12000000,2014,7.8,1.85,1,Drama,2,0,0
 train,1,128,121,22905674,Rounders ,121676,290,English,R,12000000,1998,7.4,2.35,4,Crime,2,2,0
 train,1,161,102,25277561,Top Five ,21672,93,English,R,12000000,2014,6.5,2.35,3,Comedy,2,1,0
-train,1,70,102,23535464.7294287,Prophecy ,3000,75,English,PG,12000000,1979,5.4,2.35,3,Horror,2,0,0
+train,1,70,102,2981102.0673699086,Prophecy ,3000,75,English,PG,12000000,1979,5.4,2.35,3,Horror,2,0,0
 train,1,164,99,21133087,Stir of Echoes ,62468,374,English,R,12000000,1999,7,1.85,4,Horror,3,0,0
 train,1,125,118,18761993,The Upside of Anger ,19007,219,English,R,9000000,2005,6.9,2.35,3,Comedy,2,0,0
 train,1,66,104,18595716,Aquamarine ,30462,150,English,PG,12000000,2006,5.3,1.85,2,Comedy,4,0,0
@@ -2052,7 +2052,7 @@ train,1,11,93,13960203,How to Be a Player ,2301,15,English,R,7351684.187250006,
 train,1,24,100,12902790,Living Out Loud ,4052,88,English,R,12000000,1998,6.6,2.35,4,Comedy,3,0,0
 train,1,70,100,21520719,Just Wright ,10103,36,English,PG,16914004.649484355,2010,5.8,2.35,2,Comedy,3,0,0
 train,1,232,113,12796277,Rachel Getting Married ,41226,281,English,R,26930923.427035637,2008,6.7,1.85,5,Drama,2,1,0
-train,1,34,122,5285.079429880184,The Postman Always Rings Twice ,16764,48,English,R,12000000,1981,6.6,1.85,2,Crime,4,1,0
+train,1,34,122,26578805.925720405,The Postman Always Rings Twice ,16764,48,English,R,12000000,1981,6.6,1.85,2,Crime,4,1,0
 train,1,288,107,7918283,Arbitrage ,41574,145,English,R,12000000,2012,6.6,1.85,1,Drama,2,0,0
 train,1,177,106,22331028,Project Almanac ,57349,177,English,PG13,12000000,2015,6.4,2.35,1,Sci-Fi,2,0,0
 train,1,81,109,8134217,Cadillac Records ,15412,90,English,R,12000000,2008,7,2.35,1,Biography,3,0,0
@@ -2069,7 +2069,7 @@ train,1,72,86,333976,Welcome to Collinwood ,12559,90,English,R,12000000,2002,6.
 train,1,78,90,303439,The Life Before Her Eyes ,12125,78,English,R,8000000,2007,6.4,2.35,2,Drama,3,0,0
 train,1,57,103,793352,Darling Companion ,2551,25,English,PG13,17729689.83721866,2012,5.1,2.35,5,Comedy,3,1,0
 train,1,42,110,175370,Breakfast of Champions ,6884,133,English,R,12000000,1999,4.6,1.85,1,Comedy,1,1,0
-train,1,82,95,65531750.44994878,Cypher ,27052,124,English,R,7500000,2002,6.8,1.85,1,Mystery,4,0,0
+train,1,82,95,20921994.604656197,Cypher ,27052,124,English,R,7500000,2002,6.8,1.85,1,Mystery,4,0,0
 train,1,1,111,14616,10 Days in a Madhouse ,314,10,English,R,12000000,2015,7.5,1.85,1,Drama,1,0,0
 train,1,82,99,91443253,Heaven Is for Real ,21034,153,English,PG,12000000,2014,5.8,2.35,4,Biography,2,0,0
 train,1,98,103,57469179,Pet Sematary ,63855,248,English,R,11500000,1989,6.6,1.85,2,Fantasy,2,0,0
@@ -2086,11 +2086,11 @@ train,1,57,107,49797148,Major League ,49007,97,English,R,11000000,1989,7.2,1.85
 train,1,216,81,46563158,Phone Booth ,207934,629,English,R,13000000,2002,7.1,2.35,10,Crime,2,0,0
 train,1,80,101,41227069,A Walk to Remember ,162701,962,English,PG,11000000,2002,7.4,2.35,6,Drama,2,0,0
 train,1,101,97,38201895,Cruel Intentions ,149222,749,English,R,10500000,1999,6.9,1.85,3,Drama,2,0,0
-train,1,48,92,21834304.69528838,History of the World: Part I ,36559,131,English,R,11000000,1981,6.9,2.35,6,Comedy,1,0,0
+train,1,48,92,38541656.06688899,History of the World: Part I ,36559,131,English,R,11000000,1981,6.9,2.35,6,Comedy,1,0,0
 train,1,109,110,37766350,The Secret Life of Bees ,19440,56,English,PG13,11000000,2008,7.3,2.35,2,Drama,1,0,0
 train,1,62,86,23978402,Corky Romano ,10966,100,English,PG13,11000000,2001,4.6,1.85,1,Comedy,2,0,0
 train,1,33,91,21370057,Raising Cain ,9903,80,English,R,12000000,1992,6,1.85,10,Crime,3,0,0
-train,1,20,145,59669339.522845306,F.I.S.T. ,5561,35,English,PG,11000000,1978,6.4,1.85,4,Drama,1,1,0
+train,1,20,145,18831208.694076087,F.I.S.T. ,5561,35,English,PG,11000000,1978,6.4,1.85,4,Drama,1,1,0
 train,1,52,100,4884663,Invaders from Mars ,5187,64,English,PG,12000000,1986,5.5,2.35,4,Horror,2,0,0
 train,1,37,89,13903262,Out Cold ,14656,90,English,PG13,11000000,2001,6.3,1.85,1,Comedy,2,1,0
 train,1,58,84,13592872,The Ladies Man ,10777,79,English,R,11000000,2000,5.1,1.85,2,Comedy,1,1,0
@@ -2101,22 +2101,22 @@ train,1,80,118,9170214,What's Eating Gilbert Grape ,171882,292,English,PG13,110
 train,1,15,113,2832826,The Perez Family ,1761,19,English,R,11000000,1995,6.2,1.85,4,Comedy,3,2,0
 train,1,92,95,16017403,O ,17333,153,English,R,5000000,2001,6.2,1.85,1,Drama,3,2,0
 train,1,14,102,2807854,Return to the Blue Lagoon ,14129,39,English,PG13,11000000,1991,5.1,1.85,1,Adventure,3,0,0
-train,1,13,124,16437514.750496898,The Molly Maguires ,2603,36,English,PG,11000000,1970,6.9,2.35,2,Drama,2,0,0
+train,1,13,124,11975801.499159358,The Molly Maguires ,2603,36,English,PG,11000000,1970,6.9,2.35,2,Drama,2,0,0
 train,1,87,105,540085,Romance & Cigarettes ,10052,69,English,R,19916393.097259495,2005,6.3,2.35,1,Comedy,3,2,0
 train,1,78,104,352786,Copying Beethoven ,11132,86,English,PG13,11000000,2006,6.8,2.35,1,Biography,3,0,0
 train,1,160,95,56729973,Saw V ,88529,262,English,R,10800000,2008,5.8,1.85,2,Horror,2,0,0
-train,1,54,97,14800164.30679023,LOL ,45144,111,English,PG13,11000000,2012,4.3,2.35,1,Comedy,3,0,0
+train,1,54,97,72710269.44479968,LOL ,45144,111,English,PG13,11000000,2012,4.3,2.35,1,Comedy,3,0,0
 train,1,108,103,22160085,Darkness ,16747,349,English,PG13,10600000,2002,5.4,2.35,1,Horror,1,0,0
 train,1,215,120,434949459,E.T. the Extra-Terrestrial ,281842,515,English,PG,10500000,1982,7.9,1.85,24,Other,2,0,0
 train,1,81,97,11043445,In the Land of Women ,27689,74,English,PG13,10000000,2007,6.5,2.35,1,Comedy,3,1,0
-train,1,38,106,3574187.2088574166,Misconduct ,6935,50,English,R,11000000,2016,5.3,2.35,1,Drama,2,2,0
+train,1,38,106,5284692.774337523,Misconduct ,6935,50,English,R,11000000,2016,5.3,2.35,1,Drama,2,2,0
 train,1,52,117,85300000,Stripes ,48629,134,English,R,10000000,1981,6.9,1.85,8,Action,3,1,0
 train,1,139,98,68353550,Bring It On ,70141,385,English,PG13,10000000,2000,5.9,1.85,4,Comedy,2,1,0
 train,1,96,95,63319509,She's All That ,67115,389,English,PG13,10000000,1999,5.8,1.85,3,Comedy,2,1,1
 train,1,190,96,63270259,Saw IV ,111087,319,English,R,10000000,2007,5.9,1.85,5,Horror,2,0,0
 train,1,46,107,63231524,Madea's Family Reunion ,8962,137,English,PG13,6000000,2006,5,1.85,9,Comedy,3,0,0
 train,1,59,119,52293982,The Color of Money ,57831,115,English,R,13800000,1986,7,1.85,20,Drama,2,2,0
-train,0,53,178,48778959.98669981,The Longest Day ,43270,192,English,G,10000000,1962,7.8,2.35,1,Action,4,0,0
+train,0,53,178,43691277.223060295,The Longest Day ,43270,192,English,G,10000000,1962,7.8,2.35,1,Action,4,0,0
 train,1,22,100,50752337,The Mighty Ducks ,44502,46,English,PG,10000000,1992,6.4,1.85,8,Comedy,4,0,0
 train,1,203,98,110175871,The Grudge ,115050,911,English,PG13,10000000,2004,5.9,1.85,2,Horror,3,0,0
 train,1,77,92,38624000,Happy Gilmore ,156143,289,English,PG13,12000000,1996,7,1.85,9,Comedy,2,1,0
@@ -2136,14 +2136,14 @@ train,1,86,85,28563926,Swimfan ,16300,217,English,PG13,8500000,2002,5,2.35,2,Dr
 train,1,85,103,28435406,Employee of the Month ,37681,151,English,PG13,12000000,2006,5.5,1.85,1,Comedy,2,0,0
 train,1,76,100,25339117,Can't Hardly Wait ,37885,247,English,PG13,10000000,1998,6.5,1.85,1,Comedy,2,0,0
 train,1,60,114,25600000,The Outsiders ,57363,308,English,PG13,10000000,1983,7.2,2.35,11,Crime,2,1,0
-train,1,112,103,67623383.3001161,The Dead Zone ,44804,182,English,R,10000000,1983,7.2,1.85,3,Horror,3,0,0
+train,1,112,103,32292967.965463568,The Dead Zone ,44804,182,English,R,10000000,1983,7.2,1.85,3,Horror,3,0,0
 train,1,189,97,27736779,Sinister 2 ,25210,126,English,R,10000000,2015,5.2,2.35,1,Horror,3,0,0
 train,1,82,116,24397469,Sparkle ,5161,48,English,PG13,17000000,2012,5.7,2.35,2,Drama,2,1,0
 train,1,120,96,20384136,Valentine ,20467,371,English,R,10000000,2001,4.7,2.35,2,Horror,3,0,0
 train,1,183,98,25464480,The Fourth Kind ,63108,330,English,PG13,10000000,2009,5.9,2.35,1,Mystery,3,0,0
 train,1,211,105,20338609,A Prairie Home Companion ,19655,280,English,PG13,10000000,2006,6.8,2.35,1,Comedy,3,1,0
 train,0,14,123,18272447,Sugar Hill ,3119,35,English,R,10000000,1993,5.9,1.85,1,Drama,2,0,0
-train,1,54,107,23366579.549937632,Invasion U.S.A. ,6143,90,English,R,10000000,1985,5.3,1.85,2,Action,2,0,0
+train,1,54,107,34202334.02519473,Invasion U.S.A. ,6143,90,English,R,10000000,1985,5.3,1.85,2,Action,2,0,0
 train,1,55,112,17378977,Roll Bounce ,5585,75,English,PG13,17627006.497817855,2005,6,2.35,7,Comedy,4,0,0
 train,1,179,93,17096053,Rushmore ,134458,640,English,R,9000000,1998,7.7,2.35,7,Comedy,2,1,0
 train,1,221,97,21371425,Skyline ,76199,944,English,PG13,10000000,2010,4.4,2.35,2,Action,3,0,0
@@ -2168,7 +2168,7 @@ train,1,144,89,10824921,Office Space ,200293,621,English,R,10000000,1999,7.8,1.
 train,1,325,106,14479776,Big Eyes ,55539,147,English,PG13,10000000,2014,7,1.85,14,Biography,4,0,0
 train,1,100,100,9801782,Very Bad Things ,39331,481,English,R,10000000,1998,6.3,1.85,6,Comedy,3,1,0
 train,1,52,89,8070311,Sleepover ,12706,75,English,PG,10000000,2004,5.3,1.85,3,Comedy,2,1,0
-train,1,98,114,9993106.160196342,Body Double ,20113,178,English,R,10000000,1984,6.8,1.85,10,Mystery,2,0,0
+train,1,98,114,280118.2483480716,Body Double ,20113,178,English,R,10000000,1984,6.8,1.85,10,Mystery,2,0,0
 train,1,163,95,8460995,MacGruber ,35888,125,English,R,10000000,2010,5.5,2.35,1,Action,3,0,0
 train,1,180,94,8828771,Movie 43 ,79146,352,English,R,6000000,2013,4.3,1.85,2,Comedy,1,2,1
 train,1,100,95,7563670,Over Her Dead Body ,21268,53,English,PG13,10000000,2008,5.2,2.35,1,Comedy,3,1,0
@@ -2178,7 +2178,7 @@ train,1,147,82,6842058,The Collection ,36029,99,English,R,10000000,2012,6.1,2.3
 train,1,33,74,6491350,Teacher's Pet ,1231,26,English,PG,10000000,2004,5.8,1.85,1,Animation,5,0,0
 train,1,38,96,6044618,Deuces Wild ,6200,92,English,R,10000000,2002,5.6,2.35,1,Action,3,1,0
 train,1,126,89,7764027,Bad Words ,38459,119,English,R,10000000,2013,6.7,2.35,1,Comedy,2,0,0
-train,1,19,78,32410172.676333304,Heartbeeps ,1040,31,English,PG,10000000,1981,4.2,2.35,1,Comedy,2,0,0
+train,1,19,78,81006295.82927643,Heartbeeps ,1040,31,English,PG,10000000,1981,4.2,2.35,1,Comedy,2,0,0
 train,1,91,121,21569041,Black or White ,8058,57,English,PG13,9000000,2014,6.6,2.35,3,Drama,1,0,0
 train,1,46,85,4356743,On the Line ,3662,79,English,PG,16000000,2001,4.1,1.85,2,Comedy,3,0,0
 train,1,182,83,4244155,"Jeff, Who Lives at Home ",56005,112,English,R,10000000,2011,6.5,1.85,3,Comedy,2,1,0
@@ -2205,16 +2205,16 @@ train,1,29,86,15447,An Alan Smithee Film: Burn Hollywood Burn ,2971,85,English,
 train,1,23,91,19348,The Open Road ,2941,11,English,PG13,10000000,2009,5.5,2.35,1,Comedy,2,1,0
 train,1,22,90,100503,The Good Guy ,7759,20,English,R,8000000,2009,5.9,1.85,1,Comedy,2,0,0
 train,1,43,90,92900,Motherhood ,3662,23,English,PG13,5000000,2009,4.7,1.85,1,Comedy,2,0,0
-train,1,4,85,32056628.624098815,The Janky Promoters ,1097,10,English,R,8801289.00878883,2009,5.2,1.85,2,Comedy,3,1,0
+train,1,4,85,3058837.9371487075,The Janky Promoters ,1097,10,English,R,8801289.00878883,2009,5.2,1.85,2,Comedy,3,1,0
 train,1,20,93,5561,Blonde Ambition ,4995,34,English,PG13,10000000,2007,3.9,1.85,2,Comedy,2,0,0
-train,1,62,99,447462.89478229213,White Noise 2: The Light ,11285,82,English,PG13,10000000,2007,5.7,2.35,4,Drama,4,0,0
-train,1,32,90,43418399.7422886,The Devil's Tomb ,5715,60,English,R,10000000,2009,3.8,1.85,1,Action,3,0,0
-train,1,129,84,3904061.2110247044,Nurse 3D ,7286,75,English,R,10000000,2013,4.6,2.35,2,Horror,2,0,0
+train,1,62,99,43420910.69977805,White Noise 2: The Light ,11285,82,English,PG13,10000000,2007,5.7,2.35,4,Drama,4,0,0
+train,1,32,90,1912891.4082249915,The Devil's Tomb ,5715,60,English,R,10000000,2009,3.8,1.85,1,Action,3,0,0
+train,1,129,84,6779058.108857267,Nurse 3D ,7286,75,English,R,10000000,2013,4.6,2.35,2,Horror,2,0,0
 train,1,248,107,16025394,Adventureland ,131180,220,English,R,37252644.63294615,2009,6.8,1.85,3,Comedy,3,1,0
 train,1,52,144,2483955,The Lost City ,8369,165,English,R,9600000,2005,6.7,1.85,1,Drama,2,0,0
 train,1,66,98,14114488,Poltergeist III ,13190,114,English,PG13,10500000,1988,4.5,1.85,1,Horror,2,0,0
 train,1,61,197,46300000,"It's a Mad, Mad, Mad, Mad World ",29323,344,English,Approved,9400000,1963,7.6,2.76,2,Action,4,0,0
-train,1,48,94,4573364.533929578,Into the Grizzly Maze ,4486,38,English,R,10000000,2015,5.3,1.85,2,Action,3,1,0
+train,1,48,94,38696333.28304449,Into the Grizzly Maze ,4486,38,English,R,10000000,2015,5.3,1.85,2,Action,3,1,0
 train,1,277,88,30859000,The Texas Chain Saw Massacre ,96410,826,English,R,83532,1974,7.5,1.85,4,Horror,2,0,0
 train,1,259,106,3571735,The Runaways ,39260,129,English,R,10000000,2010,6.6,2.35,1,Biography,3,1,0
 train,1,29,123,36049108,Set It Off ,10139,70,English,R,9000000,1996,6.8,2.35,7,Action,5,2,0
@@ -2235,13 +2235,13 @@ train,1,117,119,6047856,The Way of the Gun ,27536,327,English,R,8500000,2000,6.
 train,1,136,99,4681503,Igby Goes Down ,29058,238,English,R,9000000,2002,7,2.35,4,Comedy,2,0,0
 train,1,15,79,4350774,PCU ,10476,52,English,PG13,8000000,1994,6.5,1.85,1,Comedy,1,1,0
 train,1,46,114,3420871,The Ultimate Gift ,14100,81,English,PG,12744532.423056798,2006,7.4,1.85,2,Drama,3,1,0
-train,1,41,91,39728548.15531798,The Ice Pirates ,7767,56,English,PG,9000000,1984,5.7,1.85,1,Action,5,1,0
+train,1,41,91,4386314.209600902,The Ice Pirates ,7767,56,English,PG,9000000,1984,5.7,1.85,1,Action,5,1,0
 train,1,65,95,2955039,Gracie ,3624,27,English,PG13,9000000,2007,6.2,2.35,3,Biography,3,0,0
 train,1,100,103,1530535,Trust the Man ,7833,63,English,R,9000000,2005,5.7,2.35,2,Comedy,3,0,0
 train,1,129,92,4881867,Hamlet 2 ,15200,76,English,R,9000000,2008,6.4,1.85,3,Comedy,2,2,0
 train,1,67,84,11860839,Glee: The 3D Concert Movie ,5156,21,English,PG,9000000,2011,5.4,1.85,2,Documentary,2,0,0
 train,1,26,97,883887,Princess Kaiulani ,1201,14,English,PG,9000000,2009,6.2,2.35,1,Drama,1,0,0
-train,1,19,103,695663.1434855245,Veronika Decides to Die ,10100,42,English,R,9000000,2009,6.5,2.35,1,Drama,2,0,0
+train,1,19,103,4051631.51479398,Veronika Decides to Die ,10100,42,English,R,9000000,2009,6.5,2.35,1,Drama,2,0,0
 train,1,133,84,14373825,Awake ,63216,196,English,R,8600000,2007,6.5,2.35,1,Crime,3,0,0
 train,1,147,97,32222567,The Lost Boys ,92924,339,English,R,10284149.808030965,1987,7.2,2.35,10,Comedy,3,0,0
 train,1,273,112,39462438,Crazy Heart ,67760,226,English,R,7000000,2009,7.3,2.35,3,Drama,3,1,0
@@ -2251,10 +2251,10 @@ train,1,175,103,14879556,Election ,73640,441,English,R,8000000,1999,7.3,2.35,5,
 train,1,167,122,13569248,The Namesake ,16530,117,English,PG13,22516053.330677748,2006,7.6,1.85,4,Drama,1,0,0
 train,1,132,101,34017854,The DUFF ,51326,116,English,PG13,8500000,2015,6.5,2.35,1,Comedy,1,0,1
 train,1,66,104,4273372,Glitter ,19412,308,English,PG13,22000000,2001,2.1,2.35,1,Drama,3,0,0
-train,1,79,101,22434820.82651862,The Haunting in Connecticut 2: Ghosts of Georgia ,13167,57,English,R,9000000,2013,5.3,2.35,1,Drama,4,0,0
+train,1,79,101,18470577.684620164,The Haunting in Connecticut 2: Ghosts of Georgia ,13167,57,English,R,9000000,2013,5.3,2.35,1,Drama,4,0,0
 train,1,346,106,6262942,All Is Lost ,59545,312,English,PG13,9000000,2013,6.9,2.35,3,Action,3,0,0
 train,1,46,126,1997807,Limbo ,5158,140,English,R,8000000,1999,7.1,1.85,3,Adventure,3,0,0
-train,1,54,171,43138502.237323835,Quo Vadis ,9808,90,English,Passed,7623000,1951,7.2,1.37,1,Biography,4,0,0
+train,1,54,171,43233362.50569925,Quo Vadis ,9808,90,English,Passed,7623000,1951,7.2,1.37,1,Biography,4,0,0
 train,1,147,150,140244,Repo! The Genetic Opera ,20419,259,English,R,8500000,2008,6.7,1.85,5,Horror,3,0,0
 train,1,215,178,107930000,Pulp Fiction ,1324680,2195,English,R,8000000,1994,8.9,2.35,8,Crime,2,1,0
 train,1,534,117,32279955,Nightcrawler ,293304,552,English,R,8500000,2014,7.9,2.35,1,Crime,3,1,0
@@ -2269,7 +2269,7 @@ train,1,11,108,34746109,A Thin Line Between Love and Hate ,3122,14,English,R,80
 train,1,327,100,34963967,50/50 ,270441,378,English,R,8000000,2011,7.7,1.85,4,Comedy,3,2,1
 train,1,135,90,25926543,Shutter ,26609,148,English,PG13,8000000,2008,5.2,1.85,1,Horror,3,0,0
 train,1,164,94,26049082,That Awkward Moment ,76791,100,English,R,8000000,2014,6.1,2.35,1,Comedy,2,0,0
-train,1,14,93,13994147.506247466,Modern Problems ,3904,48,English,PG,8000000,1981,5,1.85,1,Comedy,3,0,0
+train,1,14,93,8039879.691019004,Modern Problems ,3904,48,English,PG,8000000,1981,5,1.85,1,Comedy,3,0,0
 train,1,109,107,18090181,New Nightmare ,38191,271,English,R,8000000,1994,6.4,1.85,10,Fantasy,4,0,0
 train,1,95,112,18811135,Akeelah and the Bee ,15337,172,English,PG,14847283.55421701,2006,7.5,2.35,1,Drama,1,0,0
 train,1,40,82,17278980,Half Baked ,48225,164,English,R,8000000,1998,6.7,1.85,2,Comedy,2,0,0
@@ -2277,12 +2277,12 @@ train,1,121,97,16699684,New in Town ,17461,78,English,PG,8000000,2009,5.6,1.85,
 train,1,288,102,15047419,American Psycho ,357275,1061,English,R,7000000,2000,7.6,2.35,1,Crime,2,1,1
 train,1,107,93,14015786,The Good Girl ,37952,298,English,R,5000000,2002,6.5,1.85,5,Drama,2,2,0
 train,1,91,138,10269307,The Boondock Saints II: All Saints Day ,53251,188,English,R,8000000,2009,6.3,2.35,1,Action,3,1,0
-train,1,55,117,20735260.730682004,The City of Your Final Destination ,2311,25,English,PG13,8300000,2009,6.4,1.85,1,Drama,2,0,0
+train,1,55,117,71052380.2022159,The City of Your Final Destination ,2311,25,English,PG13,8300000,2009,6.4,1.85,1,Drama,2,0,0
 train,1,231,93,17536788,Enough Said ,49240,142,English,PG13,8000000,2013,7.1,1.85,4,Comedy,3,0,0
 train,1,262,92,58401464,Easy A ,276746,264,English,PG13,8000000,2010,7.1,1.85,3,Comedy,2,1,0
 train,1,7,110,8880705,The Inkwell ,1103,11,English,R,9971037.024314743,1994,6.5,1.85,2,Comedy,3,1,0
 train,1,83,104,10106233,Prom ,12702,32,English,PG,8000000,2011,5.4,1.85,3,Comedy,2,0,0
-train,1,18,98,40808000.14532309,The Pallbearer ,6124,55,English,PG13,8000000,1996,4.9,1.85,3,Comedy,2,2,0
+train,1,18,98,85191300.82023817,The Pallbearer ,6124,55,English,PG13,8000000,1996,4.9,1.85,3,Comedy,2,2,0
 train,1,11,89,4692814,Held Up ,2870,34,English,PG13,8000000,1999,5.1,1.85,2,Comedy,1,1,0
 train,1,72,92,5018450,Woman on Top ,8546,86,English,R,8000000,2000,5.3,2.35,1,Comedy,3,0,0
 train,1,328,90,3442820,Anomalisa ,31489,140,English,R,8000000,2015,7.3,2.35,1,Animation,4,0,0
@@ -2295,8 +2295,8 @@ train,1,41,99,398420,Brooklyn Rules ,5049,48,English,R,8000000,2007,6.4,2.35,2,
 train,1,66,109,336456,The Singing Detective ,7116,79,English,R,8000000,2003,5.6,1.85,1,Comedy,4,3,1
 train,1,79,95,108662,Pathology ,26849,107,English,R,8000000,2008,6,2.35,1,Crime,3,0,0
 train,1,26,107,53481,10th & Wolf ,5557,34,English,R,8000000,2006,6.4,2.35,1,Crime,3,0,0
-train,1,30,97,32911320.24915898,The Death and Life of Bobby Z ,12078,31,English,R,22000000,2007,5.9,2.35,2,Action,3,2,1
-train,1,5,104,8473475.242521847,Mr. Church ,63,5,English,PG13,8000000,2016,8,2.35,3,Drama,1,0,0
+train,1,30,97,32939732.094240677,The Death and Life of Bobby Z ,12078,31,English,R,22000000,2007,5.9,2.35,2,Action,3,2,1
+train,1,5,104,13192385.935300233,Mr. Church ,63,5,English,PG13,8000000,2016,8,2.35,3,Drama,1,0,0
 train,1,61,99,106593296,Driving Miss Daisy ,72324,134,English,PG,7500000,1989,7.4,1.85,3,Comedy,3,1,0
 train,1,34,115,43490057,Soul Food ,5275,30,English,R,7500000,1997,6.9,1.85,4,Comedy,2,2,0
 train,1,239,92,24792061,Thank You for Smoking ,191998,323,English,R,6500000,2005,7.6,2.35,5,Comedy,2,1,1
@@ -2305,7 +2305,7 @@ train,1,124,106,10281585,Shopgirl ,21225,268,English,R,14288002.929755175,2005,
 train,1,127,105,10460089,Narc ,34098,214,English,R,7500000,2002,7.2,1.85,2,Crime,4,0,0
 train,1,192,92,10814185,Extract ,37530,106,English,R,8000000,2009,6.2,1.85,4,Comedy,3,2,1
 train,1,51,112,533344,Masked and Anonymous ,3972,95,English,PG13,17354597.89297699,2003,5.5,1.85,5,Comedy,3,2,0
-train,1,147,92,42085671.470825106,The Hole ,19157,69,English,PG13,12000000,2009,5.7,1.85,6,Adventure,3,1,0
+train,1,147,92,8754422.605512334,The Hole ,19157,69,English,PG13,12000000,2009,5.7,1.85,6,Adventure,3,1,0
 train,1,39,100,12610552,The Omega Code ,4682,206,English,PG13,7500000,1999,3.5,1.37,1,Action,5,0,0
 train,1,387,96,143492840,Juno ,414335,881,English,PG13,7500000,2007,7.5,1.85,5,Comedy,3,2,1
 train,1,51,95,94900000,Flashdance ,35172,128,English,R,4000000,1983,6.1,1.85,4,Drama,3,0,0
@@ -2346,26 +2346,26 @@ train,1,103,103,236266,Gerry ,15104,290,English,R,3500000,2002,6.2,2.35,7,Adven
 train,1,133,103,532988,Freeheld ,5863,25,English,PG13,7000000,2015,6.5,1.85,2,Biography,3,1,0
 train,1,104,108,453079,The Extra Man ,4124,29,English,R,7000000,2010,5.9,2.35,2,Comedy,1,0,0
 train,1,27,118,46451,Ca$h ,7663,38,English,R,7000000,2010,6,1.85,1,Comedy,3,2,1
-train,1,112,88,4470.903709585649,Twixt ,8589,70,English,R,7000000,2011,4.8,1.85,11,Comedy,4,1,0
+train,1,112,88,12599013.793075409,Twixt ,8589,70,English,R,7000000,2011,4.8,1.85,11,Comedy,4,1,0
 train,1,38,115,41400000,Pale Rider ,39451,138,English,R,6900000,1985,7.3,2.35,20,Other,1,1,0
-train,1,44,111,125891.57381231493,High School Musical 2 ,39786,162,English,TV,7000000,2007,4.8,1.78,5,Comedy,6,0,0
-train,1,46,94,1699756.4767767417,Criminal Activities ,5255,38,English,Unknown,7000000,2015,5.8,2.35,1,Crime,3,0,0
+train,1,44,111,94706748.56777698,High School Musical 2 ,39786,162,English,TV,7000000,2007,4.8,1.78,5,Comedy,6,0,0
+train,1,46,94,2800.8350213871654,Criminal Activities ,5255,38,English,Unknown,7000000,2015,5.8,2.35,1,Crime,3,0,0
 train,1,74,108,49526,The Chumscrubber ,16299,129,English,R,6800000,2005,7,2.35,1,Comedy,2,1,0
 train,1,25,101,10696,Shade ,10771,65,English,R,6800000,2003,6.4,2.35,1,Crime,2,0,0
 train,1,271,99,84263837,Annabelle ,81699,291,English,R,6500000,2014,5.4,2.35,2,Horror,2,1,0
 train,1,64,112,57504069,Boyz n the Hood ,94139,183,English,R,6000000,1991,7.8,1.85,6,Crime,2,0,0
 train,1,18,108,54215416,La Bamba ,21409,63,English,PG13,6500000,1987,6.8,1.85,1,Biography,3,0,0
-train,1,6,107,50791928.02215127,The Four Seasons ,3157,33,English,PG,5525456.045529604,1981,7.2,1.85,1,Comedy,2,0,0
+train,1,6,107,123955.78360477125,The Four Seasons ,3157,33,English,PG,5525456.045529604,1981,7.2,1.85,1,Comedy,2,0,0
 train,1,121,104,31899000,Dressed to Kill ,23986,201,English,NC17,6500000,1980,7.1,2.35,10,Mystery,3,0,0
 train,1,14,108,24103594,The Adventures of Huck Finn ,6384,54,English,PG,6500000,1993,6.2,1.85,4,Adventure,4,0,0
 train,1,137,102,16842303,Go ,59474,418,English,R,6500000,1999,7.3,2.35,7,Comedy,2,0,0
 train,1,111,88,13367101,Friends with Money ,19715,166,English,R,6500000,2006,5.9,2.35,4,Comedy,3,0,0
-train,1,57,115,565659.3628651977,The Andromeda Strain ,25857,171,English,G,6500000,1971,7.2,2.35,3,Sci-Fi,2,0,0
+train,1,57,115,29718.20279479084,The Andromeda Strain ,25857,171,English,G,6500000,1971,7.2,2.35,3,Sci-Fi,2,0,0
 train,1,97,91,10149779,Bats ,8294,160,English,PG13,6500000,1999,3.6,2.35,1,Horror,3,0,0
 train,1,4,100,2024854,The Work and the Glory II: American Zion ,564,21,English,PG13,6500000,2005,6.6,2.35,1,Drama,2,0,0
 train,1,84,97,1029017,A Home at the End of the World ,12049,135,English,R,6500000,2004,6.8,2.35,2,Drama,2,1,0
 train,1,217,105,66637,The Messenger ,29608,92,English,R,6500000,2009,7.2,2.35,1,Drama,3,1,0
-train,1,203,108,4104414.3187702466,The Return of the Living Dead ,39856,300,English,R,4000000,1985,7.3,1.85,1,Comedy,3,0,0
+train,1,203,108,95317510.07306969,The Return of the Living Dead ,39856,300,English,R,4000000,1985,7.3,1.85,1,Comedy,3,0,0
 train,1,93,123,2122561,Mallrats ,99033,434,English,R,6000000,1995,7.2,1.85,11,Comedy,2,0,0
 train,1,124,110,181360000,Grease ,170027,350,English,PG13,6000000,1978,7.2,2.35,3,Other,2,0,0
 train,1,288,122,119078393,Fahrenheit 9/11 ,113152,1416,English,R,6000000,2004,7.5,1.85,4,Documentary,3,0,0
@@ -2390,7 +2390,7 @@ train,1,137,96,11642254,Halloween 5 ,22929,287,English,NC17,3000000,1989,5.2,1.
 train,1,115,122,8596914,Pollock ,23023,148,English,R,6000000,2000,7,1.85,2,Biography,2,1,0
 train,1,67,101,6851636,200 Cigarettes ,13010,182,English,R,6000000,1999,5.9,1.85,1,Comedy,3,0,0
 train,1,216,102,11434867,The Words ,59637,130,English,PG13,6000000,2012,7.1,1.85,1,Drama,4,3,1
-train,1,133,84,5895238,Casa de mi Padre ,17169,70,Spanish,R,6000000,2012,5.5,2.35,1,Comedy,2,1,0
+train,1,133,84,5895238,Casa de mi Padre ,17169,70,Other,R,6000000,2012,5.5,2.35,1,Comedy,2,1,0
 train,1,149,104,6670712,City Island ,27301,101,English,PG13,6000000,2009,7.4,1.85,1,Comedy,2,0,0
 train,1,42,94,4693919,College ,11011,78,English,R,6500000,2008,4.6,1.85,1,Comedy,1,0,0
 train,1,152,90,4859475,The Virgin Suicides ,116910,520,English,R,6000000,1999,7.2,1.85,4,Drama,2,2,0
@@ -2398,39 +2398,39 @@ train,1,76,90,4542775,Miss March ,18313,73,English,R,6000000,2009,5.1,1.85,1,Co
 train,1,149,106,3588432,Wish I Was Here ,29341,93,English,R,6000000,2014,6.7,2.35,2,Comedy,2,0,0
 train,1,108,95,3029081,Hedwig and the Angry Inch ,26300,231,English,R,6000000,2001,7.8,1.85,3,Comedy,4,0,0
 train,1,17,99,3273588,Only the Strong ,4195,50,English,PG13,6000000,1993,6.7,1.85,2,Action,2,0,0
-train,1,12,93,28300047.39546675,Goddess of Love ,522,5,English,Unknown,8618395.29957153,2015,5.4,2.35,1,Drama,4,0,0
+train,1,12,93,231305.1014194368,Goddess of Love ,522,5,English,Unknown,8618395.29957153,2015,5.4,2.35,1,Drama,4,0,0
 train,1,129,99,2207975,Shattered Glass ,28855,190,English,PG13,6000000,2003,7.2,2.35,2,Drama,2,1,0
 train,1,84,95,2025238,Novocaine ,9589,105,English,R,6000000,2001,5.8,1.85,1,Comedy,4,0,0
 train,1,61,84,1028337,The Business of Strangers ,3413,78,English,R,5166280.967728919,2001,6.4,1.85,2,Drama,2,0,0
-train,1,147,144,6345117.536557713,The Wild Bunch ,63192,287,English,R,6244087,1969,8,2.35,4,Action,3,0,0
+train,1,147,144,39720911.81948892,The Wild Bunch ,63192,287,English,R,6244087,1969,8,2.35,4,Action,3,0,0
 train,1,147,99,2077046,The Wackness ,27266,75,English,R,6000000,2008,7,2.35,4,Comedy,3,0,0
 train,1,17,107,869325,Beastmaster 2: Through the Portal of Time ,2281,16,English,PG13,6000000,1991,3.8,1.85,1,Action,4,0,0
 train,1,16,90,399611,The 5th Quarter ,1245,29,English,PG,6000000,2010,5.7,1.85,1,Biography,3,0,0
 train,1,63,96,115862,The Greatest ,7394,50,English,R,6000000,2009,6.7,2.35,2,Drama,2,0,0
 train,1,36,97,117560,Come Early Morning ,2330,29,English,R,6000000,2006,6.2,1.85,1,Drama,2,0,0
-train,1,38,117,15727722.77677725,Julia ,6454,44,English,PG,7840000,1977,7.4,1.85,4,Drama,1,1,0
+train,1,38,117,42045809.522212006,Julia ,6454,44,English,PG,7840000,1977,7.4,1.85,4,Drama,1,1,0
 train,1,26,85,36497,"Surfer, Dude ",7367,37,English,R,6000000,2008,4.7,1.85,1,Comedy,1,2,0
-train,1,68,85,15109389.084893603,11:14 ,38273,133,English,R,6000000,2003,7.2,1.85,1,Comedy,3,0,0
-train,1,19,76,5584043.334716603,Men of War ,2989,38,English,R,8600000,1994,5.8,2.35,1,Action,3,0,0
-train,1,39,87,83187.877677663,Don McKay ,2050,17,English,R,6854674.561307576,2009,5.9,1.85,1,Drama,3,0,0
+train,1,68,85,39196196.626893416,11:14 ,38273,133,English,R,6000000,2003,7.2,1.85,1,Comedy,3,0,0
+train,1,19,76,64318925.241767414,Men of War ,2989,38,English,R,8600000,1994,5.8,2.35,1,Action,3,0,0
+train,1,39,87,4002966.4198912755,Don McKay ,2050,17,English,R,6854674.561307576,2009,5.9,1.85,1,Drama,3,0,0
 train,1,162,95,65804,Deadfall ,32512,86,English,R,12000000,2012,6.3,2.35,1,Crime,3,1,0
-train,1,26,90,2241885.8827154865,The Hit List ,10196,39,English,R,6000000,2011,5.4,1.85,2,Action,2,0,0
+train,1,26,90,20714698.333120342,The Hit List ,10196,39,English,R,6000000,2011,5.4,1.85,2,Action,2,0,0
 train,1,6,88,15059,Trade of Innocents ,748,8,English,PG13,6534850.300489625,2012,5.4,2.35,1,Drama,2,0,0
 train,1,68,141,3064356,Sunshine State ,3433,81,English,PG13,5600000,2002,6.9,1.85,3,Drama,2,0,0
 train,1,25,95,7009668,Crossover ,8707,36,English,PG13,5600000,2006,2.1,1.85,2,Action,2,0,0
 train,1,119,129,159600000,The Sting ,175607,252,English,PG,5500000,1973,8.3,1.85,2,Comedy,3,0,0
 train,1,62,116,50382128,Diary of a Mad Black Woman ,10472,202,English,PG13,5500000,2005,5.6,1.85,1,Comedy,3,0,0
 train,1,364,90,24475193,Don Jon ,190494,314,English,R,3000000,2013,6.6,2.35,1,Comedy,3,2,2
-train,1,72,105,20711717.298551142,High Plains Drifter ,36381,169,English,R,5500000,1973,7.6,2.35,20,Mystery,2,1,0
+train,1,72,105,101749600.36854486,High Plains Drifter ,36381,169,English,R,5500000,1973,7.6,2.35,20,Mystery,2,1,0
 train,1,122,111,6200756,Ghost World ,96129,488,English,R,7000000,2001,7.4,1.85,2,Comedy,2,2,1
-train,1,24,95,22895811.89473649,Galaxina ,1955,44,English,R,3915271.7175330413,1980,3.4,2.35,1,Comedy,2,0,0
+train,1,24,95,27513766.695851784,Galaxina ,1955,44,English,R,3915271.7175330413,1980,3.4,2.35,1,Comedy,2,0,0
 train,1,91,104,1056102,Wonderland ,18792,153,English,R,5000000,2003,6.6,1.85,2,Crime,4,0,0
 train,1,103,120,27545445,Do the Right Thing ,59524,418,English,R,6500000,1989,7.9,1.85,16,Drama,1,0,0
 train,1,27,99,56007,Harvard Man ,3754,69,English,R,5500000,2001,4.9,2.35,2,Comedy,5,0,0
-train,1,22,90,14003206.382349165,Animals ,605,8,English,Unknown,8154923.393596993,2014,6.2,2.35,1,Drama,1,1,0
+train,1,22,90,13521751.664866822,Animals ,605,8,English,Unknown,8154923.393596993,2014,6.2,2.35,1,Drama,1,1,0
 train,1,48,96,27445,Salvation Boulevard ,3788,31,English,R,9000000,2011,5.3,1.85,1,Action,4,0,0
 train,1,65,96,766487,The Ten ,15315,117,English,R,5250000,2007,5,1.85,3,Comedy,2,0,0
-train,1,41,103,48794440.069183014,Somewhere in Time ,21049,249,English,PG,5100000,1980,7.3,1.85,2,Drama,3,0,0
+train,1,41,103,10272630.337376632,Somewhere in Time ,21049,249,English,PG,5100000,1980,7.3,1.85,2,Drama,3,0,0
 train,1,318,106,83574831,Insidious: Chapter 2 ,109214,269,English,PG13,5000000,2013,6.6,2.35,7,Fantasy,3,1,0
 train,1,250,95,87025093,Saw II ,188679,864,English,R,4000000,2005,6.6,1.85,5,Horror,2,0,0
 train,1,411,104,71897215,10 Cloverfield Lane ,126893,440,English,PG13,15000000,2016,7.3,2.35,1,Drama,5,1,0
@@ -2443,7 +2443,7 @@ train,1,42,135,36000000,The Robe ,6359,69,English,Unrated,5000000,1953,6.8,2.2,
 train,1,91,93,34872293,Freddy's Dead: The Final Nightmare ,30765,252,English,R,8500000,1991,4.9,1.85,2,Comedy,4,1,1
 train,1,185,109,34468224,Monster ,105568,533,English,R,4500000,2003,7.3,1.85,1,Biography,4,2,0
 train,1,220,101,32453345,Paranormal Activity: The Marked Ones ,31791,155,English,R,5000000,2014,5,1.78,1,Fantasy,3,0,0
-train,0,117,124,16044308.307834674,The Elephant Man ,161972,356,English,PG,5000000,1980,8.2,2.35,3,Biography,2,1,0
+train,0,117,124,23555185.44919105,The Elephant Man ,161972,356,English,PG,5000000,1980,8.2,2.35,3,Biography,2,1,0
 train,1,471,117,27296514,Dallas Buyers Club ,326494,340,English,R,5000000,2013,8,2.35,2,Biography,2,2,0
 train,1,152,83,25799043,The Lazarus Effect ,28513,126,English,PG13,3300000,2015,5.2,2.35,1,Horror,3,1,0
 train,0,274,113,25530884,Memento ,845580,2067,English,R,9000000,2000,8.5,2.35,8,Mystery,2,1,0
@@ -2452,14 +2452,14 @@ train,1,276,103,21501098,The Way Way Back ,115813,216,English,PG13,5000000,2013
 train,1,12,94,19281235,House Party 2 ,3571,11,English,R,5000000,1991,5.1,1.85,1,Comedy,4,0,0
 train,1,28,77,19421271,Doug's 1st Movie ,2448,18,English,G,5000000,1999,5,1.33,1,Animation,3,0,0
 train,1,95,134,20733485,The Apostle ,11622,157,English,PG13,5000000,1997,7.2,1.85,1,Drama,1,0,0
-train,1,74,129,26856653.993207812,Mommie Dearest ,10564,161,English,R,5000000,1981,6.7,1.85,1,Biography,2,0,0
+train,1,74,129,3542516.8938169875,Mommie Dearest ,10564,161,English,R,5000000,1981,6.7,1.85,1,Biography,2,0,0
 train,1,179,90,24809547,Our Idiot Brother ,74875,115,English,R,5000000,2011,6.4,1.85,1,Comedy,2,3,0
 train,1,22,104,23031390,The Players Club ,4345,26,English,R,4500000,1998,5.6,1.85,1,Comedy,2,1,0
-train,1,9,106,17382982,Addicted ,5975,33,Spanish,R,5000000,2014,5.2,1.85,3,Drama,2,0,0
+train,1,9,106,17382982,Addicted ,5975,33,Other,R,5000000,2014,5.2,1.85,3,Drama,2,0,0
 train,1,31,109,14821531,Eve's Bayou ,6915,209,English,R,6000000,1997,7.3,1.85,3,Drama,1,0,0
 train,1,309,101,18656400,Still Alice ,86077,195,English,PG13,5000000,2014,7.5,1.85,2,Drama,1,1,0
-train,1,15,139,44216147.71693354,The Egyptian ,2498,67,English,Approved,5000000,1954,6.6,2.55,3,Drama,2,0,0
-train,1,36,99,15015649.895733614,Nighthawks ,12519,107,English,R,5000000,1981,6.4,1.85,1,Action,3,1,0
+train,1,15,139,36565249.072557434,The Egyptian ,2498,67,English,Approved,5000000,1954,6.6,2.55,3,Drama,2,0,0
+train,1,36,99,68.89691771775418,Nighthawks ,12519,107,English,R,5000000,1981,6.4,1.85,1,Action,3,1,0
 train,1,168,95,241437427,My Big Fat Greek Wedding ,102071,756,English,PG,5000000,2002,6.6,1.85,2,Comedy,3,0,0
 train,1,444,94,14123773,Spring Breakers ,108683,561,English,R,5000000,2012,5.3,2.35,1,Crime,2,1,0
 train,1,123,93,15126948,Halloween: The Curse of Michael Myers ,20815,335,English,R,5000000,1995,4.9,1.85,1,Horror,2,0,0
@@ -2471,13 +2471,13 @@ train,1,29,107,12200000,Lone Wolf McQuade ,7973,65,English,PG,5000000,1983,6.3,
 train,1,228,86,17683670,Apollo 18 ,47227,323,English,PG13,5000000,2011,5.2,1.33,1,Horror,4,0,0
 train,1,195,91,12055108,Sunshine Cleaning ,61151,134,English,R,8000000,2008,6.9,2.35,1,Comedy,2,1,0
 train,1,203,103,27285953,No Escape ,48675,214,English,R,5000000,2015,6.8,1.85,4,Action,2,0,0
-train,1,44,90,27199072.182661187,The Beastmaster ,15345,87,English,PG,8000000,1982,6.2,1.85,3,Action,3,1,1
-train,1,14,141,92116048.624233007,Solomon and Sheba ,2017,33,English,Unknown,5000000,1959,6.2,2.2,3,Drama,4,0,0
+train,1,44,90,36655872.1019034,The Beastmaster ,15345,87,English,PG,8000000,1982,6.2,1.85,3,Action,3,1,1
+train,1,14,141,19676670.937882297,Solomon and Sheba ,2017,33,English,Unknown,5000000,1959,6.2,2.2,3,Drama,4,0,0
 train,1,45,99,10572742,Not Easily Broken ,2326,21,English,PG13,8000000,2009,6.1,1.85,1,Drama,2,0,0
-train,0,42,79,10543845.08284041,A Farewell to Arms ,3519,46,English,Unrated,800000,1932,6.6,1.37,1,Drama,3,0,0
+train,0,42,79,24407766.754363023,A Farewell to Arms ,3519,46,English,Unrated,800000,1932,6.6,1.37,1,Drama,3,0,0
 train,1,29,82,9628751,Digimon: The Movie ,5164,65,English,PG,5000000,2000,5.9,1.85,1,Action,5,0,0
 train,1,121,92,8786715,Saved! ,40274,324,English,PG13,5000000,2004,6.9,1.85,1,Comedy,2,0,0
-train,1,27,106,74477378.19106407,Robin and Marian ,8930,90,English,PG,5000000,1976,6.6,1.85,3,Adventure,3,0,0
+train,1,27,106,17686152.349745315,Robin and Marian ,8930,90,English,PG,5000000,1976,6.6,1.85,3,Adventure,3,0,0
 train,1,59,150,6157157,UHF ,21416,198,English,PG13,5000000,1989,7,1.85,1,Comedy,2,0,0
 train,1,61,90,6088249,Grandma's Boy ,67853,202,English,R,13100692.460672073,2006,7,2.35,1,Comedy,1,0,0
 train,1,60,91,5480318,Slums of Beverly Hills ,9427,79,English,R,5000000,1998,6.6,1.85,2,Comedy,2,0,0
@@ -2490,39 +2490,39 @@ train,1,81,116,1980338,Zero Effect ,12366,151,English,R,5000000,1998,7,1.85,4,C
 train,1,19,103,1100000,Light Sleeper ,3665,39,English,R,5000000,1992,6.8,1.85,4,Crime,2,0,0
 train,1,163,112,2445646,Kill the Messenger ,32382,99,English,R,5000000,2014,7,2.35,2,Biography,5,0,0
 train,1,39,98,296665,Party Monster ,12675,158,English,R,5000000,2003,6.3,1.85,2,Biography,4,0,0
-train,1,50,88,236662.4523389599,The Oh in Ohio ,5494,56,English,R,5000000,2006,5.6,2.35,1,Comedy,3,0,0
+train,1,50,88,427203.2302282504,The Oh in Ohio ,5494,56,English,R,5000000,2006,5.6,2.35,1,Comedy,3,0,0
 train,1,83,91,1040879,Bottle Rocket ,54478,184,English,R,7000000,1996,7.1,1.85,7,Comedy,3,0,0
 train,1,37,97,326308,Albino Alligator ,6632,69,English,R,5000000,1996,6.1,2.35,2,Crime,3,1,0
 train,1,121,118,228830,Standard Operating Procedure ,3329,22,English,R,18438927.59303098,2008,7.5,2.35,1,Crime,3,0,0
 train,1,27,90,124720,"Lovely, Still ",1560,15,English,PG,5000000,2008,7.3,1.85,1,Drama,2,2,0
-train,1,9,95,30662716.32123078,Tycoon ,989,23,English,Approved,3209000,1947,6.2,1.37,1,Adventure,3,0,0
+train,1,9,95,6015374.828808745,Tycoon ,989,23,English,Approved,3209000,1947,6.2,1.37,1,Adventure,3,0,0
 train,1,31,90,99147,Desert Blue ,1884,28,English,R,2000000,1998,6.2,1.85,2,Drama,1,1,0
 train,1,371,94,65069140,The Visit ,65299,455,English,PG13,5000000,2015,6.2,1.85,9,Horror,2,0,0
 train,1,133,90,65087,Redacted ,8824,108,English,R,5000000,2007,6.2,1.85,10,Crime,3,0,0
-train,1,19,80,35155559.55986478,Farce of the Penguins ,4322,47,English,R,31390039.21764743,2006,4.2,1.85,1,Animation,2,0,0
-train,1,121,87,28351226.87874935,We Have Your Husband ,216,3,English,TV,5000000,2011,5.5,1.78,2,Crime,3,0,0
+train,1,19,80,26347186.595456067,Farce of the Penguins ,4322,47,English,R,31390039.21764743,2006,4.2,1.85,1,Animation,2,0,0
+train,1,121,87,25922205.417818666,We Have Your Husband ,216,3,English,TV,5000000,2011,5.5,1.78,2,Crime,3,0,0
 train,1,104,148,24475416,Sling Blade ,72443,309,English,R,890000,1996,8,1.85,2,Drama,1,1,0
 train,1,359,121,1729969,Take Shelter ,68211,219,English,R,5000000,2011,7.4,2.35,3,Drama,2,0,0
 train,1,130,118,1705139,Lady in White ,4695,69,English,R,4700000,1988,6.7,1.85,1,Fantasy,4,0,0
 train,1,159,101,8025872,The Texas Chainsaw Massacre 2 ,19234,258,English,NC17,4700000,1986,5.5,1.85,4,Comedy,2,0,0
-train,1,54,106,9886008.489962643,Pat Garrett & Billy the Kid ,13467,106,English,R,4638783,1973,7.4,2.35,4,Biography,4,0,0
+train,1,54,106,23900478.28963924,Pat Garrett & Billy the Kid ,13467,106,English,R,4638783,1973,7.4,2.35,4,Biography,4,0,0
 train,1,45,96,81200000,Police Academy ,87739,133,English,R,4500000,1984,6.7,1.85,4,Comedy,1,0,0
-train,1,36,104,22107148.48836811,The Blue Lagoon ,50125,140,English,R,4500000,1980,5.7,1.85,3,Adventure,3,0,0
-train,1,118,90,29556761.293636095,Fast Times at Ridgemont High ,71217,228,English,NC17,4500000,1982,7.2,1.85,4,Comedy,2,0,0
-train,1,42,115,54832475.97847306,Moby Dick ,13474,115,English,Unrated,4500000,1956,7.4,1.66,2,Adventure,2,0,0
+train,1,36,104,30823462.563889693,The Blue Lagoon ,50125,140,English,R,4500000,1980,5.7,1.85,3,Adventure,3,0,0
+train,1,118,90,5041858.570596356,Fast Times at Ridgemont High ,71217,228,English,NC17,4500000,1982,7.2,1.85,4,Comedy,2,0,0
+train,1,42,115,142017724.2959282,Moby Dick ,13474,115,English,Unrated,4500000,1956,7.4,1.66,2,Adventure,2,0,0
 train,1,120,109,3798532,Bound ,41138,208,English,R,4500000,1996,7.4,1.85,5,Crime,4,0,0
 train,1,234,102,3609278,Requiem for a Dream ,573541,1916,English,R,4500000,2000,8.4,1.37,6,Drama,1,1,0
-train,1,17,100,64204987.32553237,State Fair ,2756,55,English,Approved,679078.8651763984,1945,7.1,1.37,2,Other,2,0,0
+train,1,17,100,32393910.311104402,State Fair ,2756,55,English,Approved,679078.8651763984,1945,7.1,1.37,2,Other,2,0,0
 train,1,49,98,10429707,Moms' Night Out ,10483,125,English,PG,5000000,2014,5.4,2.35,1,Comedy,1,0,0
 train,1,283,133,727883,Donnie Darko ,580999,2110,English,R,4500000,2001,8.1,2.35,2,Drama,3,1,0
 train,1,92,106,410241,Spun ,32357,199,English,R,2000000,2002,6.8,1.85,2,Comedy,3,0,0
 train,1,159,98,278821,Life During Wartime ,5465,37,English,R,21682365.136881903,2009,6.5,1.85,3,Comedy,2,0,0
 train,1,138,104,108229,After.Life ,30836,137,English,R,4500000,2009,5.9,2.35,1,Drama,4,1,0
 train,1,149,133,112000000,One Flew Over the Cuckoo's Nest ,680041,760,English,R,4400000,1975,8.7,1.85,2,Drama,1,0,0
-train,1,5,85,10533785.54762884,R.L. Stine's Monsterville: The Cabinet of Souls ,917,4,English,PG,4400000,2015,5.9,1.78,1,Comedy,1,0,1
-train,1,57,98,6425817.4886797555,High School Musical ,59254,726,English,TV,4200000,2006,5.2,1.33,5,Comedy,6,0,0
+train,1,5,85,4231899.020889751,R.L. Stine's Monsterville: The Cabinet of Souls ,917,4,English,PG,4400000,2015,5.9,1.78,1,Comedy,1,0,1
+train,1,57,98,13094537.699600047,High School Musical ,59254,726,English,TV,4200000,2006,5.2,1.33,5,Comedy,6,0,0
 train,1,274,90,101055,Survival of the Dead ,17478,159,English,R,4000000,2009,5,2.35,5,Horror,1,0,0
-train,0,284,96,44634329.877014086,Night of the Living Dead ,87978,580,English,Unrated,114000,1968,8,1.85,5,Drama,3,0,0
+train,0,284,96,1310730.890946003,Night of the Living Dead ,87978,580,English,Unrated,114000,1968,8,1.85,5,Drama,3,0,0
 train,1,265,101,44566004,Lost in Translation ,321283,1848,English,R,4000000,2003,7.8,1.85,4,Drama,1,2,1
 train,1,154,93,39200000,Annie Hall ,192940,491,English,PG,4000000,1977,8.1,1.37,18,Comedy,2,1,0
 train,1,44,152,36000000,The Greatest Show on Earth ,9456,107,English,Not Rated,4000000,1952,6.7,1.37,1,Drama,3,0,0
@@ -2530,16 +2530,16 @@ train,1,153,112,31252964,Monster's Ball ,71495,522,English,R,4000000,2001,7.1,2
 train,1,256,95,131175,Maggie ,30219,200,English,PG13,8500000,2015,5.6,2.35,1,Drama,2,0,0
 train,1,123,111,31968347,Leaving Las Vegas ,93894,286,English,R,3600000,1995,7.6,1.66,2,Drama,2,1,0
 train,1,149,91,35385560,The Boy Next Door ,27198,131,English,R,4000000,2015,4.6,2.35,9,Mystery,2,0,0
-train,1,20,105,18224984.019912075,Trapeze ,3102,35,English,Approved,4000000,1956,6.8,2.35,1,Drama,2,0,0
+train,1,20,105,166318397.4276975,Trapeze ,3102,35,English,Approved,4000000,1956,6.8,2.35,1,Drama,2,0,0
 train,1,323,106,20803237,The Kids Are All Right ,110616,291,English,R,3500000,2010,7.1,1.85,1,Comedy,2,1,0
 train,1,172,93,13008928,They Live ,73501,333,English,R,4000000,1988,7.3,2.35,9,Horror,3,0,0
-train,1,111,172,27566140.49953557,The Great Escape ,165638,301,English,Approved,4000000,1963,8.3,2.35,1,Adventure,5,0,0
+train,1,111,172,102459732.00504968,The Great Escape ,165638,301,English,Approved,4000000,1963,8.3,2.35,1,Adventure,5,0,0
 train,0,74,109,10941801,What the #$*! Do We (K)now!? ,12059,486,English,Unrated,16917905.450708073,2004,5.4,1.85,1,Comedy,6,0,0
 train,1,548,165,25359200,Boyhood ,266020,836,English,R,4000000,2014,8,1.85,10,Drama,1,0,0
 train,1,27,93,10097096,The Wash ,5612,38,English,R,4000000,2001,4.6,1.85,2,Comedy,1,0,0
 train,1,22,82,9821335,3 Strikes ,1415,10,English,R,6000000,2000,4,1.85,2,Comedy,1,1,0
 train,1,157,101,8243880,The Cooler ,28714,215,English,R,3200000,2003,7,2.35,1,Crime,4,0,0
-train,0,70,120,29272140.095618345,The Misfits ,12981,121,English,Approved,4000000,1961,7.4,1.66,2,Drama,3,0,0
+train,0,70,120,198946.1079646381,The Misfits ,12981,121,English,Approved,4000000,1961,7.4,1.66,2,Drama,3,0,0
 train,1,125,81,7825820,The Night Listener ,13086,156,English,R,4000000,2006,5.9,1.85,2,Crime,3,1,1
 train,1,10,82,7557877,The Jerky Boys ,2129,37,English,R,4754676.052728859,1995,4.6,1.85,1,Comedy,2,0,0
 train,1,69,86,17314483,A Haunted House 2 ,14621,48,English,R,4000000,2014,4.7,1.85,2,Comedy,2,0,0
@@ -2552,85 +2552,85 @@ train,1,50,84,2892582,Waiting for Guffman ,22697,202,English,R,4000000,1996,7.6
 train,1,45,94,2800000,Love Stinks ,4377,85,English,R,4000000,1999,5.8,1.85,1,Comedy,1,0,0
 train,1,121,93,2426851,You Kill Me ,16224,76,English,R,4000000,2007,6.5,2.55,4,Comedy,4,0,0
 train,1,114,96,1325073,Thumbsucker ,18762,91,English,R,4000000,2005,6.6,2.35,2,Comedy,2,0,0
-train,1,270,88,36893853.29349575,Red State ,53342,287,English,R,4000000,2011,6.2,1.85,11,Action,4,1,0
+train,1,270,88,20714795.33285317,Red State ,53342,287,English,R,4000000,2011,6.2,1.85,11,Action,4,1,0
 train,1,15,87,800000,The Barbarians ,2308,35,English,R,4000000,1987,4.8,1.85,1,Adventure,2,0,0
 train,1,122,83,1429260,The Art of Getting By ,45293,71,English,PG13,10957321.628243865,2011,6.6,2.35,1,Drama,2,0,0
-train,1,35,103,29609119.553935535,Zipper ,4091,20,English,R,4500000,2015,5.7,2.35,1,Drama,2,0,0
+train,1,35,103,366217.311079472,Zipper ,4091,20,English,R,4500000,2015,5.7,2.35,1,Drama,2,0,0
 train,1,41,99,562059,Poolhall Junkies ,8535,113,English,R,4000000,2002,7,1.85,1,Drama,2,1,0
 train,1,31,106,399793,The Loss of Sexual Innocence ,2877,70,English,R,4000000,1999,5.4,1.78,2,Drama,1,0,0
 train,1,232,117,371897,Joe ,36494,118,English,R,4000000,2013,6.9,2.35,8,Drama,1,1,0
 train,1,68,102,354704,Prison ,2705,38,English,R,1300000,1987,5.9,1.85,14,Crime,4,1,0
 train,1,34,103,75078,An Everlasting Piece ,1398,26,English,R,14000000,2000,6.3,1.85,13,Comedy,1,0,0
-train,1,19,100,36031976.35870595,The Velocity of Gary ,1555,40,English,R,4000000,1998,5,2.35,1,Comedy,3,1,0
+train,1,19,100,193804.55268008844,The Velocity of Gary ,1555,40,English,R,4000000,1998,5,2.35,1,Comedy,3,1,0
 train,1,215,98,18469,Stake Land ,34263,141,English,R,650000,2010,6.5,2.35,1,Drama,3,0,0
 train,1,12,92,12836,The Last Time I Committed Suicide ,1686,28,English,R,4000000,1997,5.8,1.85,3,Biography,2,1,0
-train,1,34,168,406443.444210785,1776 ,6303,129,English,PG,4000000,1972,7.6,2.35,1,Drama,4,0,0
-train,0,35,96,5580919.106901788,Hell's Angels ,3753,53,English,Passed,3950000,1930,7.8,1.2,1,Drama,2,0,0
-train,1,6,103,4403591.087967376,Purple Violets ,2727,19,English,Unknown,4000000,2007,6.6,1.85,3,Comedy,3,0,0
-train,1,39,93,59013448.084931016,The Veil ,4146,29,English,R,4000000,2016,4.7,2.35,2,Horror,1,0,0
-train,1,3,84,11998646.934976181,How to Fall in Love ,1929,4,English,TV,4000000,2012,6.3,1.78,1,Comedy,2,0,0
-train,1,161,121,52215985.29665819,Network ,103493,317,English,R,3800000,1976,8.1,1.85,4,Drama,2,1,0
+train,1,34,168,43264920.0007429,1776 ,6303,129,English,PG,4000000,1972,7.6,2.35,1,Drama,4,0,0
+train,0,35,96,105278230.06719878,Hell's Angels ,3753,53,English,Passed,3950000,1930,7.8,1.2,1,Drama,2,0,0
+train,1,6,103,48844841.94049525,Purple Violets ,2727,19,English,Unknown,4000000,2007,6.6,1.85,3,Comedy,3,0,0
+train,1,39,93,2028363.3916653031,The Veil ,4146,29,English,R,4000000,2016,4.7,2.35,2,Horror,1,0,0
+train,1,3,84,136283.2087884697,How to Fall in Love ,1929,4,English,TV,4000000,2012,6.3,1.78,1,Comedy,2,0,0
+train,1,161,121,11727327.259584203,Network ,103493,317,English,R,3800000,1976,8.1,1.85,4,Drama,2,1,0
 train,1,157,226,198655278,Gone with the Wind ,215340,706,English,G,3977000,1939,8.2,1.37,3,Drama,4,0,0
 train,1,53,152,14873,Major Dundee ,5294,67,English,Approved,3800000,1965,6.8,2.35,4,Adventure,3,0,0
-train,1,1,92,127622.0734238466,Down for Life ,257,6,English,R,6445668.60217037,2009,7.3,1.85,1,Drama,1,0,0
+train,1,1,92,12013542.998920979,Down for Life ,257,6,English,R,6445668.60217037,2009,7.3,1.85,1,Drama,1,0,0
 train,1,21,107,8000000,Annie Get Your Gun ,3167,90,English,Passed,3768785,1950,7,1.37,3,Biography,5,0,0
 train,1,41,102,2956000,The Pirate ,3258,54,English,Approved,3700000,1948,7.1,1.37,1,Adventure,4,0,0
 train,1,134,88,83400000,Airplane! ,160281,427,English,PG,3500000,1980,7.8,1.85,1,Comedy,1,0,0
-train,1,11,88,2028005.9613981238,Chain of Command ,801,14,English,R,5000000,2015,3.5,1.33,1,Action,2,0,0
+train,1,11,88,25162185.615275018,Chain of Command ,801,14,English,R,5000000,2015,3.5,1.33,1,Action,2,0,0
 train,0,20,97,27900000,Friday ,74626,157,English,R,3500000,1995,7.3,1.85,7,Comedy,2,1,0
 train,1,28,97,27900000,Menace II Society ,39508,96,English,R,3500000,1993,7.5,1.85,3,Crime,3,1,0
 train,1,95,85,14000000,Creepshow 2 ,15956,118,English,R,3500000,1987,6,1.85,1,Comedy,4,0,0
-train,1,31,121,34950619.98710783,The Ballad of Cable Hogue ,6350,62,English,R,3716946,1970,7.3,1.85,4,Comedy,4,0,0
-train,0,79,134,13010488.786577974,In Cold Blood ,19026,128,English,Approved,3500000,1967,8,2.35,4,Biography,4,0,0
+train,1,31,121,107493277.31694984,The Ballad of Cable Hogue ,6350,62,English,R,3716946,1970,7.3,1.85,4,Comedy,4,0,0
+train,0,79,134,28736321.08096838,In Cold Blood ,19026,128,English,Approved,3500000,1967,8,2.35,4,Biography,4,0,0
 train,1,425,92,25138292,The Witch ,66483,452,English,R,3500000,2015,6.8,1.66,1,Horror,2,0,0
 train,1,19,93,10305534,I Got the Hook Up ,1721,38,English,R,3500000,1998,3.9,1.85,1,Comedy,1,0,0
 train,1,43,96,9449219,She's the One ,13949,98,English,R,3500000,1996,6.1,1.85,3,Comedy,3,0,0
 train,0,127,105,6390032,Gods and Monsters ,24977,229,English,R,3500000,1998,7.5,2.35,5,Biography,2,1,0
-train,1,33,94,203931.14842522598,Train ,4790,52,English,R,3596816.4391539833,2008,4.8,1.85,1,Horror,2,0,0
+train,1,33,94,6989626.274778678,Train ,4790,52,English,R,3596816.4391539833,2008,4.8,1.85,1,Horror,2,0,0
 train,1,252,37,5923044,Evil Dead II ,113451,537,English,NC17,3600000,1987,7.8,1.85,9,Comedy,4,0,0
 train,1,31,81,3293258,Pootie Tang ,11399,131,English,PG13,3000000,2001,5.2,1.85,1,Action,4,0,0
-train,1,139,97,15695731.209921295,Sharknado ,34532,236,English,TV,1000000,2013,3.3,1.78,1,Horror,1,1,0
+train,1,139,97,20616333.168772988,Sharknado ,34532,236,English,TV,1000000,2013,3.3,1.78,1,Horror,1,1,0
 train,1,30,101,220234,Ira & Abby ,1950,24,English,R,3500000,2006,6.5,1.85,1,Comedy,2,1,0
 train,1,50,98,101228,Winter Passing ,7228,53,English,R,3500000,2005,6.4,1.85,1,Comedy,2,2,0
 train,1,50,91,96793,D.E.B.S. ,12188,135,English,PG13,3500000,2004,5.3,2.35,2,Action,3,0,0
-train,1,15,98,469664.8156765478,The Betrayed ,1634,11,English,Unknown,3500000,2008,6.1,1.85,1,Crime,4,0,0
-train,1,5,104,22888437.70507559,Taxman ,372,20,English,R,1000000,1998,5.5,1.37,1,Action,4,0,0
-train,1,4,96,107092285.42105104,2:13 ,961,12,English,Unknown,3500000,2009,4.8,2.35,1,Horror,2,0,0
-train,1,7,92,9155607.914917031,Wicked Blood ,1928,10,English,Not Rated,3500000,2014,5.4,1.85,1,Action,4,0,0
-train,1,55,94,31781952.452587813,High Anxiety ,15115,102,English,PG,3400000,1977,6.7,1.85,6,Comedy,1,0,0
+train,1,15,98,3443726.0681715473,The Betrayed ,1634,11,English,Unknown,3500000,2008,6.1,1.85,1,Crime,4,0,0
+train,1,5,104,12352470.777959645,Taxman ,372,20,English,R,1000000,1998,5.5,1.37,1,Action,4,0,0
+train,1,4,96,14253686.25480649,2:13 ,961,12,English,Unknown,3500000,2009,4.8,2.35,1,Horror,2,0,0
+train,1,7,92,7050344.871736518,Wicked Blood ,1928,10,English,Not Rated,3500000,2014,5.4,1.85,1,Action,4,0,0
+train,1,55,94,42931812.251871035,High Anxiety ,15115,102,English,PG,3400000,1977,6.7,1.85,6,Comedy,1,0,0
 train,1,290,107,5354039,Margin Call ,92599,225,English,R,3500000,2011,7.1,1.85,3,Biography,3,2,0
-train,1,10,99,311074.7678740839,August ,1262,13,English,Not Rated,8594282.106441798,2011,6.1,2.35,1,Drama,2,0,0
+train,1,10,99,29283950.751031227,August ,1262,13,English,Not Rated,8594282.106441798,2011,6.1,2.35,1,Drama,2,0,0
 train,1,159,92,2926565,Choke ,28573,72,English,R,3000000,2008,6.5,1.66,1,Comedy,2,1,0
 train,1,535,107,13092000,Whiplash ,399138,731,English,R,3300000,2014,8.5,2.4,1,Drama,2,1,1
 train,1,85,93,17311,The Dead Girl ,12304,73,English,R,10028600.129648445,2006,6.7,1.85,2,Crime,3,1,0
-train,1,109,94,58582161.49375723,A Christmas Story ,104908,458,English,PG,4000000,1983,8.1,1.85,2,Comedy,2,0,0
+train,1,109,94,13917036.944216125,A Christmas Story ,104908,458,English,PG,4000000,1983,8.1,1.85,2,Comedy,2,0,0
 train,1,60,91,8108247,Bella ,9607,174,English,PG13,3300000,2006,7.4,1.85,1,Drama,2,0,0
-train,1,1,97,1588846.892928512,The Opposite Sex ,557,3,English,Unknown,3300000,2014,4.5,16,1,Comedy,1,0,0
-train,1,215,136,20221199.55358952,Rosemary's Baby ,140527,447,English,R,2300000,1968,8,1.85,1,Drama,2,0,0
-train,0,107,113,28992277.875346452,The Man Who Shot Liberty Valance ,53741,214,English,Approved,3200000,1962,8.1,1.85,4,Drama,2,0,0
+train,1,1,97,9354113.881469961,The Opposite Sex ,557,3,English,Unknown,3300000,2014,4.5,16,1,Comedy,1,0,0
+train,1,215,136,34943251.272283874,Rosemary's Baby ,140527,447,English,R,2300000,1968,8,1.85,1,Drama,2,0,0
+train,0,107,113,18811186.67525451,The Man Who Shot Liberty Valance ,53741,214,English,Approved,3200000,1962,8.1,1.85,4,Drama,2,0,0
 train,1,122,99,2277396,Adam ,29239,70,English,PG13,14081921.398106996,2009,7.2,2.35,1,Drama,2,0,0
 train,1,261,105,5776314,Beginners ,73349,142,English,R,3200000,2010,7.2,1.85,2,Comedy,3,0,0
-train,1,130,95,12820094.718776433,Feast ,25542,252,English,R,3200000,2005,6.4,2.35,1,Action,4,0,1
+train,1,130,95,10531962.179576553,Feast ,25542,252,English,R,3200000,2005,6.4,2.35,1,Action,4,0,1
 train,1,94,109,141600000,Animal House ,90177,257,English,R,3000000,1978,7.6,1.85,5,Comedy,1,0,0
-train,1,206,118,33437380.2665511,It's a Wonderful Life ,275720,706,English,PG,3180000,1946,8.6,1.37,5,Drama,4,0,0
+train,1,206,118,35340106.94915574,It's a Wonderful Life ,275720,706,English,PG,3180000,1946,8.6,1.37,5,Drama,4,0,0
 train,1,264,98,84749884,Paranormal Activity 2 ,82133,359,English,R,3000000,2010,5.7,1.85,1,Horror,1,0,0
 train,1,138,87,30000000,A Nightmare on Elm Street 2: Freddy's Revenge ,43485,327,English,R,2200000,1985,5.4,1.85,1,Fantasy,2,0,0
 train,1,361,85,64423650,The Purge ,139329,578,English,R,3000000,2013,5.7,2.35,2,Horror,3,0,0
 train,1,411,110,48056940,Sinister ,155153,524,English,R,3000000,2012,6.8,2.35,4,Horror,2,0,0
 train,1,24,113,19184015,Martin Lawrence Live: Runteldat ,1466,35,English,R,3000000,2002,5.4,1.85,3,Biography,3,0,0
-train,1,70,108,121299729.78337292,Cat on a Hot Tin Roof ,33741,141,English,Approved,3000000,1958,8.1,1.85,4,Drama,2,0,0
-train,1,78,95,61719746.71251457,Beneath the Planet of the Apes ,32378,150,English,G,3000000,1970,6.1,2.35,2,Action,3,0,0
+train,1,70,108,36621402.92944459,Cat on a Hot Tin Roof ,33741,141,English,Approved,3000000,1958,8.1,1.85,4,Drama,2,0,0
+train,1,78,95,15055327.178695673,Beneath the Planet of the Apes ,32378,150,English,G,3000000,1970,6.1,2.35,2,Action,3,0,0
 train,1,35,98,24629916,Air Bud ,12942,34,English,PG,3000000,1997,5.1,1.85,3,Comedy,4,1,0
 train,1,158,86,19472057,Jason Lives: Friday the 13th Part VI ,25332,307,English,R,3000000,1986,5.9,1.85,1,Horror,2,0,0
 train,1,16,100,15369573,Spaced Invaders ,2580,54,English,PG,3000000,1990,5.3,1.85,2,Adventure,3,0,0
-train,1,67,120,9433020.522558946,Family Plot ,15293,111,English,PG,4490375,1976,6.8,1.85,7,Comedy,2,1,0
-train,0,183,125,176977446.10950288,The Apartment ,109335,241,English,Approved,3000000,1960,8.3,2.35,4,Comedy,3,0,0
+train,1,67,120,8059723.865585866,Family Plot ,15293,111,English,PG,4490375,1976,6.8,1.85,7,Comedy,2,1,0
+train,0,183,125,85867815.65557392,The Apartment ,109335,241,English,Approved,3000000,1960,8.3,2.35,4,Comedy,3,0,0
 train,1,112,91,15935068,Jason Goes to Hell: The Final Friday ,19331,317,English,R,2500000,1993,4.3,1.85,1,Fantasy,3,0,0
-train,1,64,128,40423419.91619978,Torn Curtain ,18656,137,English,Approved,6000000,1966,6.7,1.85,7,Other,1,0,0
-train,1,42,146,3952316.9808501042,Elmer Gantry ,7998,81,English,Approved,3000000,1960,7.9,1.66,4,Drama,1,0,0
-train,0,73,186,16962038.831638232,Judgment at Nuremberg ,44457,176,English,Not Rated,3000000,1961,8.3,1.75,2,Drama,2,0,0
+train,1,64,128,9863212.25917572,Torn Curtain ,18656,137,English,Approved,6000000,1966,6.7,1.85,7,Other,1,0,0
+train,1,42,146,22675467.49040072,Elmer Gantry ,7998,81,English,Approved,3000000,1960,7.9,1.66,4,Drama,1,0,0
+train,0,73,186,16898616.3859594,Judgment at Nuremberg ,44457,176,English,Not Rated,3000000,1961,8.3,1.75,2,Drama,2,0,0
 train,1,16,94,9016377,Trippin' ,1004,8,English,R,8286262.690287688,1999,5.2,1.85,3,Comedy,1,0,0
-train,0,91,126,52715696.200567834,Red River ,21316,162,English,Approved,3000000,1948,7.8,1.37,1,Action,4,0,0
+train,0,91,126,70086196.97668837,Red River ,21316,162,English,Approved,3000000,1948,7.8,1.37,1,Action,4,0,0
 train,1,37,99,7059537,Phat Girlz ,8279,101,English,PG13,3000000,2006,3,1.85,1,Comedy,1,0,0
 train,1,405,109,8114507,Before Midnight ,95362,270,English,R,3000000,2013,7.9,1.85,10,Drama,2,0,0
 train,1,29,95,7888703,Teen Wolf Too ,8465,65,English,PG,3000000,1987,3.2,1.85,1,Comedy,2,0,0
@@ -2639,10 +2639,10 @@ train,1,75,90,5844929,Real Women Have Curves ,6000,109,English,PG13,3000000,200
 train,1,48,82,4142507,Whipped ,3665,81,English,R,3000000,2000,4.4,1.85,1,Comedy,2,0,0
 train,1,33,109,4109095,Kama Sutra: A Tale of Love ,8239,92,English,R,3000000,1996,6,1.85,4,Crime,4,0,0
 train,1,133,90,4033268,Please Give ,9808,53,English,R,17754929.296151694,2010,6.6,2.35,4,Comedy,2,1,0
-train,1,104,89,50230548.722825184,Willy Wonka & the Chocolate Factory ,128334,349,English,G,3000000,1971,7.8,1.33,1,Other,3,0,0
+train,1,104,89,73432048.06344159,Willy Wonka & the Chocolate Factory ,128334,349,English,G,3000000,1971,7.8,1.33,1,Other,3,0,0
 train,1,22,98,3902679,Warlock: The Armageddon ,3943,49,English,R,3000000,1993,5.3,1.66,1,Fantasy,2,0,0
 train,1,30,95,3559990,8 Heads in a Duffel Bag ,8005,49,English,R,3000000,1997,5.3,1.85,1,Comedy,2,0,0
-train,1,112,94,5819342.550988248,Days of Heaven ,37594,181,English,PG,3000000,1978,8,1.85,4,Drama,2,1,0
+train,1,112,94,10689874.191113394,Days of Heaven ,37594,181,English,PG,3000000,1978,8,1.85,4,Drama,2,1,0
 train,1,79,104,3287435,Thirteen Conversations About One Thing ,8603,115,English,R,4500000,2001,7.1,1.85,1,Drama,1,1,0
 train,1,49,87,3071947,Jawbreaker ,18711,183,English,R,3500000,1999,5.4,1.85,1,Comedy,3,1,0
 train,1,42,108,2961991,Basquiat ,15885,78,English,R,3300000,1996,6.9,1.85,1,Biography,2,1,0
@@ -2651,36 +2651,36 @@ train,1,148,134,3000000,Happiness ,55329,499,English,Unknown,3000000,1998,7.8,1
 train,1,23,89,2223990,DysFunktional Family ,761,14,English,R,3000000,2003,6.6,1.85,2,Comedy,2,0,0
 train,1,254,102,1821983,Tusk ,31089,261,English,R,3000000,2014,5.4,2.35,11,Comedy,3,1,1
 train,1,19,110,2848578,Letters to God ,3942,65,English,PG,3500000,2010,6.3,1.78,1,Drama,2,0,0
-train,1,65,102,1515025.4713243132,Freeway ,22246,196,English,R,3000000,1996,6.9,1.85,1,Comedy,4,0,0
+train,1,65,102,10147831.867353367,Freeway ,22246,196,English,R,3000000,1996,6.9,1.85,1,Comedy,4,0,0
 train,1,152,99,1007535,Damsels in Distress ,7625,54,English,PG13,22242944.859285578,2011,5.7,1.85,2,Comedy,3,0,0
 train,1,82,93,200803,Tim and Eric's Billion Dollar Movie ,7988,71,English,R,3000000,2012,5.3,1.78,1,Comedy,1,0,0
 train,1,63,88,143000,Chain Letter ,4122,48,English,R,5000000,2009,4.1,2.35,1,Horror,2,0,0
 train,1,20,97,39852,Just Looking ,1238,25,English,R,3000000,1999,6.7,1.85,1,Comedy,2,0,0
-train,1,14,80,44862464.23092064,My Big Fat Independent Movie ,1257,24,English,R,3000000,2005,3.3,1.78,1,Comedy,1,0,0
-train,1,121,90,16319216.94021943,The Deported ,62,1,English,PG13,3000000,2009,6.2,1.85,1,Comedy,1,1,0
-train,1,98,83,17223159.82162704,They Came Together ,16987,85,English,R,15681314.73395023,2014,5.5,1.85,3,Comedy,1,1,0
-train,1,29,80,10290607.265223704,30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon Tattoo ,2978,13,English,R,3000000,2013,2.6,1.85,2,Comedy,1,0,0
-train,1,23,90,1147675.983278215,Never Back Down 2: The Beatdown ,13599,30,English,R,3000000,2011,5.8,1.85,1,Action,3,0,0
-train,1,87,92,6030408.978709369,Point Blank ,13640,128,English,Approved,3000000,1967,7.4,2.35,3,Crime,2,0,0
-train,1,11,94,7971085.552113495,Chicago Overcoat ,706,14,English,R,3000000,2009,6.2,1.78,1,Action,4,1,0
-train,1,34,95,33465368.77373937,Barry Munday ,3443,20,English,R,13198026.401375394,2010,5.9,1.85,1,Comedy,3,1,0
+train,1,14,80,13227038.095104825,My Big Fat Independent Movie ,1257,24,English,R,3000000,2005,3.3,1.78,1,Comedy,1,0,0
+train,1,121,90,4987854.657837706,The Deported ,62,1,English,PG13,3000000,2009,6.2,1.85,1,Comedy,1,1,0
+train,1,98,83,237331.52990435087,They Came Together ,16987,85,English,R,15681314.73395023,2014,5.5,1.85,3,Comedy,1,1,0
+train,1,29,80,11975208.366536042,30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon Tattoo ,2978,13,English,R,3000000,2013,2.6,1.85,2,Comedy,1,0,0
+train,1,23,90,37796178.593578,Never Back Down 2: The Beatdown ,13599,30,English,R,3000000,2011,5.8,1.85,1,Action,3,0,0
+train,1,87,92,21483294.327320192,Point Blank ,13640,128,English,Approved,3000000,1967,7.4,2.35,3,Crime,2,0,0
+train,1,11,94,8591983.439220605,Chicago Overcoat ,706,14,English,R,3000000,2009,6.2,1.78,1,Action,4,1,0
+train,1,34,95,78818778.29304361,Barry Munday ,3443,20,English,R,13198026.401375394,2010,5.9,1.85,1,Comedy,3,1,0
 train,1,35,105,3123749,Boynton Beach Club ,746,27,English,R,1500000,2005,6.5,1.85,1,Comedy,2,0,0
-train,1,14,89,4027905.4198551914,Unnatural ,859,17,English,R,3000000,2015,4,2.35,1,Action,3,0,0
+train,1,14,89,19506939.453081902,Unnatural ,859,17,English,R,3000000,2015,4,2.35,1,Action,3,0,0
 train,0,181,120,25000000,Some Like It Hot ,175196,350,English,Not Rated,2883848,1959,8.3,1.66,4,Comedy,3,0,0
 train,1,110,88,19170001,Friday the 13th Part VII: The New Blood ,21359,270,English,R,2800000,1988,5.3,1.85,1,Horror,1,0,0
 train,0,129,106,86300000,Young Frankenstein ,112671,315,English,PG,2800000,1974,8,1.85,6,Comedy,1,0,0
 train,1,280,95,952620,Diary of the Dead ,40800,332,English,R,2000000,2007,5.7,1.85,5,Horror,1,0,0
 train,1,61,113,9054736,Ulee's Gold ,5744,57,English,R,2700000,1997,7.1,1.66,2,Drama,1,0,0
-train,1,33,118,19057544.869063184,The Black Stallion ,8856,90,English,G,2700000,1979,7.4,1.85,2,Adventure,3,0,0
-train,1,27,109,37465852.95023441,Donovan's Reef ,5786,65,English,Not Rated,2686585,1963,6.9,1.85,4,Adventure,3,0,0
+train,1,33,118,40401774.1004943,The Black Stallion ,8856,90,English,G,2700000,1979,7.4,1.85,2,Adventure,3,0,0
+train,1,27,109,14074140.858448712,Donovan's Reef ,5786,65,English,Not Rated,2686585,1963,6.9,1.85,4,Adventure,3,0,0
 train,1,121,93,119500000,Blazing Saddles ,95294,363,English,R,2600000,1974,7.8,2.35,6,Comedy,2,0,0
 train,1,166,97,32600000,Friday the 13th: The Final Chapter ,29488,326,English,R,1800000,1984,5.9,1.85,2,Horror,2,0,0
-train,1,169,103,59687219.934722625,Singin' in the Rain ,150020,568,English,Approved,2540800,1952,8.3,1.37,1,Comedy,3,0,0
+train,1,169,103,62321676.138219126,Singin' in the Rain ,150020,568,English,Approved,2540800,1952,8.3,1.37,1,Comedy,3,0,0
 train,1,129,86,40041683,A Haunted House ,34620,107,English,R,2500000,2013,5.1,1.85,2,Comedy,2,0,0
 train,1,30,87,33349949,2016: Obama's America ,9010,199,English,PG,2500000,2012,5.1,1.85,1,Documentary,1,0,0
 train,1,162,98,14400000,Halloween III: Season of the Witch ,28589,532,English,R,2500000,1982,4.6,2.35,1,Horror,3,0,0
-train,1,74,98,4407394.479973634,Escape from the Planet of the Apes ,23546,92,English,G,2500000,1971,6.3,2.35,1,Action,2,0,0
-train,0,65,112,118010595.01655038,Hud ,15277,120,English,Approved,2500000,1963,7.9,2.35,2,Drama,1,0,0
+train,1,74,98,74655259.70081355,Escape from the Planet of the Apes ,23546,92,English,G,2500000,1971,6.3,2.35,1,Action,2,0,0
+train,0,65,112,28929131.83294505,Hud ,15277,120,English,Approved,2500000,1963,7.9,2.35,2,Drama,1,0,0
 train,1,26,75,32230907,Kevin Hart: Let Me Explain ,6062,30,English,R,2500000,2013,6.7,1.85,2,Comedy,2,0,0
 train,1,63,104,6401336,My Own Private Idaho ,36996,153,English,R,2500000,1991,7.1,1.78,7,Drama,1,1,0
 train,1,205,102,26781723,Garden State ,187595,978,English,R,2500000,2004,7.6,2.35,2,Comedy,3,0,0
@@ -2694,38 +2694,38 @@ train,1,14,112,173783,Fuel ,578,34,English,Not Rated,2500000,2008,7.6,1.85,1,Do
 train,1,3,100,118666,Valley of the Heart's Delight ,91,3,English,Unknown,2500000,2006,6.6,1.85,1,Drama,1,1,0
 train,1,18,100,71904,Eye of the Dolphin ,806,18,English,PG13,2500000,2006,5.7,1.85,1,Comedy,3,0,0
 train,1,28,80,99851,8: The Mormon Proposition ,1138,30,English,R,2500000,2010,7.1,1.78,1,Documentary,1,0,0
-train,1,47,90,75727,Sleep Dealer ,5699,40,Spanish,PG13,2500000,2008,5.9,1.85,1,Drama,4,0,0
+train,1,47,90,75727,Sleep Dealer ,5699,40,Other,PG13,2500000,2008,5.9,1.85,1,Drama,4,0,0
 train,1,238,96,322157,Super ,61787,203,English,R,2500000,2010,6.8,1.85,2,Comedy,3,0,0
 train,1,121,84,438653,Idiocracy ,108052,434,English,R,20538475.381002028,2006,6.6,1.85,4,Adventure,3,0,0
-train,1,8,101,39193800.40658545,Bathing Beauty ,1079,28,English,Passed,2361000,1944,6.5,1.37,3,Comedy,2,0,0
+train,1,8,101,17236422.859525517,Bathing Beauty ,1079,28,English,Passed,2361000,1944,6.5,1.37,3,Comedy,2,0,0
 train,1,8,105,178739,Go for It! ,1015,10,English,PG13,2450000,2011,3.9,1.85,1,Drama,2,0,0
 train,1,15,97,565592,"Dancer, Texas Pop. 81 ",2189,63,English,PG,8603012.295201065,1998,6.8,1.85,2,Comedy,3,0,0
-train,1,14,108,39107103.03048793,Show Boat ,3538,46,English,Approved,2295429,1951,7,1.33,3,Drama,4,0,0
+train,1,14,108,124140654.83863167,Show Boat ,3538,46,English,Approved,2295429,1951,7,1.33,3,Drama,4,0,0
 train,1,12,95,27012,Redemption Road ,440,9,English,PG13,7761956.090529976,2010,5.9,2.35,1,Drama,1,0,0
 train,1,99,120,76400000,Fantasia ,71321,230,English,G,2280000,1940,7.8,1.37,3,Animation,4,0,0
 train,1,235,91,36200000,Friday the 13th Part III ,31952,372,English,R,4000000,1982,5.7,2.35,5,Horror,2,0,0
 train,1,18,117,379643,The Last Sin Eater ,1573,29,English,PG13,2200000,2007,5.9,1.85,1,Drama,1,0,0
-train,0,7,119,117341781.73457295,The Valley of Decision ,1314,29,English,Passed,2160000,1945,7.5,1.37,1,Drama,1,0,0
+train,0,7,119,23384676.68315645,The Valley of Decision ,1314,29,English,Passed,2160000,1945,7.5,1.37,1,Drama,1,0,0
 train,0,97,172,23650000,The Best Years of Our Lives ,40359,235,English,Not Rated,2100000,1946,8.1,1.37,1,Drama,3,0,0
 train,1,76,115,510092,Bully ,29424,336,English,R,11565123.361525966,2001,7,1.85,2,Biography,3,0,0
 train,1,4,125,3330,Mi America ,22,1,English,R,2100000,2015,7.2,2.35,1,Crime,2,0,0
-train,1,121,89,146324.44018420982,Lies in Plain Sight ,544,4,English,TV,2100000,2010,6.3,1.78,2,Drama,1,0,0
-train,1,1,100,6766949.898275068,Sharkskin ,6,1,English,Unknown,2100000,2015,6.7,2.39,1,Comedy,5,0,0
-train,1,19,81,5611189.565563502,The Timber ,1274,17,English,Unknown,2100000,2015,5.5,2.35,1,Adventure,3,0,0
+train,1,121,89,213527.2604443446,Lies in Plain Sight ,544,4,English,TV,2100000,2010,6.3,1.78,2,Drama,1,0,0
+train,1,1,100,22906580.23129774,Sharkskin ,6,1,English,Unknown,2100000,2015,6.7,2.39,1,Comedy,5,0,0
+train,1,19,81,1276357.4381162543,The Timber ,1274,17,English,Unknown,2100000,2015,5.5,2.35,1,Adventure,3,0,0
 train,1,49,96,792966,The Toxic Avenger Part II ,4663,40,English,R,2300000,1989,5.1,1.33,2,Action,4,0,0
-train,1,66,89,77347561.12448786,Sleeper ,33335,128,English,PG,2000000,1973,7.3,1.85,18,Comedy,2,1,0
-train,0,50,88,40274950.25944905,Everything You Always Wanted to Know About Sex * But Were Afraid to Ask ,31077,78,English,R,2000000,1972,6.8,1.85,18,Comedy,1,1,0
-train,0,127,129,33383287.253799476,To Kill a Mockingbird ,215086,471,English,Not Rated,2000000,1962,8.4,1.85,1,Crime,2,1,0
+train,1,66,89,50549939.57524943,Sleeper ,33335,128,English,PG,2000000,1973,7.3,1.85,18,Comedy,2,1,0
+train,0,50,88,50019440.98147123,Everything You Always Wanted to Know About Sex * But Were Afraid to Ask ,31077,78,English,R,2000000,1972,6.8,1.85,18,Comedy,1,1,0
+train,0,127,129,91557857.957788,To Kill a Mockingbird ,215086,471,English,Not Rated,2000000,1962,8.4,1.85,1,Crime,2,1,0
 train,1,123,118,11533945,Boys Don't Cry ,77551,434,English,R,2000000,1999,7.6,1.85,3,Biography,4,0,0
 train,1,34,129,34522221,Courageous ,15401,175,English,PG13,2000000,2011,7,2.35,4,Drama,1,0,0
-train,0,100,134,26808500.181334328,The Hustler ,62860,167,English,Unrated,2000000,1961,8,2.35,1,Drama,2,0,0
-train,0,12,119,169642013.11505187,Boom Town ,2269,34,English,Passed,1614000,1940,7.1,1.37,1,Adventure,4,0,0
+train,0,100,134,52928378.411862,The Hustler ,62860,167,English,Unrated,2000000,1961,8,2.35,1,Drama,2,0,0
+train,0,12,119,94287488.36634818,Boom Town ,2269,34,English,Passed,1614000,1940,7.1,1.37,1,Adventure,4,0,0
 train,1,180,101,6003587,American Splendor ,41999,226,English,R,15461420.576150766,2003,7.5,1.85,2,Biography,3,1,0
 train,1,211,80,5792822,Before Sunset ,168398,492,English,R,2700000,2004,8,1.85,10,Drama,2,0,0
 train,1,126,100,4599680,Thirteen ,68222,545,English,R,1500000,2003,6.8,1.85,6,Drama,1,0,0
-train,0,61,118,10770993.266792376,Gentleman's Agreement ,10791,113,English,Approved,2000000,1947,7.4,1.37,3,Drama,2,0,0
+train,0,61,118,37785148.84507545,Gentleman's Agreement ,10791,113,English,Approved,2000000,1947,7.4,1.37,3,Drama,2,0,0
 train,1,365,100,6531491,Winter's Bone ,111658,297,English,R,2000000,2010,7.2,1.85,1,Drama,1,1,1
-train,0,10,106,23912689.760169633,Alexander's Ragtime Band ,1381,29,English,Approved,2000000,1938,7,1.37,1,Drama,3,0,0
+train,0,10,106,61830543.31757884,Alexander's Ragtime Band ,1381,29,English,Approved,2000000,1938,7,1.37,1,Drama,3,0,0
 train,1,151,91,3885134,Me and You and Everyone We Know ,31130,243,English,R,2000000,2005,7.4,1.85,1,Comedy,2,0,0
 train,1,171,105,4311834,Inside Job ,55382,129,English,PG13,10931313.675604897,2010,8.3,2.35,2,Crime,2,1,0
 train,1,118,116,3335839,Harsh Times ,54657,222,English,R,2000000,2005,7,1.85,6,Action,4,2,2
@@ -2743,109 +2743,109 @@ train,1,221,94,347578,Teeth ,34556,161,English,R,20684291.164336983,2007,5.4,1.
 train,1,51,91,124494,Six-String Samurai ,5613,102,English,PG13,2000000,1998,6.7,1.85,1,Action,6,0,0
 train,1,45,85,100669,Saint John of Las Vegas ,2522,11,English,R,3800000,2009,5.8,2.35,1,Comedy,2,2,1
 train,1,74,129,186354,Stonewall ,1758,30,English,R,13500000,2015,4.5,2.35,7,Drama,1,0,1
-train,1,5,100,6453829.580370937,This Thing of Ours ,508,18,English,Not Rated,6404700.019333174,2003,5.4,1.85,1,Crime,2,0,0
+train,1,5,100,6834742.361649253,This Thing of Ours ,508,18,English,Not Rated,6404700.019333174,2003,5.4,1.85,1,Crime,2,0,0
 train,1,81,94,137945,The Last Five Years ,6223,40,English,PG13,18121813.519979358,2014,5.9,2.35,4,Comedy,4,1,0
 train,1,66,95,17580,The Missing Person ,1268,23,English,Unknown,1500000,2009,6.2,1.85,1,Drama,1,0,0
-train,1,46,97,23804316.114127807,Return of the Living Dead III ,10182,130,English,R,2000000,1993,5.9,1.85,1,Horror,3,0,0
+train,1,46,97,6222038.987337413,Return of the Living Dead III ,10182,130,English,R,2000000,1993,5.9,1.85,1,Horror,3,0,0
 train,1,18,99,2843,Plush ,2895,24,English,R,7031422.726046443,2013,5.4,1.78,6,Other,1,0,0
-train,1,25,83,1235111.7943688075,Nine Dead ,9280,64,English,R,2000000,2010,5.5,2.35,1,Crime,5,0,0
-train,1,40,82,13331458.08725813,Bananas ,27646,105,English,PG,2000000,1971,7.1,1.37,18,Comedy,1,1,0
+train,1,25,83,5401422.444568633,Nine Dead ,9280,64,English,R,2000000,2010,5.5,2.35,1,Crime,5,0,0
+train,1,40,82,11095423.12655968,Bananas ,27646,105,English,PG,2000000,1971,7.1,1.37,18,Comedy,1,1,0
 train,0,90,92,7927,The Lady from Shanghai ,19236,175,English,Not Rated,2300000,1947,7.7,1.37,1,Crime,5,0,0
-train,1,21,88,1864.4724249341332,No Man's Land: The Rise of Reeker ,2701,31,English,R,2000000,2008,4.9,1.78,1,Horror,2,0,0
-train,1,12,97,986566.7057447536,Highway ,5182,67,English,R,14000000,2002,6.3,2.35,2,Crime,2,1,0
-train,1,33,96,77307.05367551756,Small Apartments ,5732,26,English,R,2000000,2012,6.1,1.85,2,Comedy,3,0,0
-train,1,9,87,2278300.6153978296,Coffee Town ,4204,19,English,Unknown,2000000,2013,6.6,2.35,1,Comedy,1,0,1
+train,1,21,88,10515364.756703485,No Man's Land: The Rise of Reeker ,2701,31,English,R,2000000,2008,4.9,1.78,1,Horror,2,0,0
+train,1,12,97,13346.899127935045,Highway ,5182,67,English,R,14000000,2002,6.3,2.35,2,Crime,2,1,0
+train,1,33,96,6272165.921120948,Small Apartments ,5732,26,English,R,2000000,2012,6.1,1.85,2,Comedy,3,0,0
+train,1,9,87,550774.0176002723,Coffee Town ,4204,19,English,Unknown,2000000,2013,6.6,2.35,1,Comedy,1,0,1
 train,0,94,106,2436,The Ghastly Love of Johnny X ,344,19,English,Not Rated,2000000,2012,5.7,2.35,1,Comedy,4,0,0
-train,1,25,99,2512845.896174803,A Funny Thing Happened on the Way to the Forum ,6804,72,English,Approved,2000000,1966,7,1.85,3,Comedy,2,0,0
+train,1,25,99,31254441.106684875,A Funny Thing Happened on the Way to the Forum ,6804,72,English,Approved,2000000,1966,7,1.85,3,Comedy,2,0,0
 train,0,45,99,4600000,River's Edge ,11763,111,English,R,1900000,1986,7.1,1.85,1,Crime,2,1,0
 train,1,60,103,1420578,Northfork ,4894,122,English,PG13,1900000,2003,6.4,2.35,4,Drama,2,0,0
 train,1,10,89,444044,Brotherly Love ,744,19,English,R,1900000,2015,7.2,1.85,1,Drama,1,0,0
-train,0,94,125,21074530.105301023,A Streetcar Named Desire ,78454,233,English,PG,1800000,1951,8,1.37,3,Drama,1,0,0
-train,0,192,95,135262021.4113651,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb ,342585,839,English,PG,1800000,1964,8.5,1.66,2,Comedy,1,0,0
+train,0,94,125,46987259.92765011,A Streetcar Named Desire ,78454,233,English,PG,1800000,1951,8,1.37,3,Drama,1,0,0
+train,0,192,95,1115550.2601245637,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb ,342585,839,English,PG,1800000,1964,8.5,1.66,2,Comedy,1,0,0
 train,1,663,93,12784397,Beasts of the Southern Wild ,70336,269,English,PG13,1800000,2012,7.3,1.85,1,Drama,2,0,0
-train,1,62,96,19839101.69009048,Battle for the Planet of the Apes ,22764,91,English,G,1800000,1973,5.5,2.35,2,Action,2,0,0
+train,1,62,96,2973831.1422863007,Battle for the Planet of the Apes ,22764,91,English,G,1800000,1973,5.5,2.35,2,Action,2,0,0
 train,1,39,109,3050934,Songcatcher ,2794,78,English,PG13,1800000,2000,7.3,1.85,1,Drama,2,0,0
 train,1,68,109,841206,Higher Ground ,2603,34,English,R,13935172.021776795,2011,6.3,1.85,1,Drama,1,0,0
-train,0,13,93,63561494.287102066,Ed and His Dead Mother ,1435,17,English,PG13,1800000,1993,6.1,1.78,1,Comedy,2,1,0
-train,1,26,114,9470076.616238734,Hang 'Em High ,25472,109,English,PG13,1800000,1968,7,1.85,2,Other,1,2,0
-train,0,27,87,3341862.69095145,Deadline - U.S.A. ,1756,28,English,Unknown,140369.5503257558,1952,7.2,1.37,4,Crime,3,0,0
-train,1,53,113,8119785.670951733,Sublime ,6267,103,English,R,1800000,2007,5.3,2.35,1,Horror,2,0,0
-train,1,4,111,81548390.1005682,Dysfunctional Friends ,686,8,English,Not Rated,1800000,2012,5.4,1.85,1,Comedy,2,0,0
+train,0,13,93,31119317.474633206,Ed and His Dead Mother ,1435,17,English,PG13,1800000,1993,6.1,1.78,1,Comedy,2,1,0
+train,1,26,114,66560247.11846901,Hang 'Em High ,25472,109,English,PG13,1800000,1968,7,1.85,2,Other,1,2,0
+train,0,27,87,29284213.73000779,Deadline - U.S.A. ,1756,28,English,Unknown,140369.5503257558,1952,7.2,1.37,4,Crime,3,0,0
+train,1,53,113,8585586.656060182,Sublime ,6267,103,English,R,1800000,2007,5.3,2.35,1,Horror,2,0,0
+train,1,4,111,5745466.924021915,Dysfunctional Friends ,686,8,English,Not Rated,1800000,2012,5.4,1.85,1,Comedy,2,0,0
 train,1,114,93,145540,May ,26773,277,English,R,500000,2002,6.7,1.85,1,Drama,2,0,0
-train,1,1,112,98807449.20056531,Living Dark: The Story of Ted the Caver ,28,1,English,PG13,1750000,2013,6.3,1.85,1,Horror,1,0,0
-train,1,80,88,71743640.11243038,Conquest of the Planet of the Apes ,23268,95,English,PG,1700000,1972,6.1,2.35,2,Action,2,0,0
+train,1,1,112,5129057.956535544,Living Dark: The Story of Ted the Caver ,28,1,English,PG13,1750000,2013,6.3,1.85,1,Horror,1,0,0
+train,1,80,88,12354609.66050603,Conquest of the Planet of the Apes ,23268,95,English,PG,1700000,1972,6.1,2.35,2,Action,2,0,0
 train,1,179,138,35918429,In the Bedroom ,32415,510,English,R,1700000,2001,7.5,2.35,2,Crime,2,1,0
 train,1,225,105,92401,I Spit on Your Grave ,56402,209,English,R,2000000,2010,6.3,2.35,1,Horror,2,0,0
-train,0,51,126,65682888.452816114,You Can't Take It with You ,17799,133,English,Approved,1644736,1938,8,1.37,5,Comedy,3,0,0
-train,0,101,118,134131.18111210165,From Here to Eternity ,33987,150,English,Not Rated,1650000,1953,7.8,1.37,4,Drama,3,0,0
-train,1,55,103,159268933.1731436,She Wore a Yellow Ribbon ,11920,90,English,Unrated,1600000,1949,7.4,1.37,4,Other,1,0,0
+train,0,51,126,85115179.20685743,You Can't Take It with You ,17799,133,English,Approved,1644736,1938,8,1.37,5,Comedy,3,0,0
+train,0,101,118,42756489.293278486,From Here to Eternity ,33987,150,English,Not Rated,1650000,1953,7.8,1.37,4,Drama,3,0,0
+train,1,55,103,83468586.51038434,She Wore a Yellow Ribbon ,11920,90,English,Unrated,1600000,1949,7.4,1.37,4,Other,1,0,0
 train,1,5,116,2592808,N-Secure ,548,15,English,R,12160923.339819545,2010,3.5,2.35,1,Crime,3,0,0
-train,1,40,92,527755.9985291517,Out of the Dark ,2621,18,English,R,4716288.363995371,2014,4.7,2.35,1,Horror,2,0,0
-train,1,149,113,47564655.863531396,The Conversation ,74651,313,English,PG,1600000,1974,7.9,1.37,11,Drama,3,1,0
+train,1,40,92,4786361.645937795,Out of the Dark ,2621,18,English,R,4716288.363995371,2014,4.7,2.35,1,Horror,2,0,0
+train,1,149,113,66013580.606111005,The Conversation ,74651,313,English,PG,1600000,1974,7.9,1.37,11,Drama,3,1,0
 train,1,22,111,2580,I Love Your Work ,1618,40,English,R,1650000,2003,5.4,2.35,1,Drama,2,1,0
 train,1,173,108,19067631,Waitress ,37714,204,English,PG13,2000000,2007,7.1,1.85,1,Comedy,3,0,0
 train,1,61,92,11806119,Bloodsport ,57578,210,English,R,1100000,1988,6.8,1.85,1,Action,4,0,0
-train,0,96,120,110870960.2143509,Mr. Smith Goes to Washington ,77392,245,English,Not Rated,1500000,1939,8.2,1.37,5,Comedy,2,0,0
+train,0,96,120,59788830.377954125,Mr. Smith Goes to Washington ,77392,245,English,Not Rated,1500000,1939,8.2,1.37,5,Comedy,2,0,0
 train,1,110,88,7362100,The Squid and the Whale ,60295,232,English,R,1500000,2005,7.4,1.85,3,Comedy,2,0,0
-train,1,97,95,25376671.866084453,Spellbound ,32927,161,English,Unrated,1696377,1945,7.6,1.37,7,Other,4,0,0
+train,1,97,95,47107484.42797206,Spellbound ,32927,161,English,Unrated,1696377,1945,7.6,1.37,7,Other,4,0,0
 train,1,106,110,2365931,Buffalo '66 ,36657,318,English,R,1500000,1998,7.5,1.85,2,Comedy,4,1,0
 train,1,445,103,53991137,Insidious ,202800,752,English,PG13,1500000,2010,6.8,2.35,7,Fantasy,4,1,0
-train,1,131,92,2610759.4623763263,Repo Man ,25332,148,English,R,1500000,1984,6.9,1.85,1,Comedy,4,0,0
+train,1,131,92,64573564.94059138,Repo Man ,25332,148,English,R,1500000,1984,6.9,1.85,1,Comedy,4,0,0
 train,1,75,112,712294,The Ballad of Jack and Rose ,9408,68,English,R,1500000,2005,6.7,1.66,1,Drama,1,0,0
 train,1,97,104,3447339,The To Do List ,29517,79,English,R,1500000,2013,5.8,1.78,1,Comedy,2,0,0
-train,1,6,93,6410029.791125676,Unsullied ,95,3,English,R,1500000,2014,5.5,2.35,1,Action,3,0,0
+train,1,6,93,914576.3437240944,Unsullied ,95,3,English,R,1500000,2014,5.5,2.35,1,Action,3,0,0
 train,1,32,80,194568,I Want Someone to Eat Cheese With ,2963,28,English,R,1500000,2006,6.2,1.85,1,Comedy,2,0,0
 train,0,120,87,163245,Modern Times ,143086,211,English,G,1500000,1936,8.6,1.37,1,Comedy,3,0,0
 train,1,31,91,119841,Stolen Summer ,2419,55,English,PG,1500000,2002,6.5,1.85,1,Drama,1,0,0
 train,1,100,84,173066,My Name Is Bruce ,21379,88,English,R,1500000,2007,6.3,1.85,1,Comedy,2,0,0
 train,1,14,90,92362,The Salon ,444,5,English,PG13,1500000,2005,4.3,1.85,2,Comedy,2,1,0
-train,1,39,108,22964651.11998226,Forty Shades of Blue ,1134,26,English,R,1500000,2005,6,1.85,2,Drama,3,1,0
+train,1,39,108,20023144.751151998,Forty Shades of Blue ,1134,26,English,R,1500000,2005,6,1.85,2,Drama,3,1,0
 train,1,46,90,52166,Trucker ,2792,22,English,R,2000000,2008,6.7,2.35,1,Drama,1,0,1
 train,1,234,101,1163508,The Lords of Salem ,20376,166,English,R,2500000,2012,5.1,2.35,4,Drama,4,0,0
-train,1,56,20,1740088.0934897433,Wal-Mart: The High Cost of Low Price ,4120,70,English,Not Rated,1500000,2005,6.8,1.85,2,Documentary,1,0,0
-train,1,9,98,48245730.95152379,Once Upon a Time in Queens ,291,7,English,R,1500000,2013,6.3,1.89,1,Comedy,2,2,0
-train,1,121,102,28081696.606528934,Growing Up Smith ,108,1,English,PG13,2000000,2015,8.2,1.85,1,Comedy,3,0,0
+train,1,56,20,16989107.47303605,Wal-Mart: The High Cost of Low Price ,4120,70,English,Not Rated,1500000,2005,6.8,1.85,2,Documentary,1,0,0
+train,1,9,98,23521172.068230726,Once Upon a Time in Queens ,291,7,English,R,1500000,2013,6.3,1.89,1,Comedy,2,2,0
+train,1,121,102,29394.91072580517,Growing Up Smith ,108,1,English,PG13,2000000,2015,8.2,1.85,1,Comedy,3,0,0
 train,1,145,83,184925485,Snow White and the Seven Dwarfs ,133348,204,English,Approved,2000000,1937,7.7,1.37,1,Animation,4,0,0
-train,1,9,101,7526157.960335394,The Dog Lover ,162,8,English,PG,2000000,2016,4.8,2.35,1,Drama,1,0,0
-train,1,53,105,39919234.54140765,Batman: The Movie ,22975,155,English,Approved,1377800,1966,6.5,1.85,1,Adventure,3,0,0
+train,1,9,101,15439784.799107837,The Dog Lover ,162,8,English,PG,2000000,2016,4.8,2.35,1,Drama,1,0,0
+train,1,53,105,86665265.67660524,Batman: The Movie ,22975,155,English,Approved,1377800,1966,6.5,1.85,1,Adventure,3,0,0
 train,1,43,95,695229,Trees Lounge ,11369,65,English,R,1300000,1996,7.2,1.85,2,Comedy,2,1,0
-train,1,15,135,638951,Journey from the Fall ,775,19,Vietnamese,R,1592000,2006,7.4,1.85,1,Drama,1,0,0
+train,1,15,135,638951,Journey from the Fall ,775,19,Other,R,1592000,2006,7.4,1.85,1,Drama,1,0,0
 train,1,14,105,609042,The Basket ,449,38,English,PG,1300000,1999,6.5,1.85,1,Drama,1,0,0
-train,1,16,82,6027875.576845771,The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It ,5579,42,English,R,1300000,2010,2.7,1.85,2,Comedy,1,0,0
-train,1,24,103,539619.2118949984,Forget Me Not ,4866,38,English,R,1300000,2009,5.2,2.35,1,Horror,3,0,1
-train,0,144,130,56721307.75160194,Rebecca ,87424,276,English,Not Rated,1288000,1940,8.2,1.37,7,Drama,4,0,0
+train,1,16,82,1425408.89660223,The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It ,5579,42,English,R,1300000,2010,2.7,1.85,2,Comedy,1,0,0
+train,1,24,103,29022460.039919242,Forget Me Not ,4866,38,English,R,1300000,2009,5.2,2.35,1,Horror,3,0,1
+train,0,144,130,44604428.37835069,Rebecca ,87424,276,English,Not Rated,1288000,1940,8.2,1.37,7,Drama,4,0,0
 train,1,242,87,19100000,Friday the 13th Part 2 ,39690,394,English,R,1250000,1981,6.1,1.85,5,Horror,3,0,0
-train,0,97,101,45884458.21517903,The Lost Weekend ,24959,136,English,Not Rated,1250000,1945,8,1.37,4,Drama,2,0,0
+train,0,97,101,13015063.640430216,The Lost Weekend ,24959,136,English,Not Rated,1250000,1945,8,1.37,4,Drama,2,0,0
 train,1,16,80,2833383,Filly Brown ,910,11,English,R,427000,2012,5.7,2.35,2,Drama,2,0,0
-train,1,7,87,15098501.579043085,The Lion of Judah ,458,3,English,PG,15000000,2011,3.7,1.78,1,Animation,1,0,0
-train,1,74,92,164984494.24584916,Niagara ,11047,116,English,Approved,1250000,1953,7.1,1.37,1,Crime,3,0,0
-train,0,74,118,22099818.405061085,How Green Was My Valley ,15840,124,English,Approved,1250000,1941,7.8,1.37,4,Drama,2,0,0
-train,1,46,123,196907.18267836687,Da Sweet Blood of Jesus ,794,9,English,Unknown,1420000,2014,4.1,2.35,16,Comedy,3,0,0
+train,1,7,87,15726689.913322024,The Lion of Judah ,458,3,English,PG,15000000,2011,3.7,1.78,1,Animation,1,0,0
+train,1,74,92,58803773.31174545,Niagara ,11047,116,English,Approved,1250000,1953,7.1,1.37,1,Crime,3,0,0
+train,0,74,118,7132530.823397592,How Green Was My Valley ,15840,124,English,Approved,1250000,1941,7.8,1.37,4,Drama,2,0,0
+train,1,46,123,8042743.443467936,Da Sweet Blood of Jesus ,794,9,English,Unknown,1420000,2014,4.1,2.35,16,Comedy,3,0,0
 train,1,58,100,24741700,"Sex, Lies, and Videotape ",37785,95,English,R,1200000,1989,7.2,1.85,14,Drama,1,0,0
 train,1,287,103,55153403,Saw ,299127,1509,English,R,1200000,2004,7.7,1.85,7,Horror,3,0,0
 train,1,100,100,18488314,Super Troopers ,76151,333,English,R,1200000,2001,7.1,1.85,4,Comedy,3,0,0
-train,1,5,99,9158217.697053712,The Algerian ,101,1,English,Unknown,1300000,2014,7.6,1.85,1,Action,3,0,0
+train,1,5,99,18939722.001732603,The Algerian ,101,1,English,Unknown,1300000,2014,7.6,1.85,1,Action,3,0,0
 train,1,122,111,9180275,You Can Count on Me ,22145,231,English,R,1200000,2000,7.7,1.85,2,Drama,1,1,0
-train,1,73,99,81347694.75119056,The Trouble with Harry ,24891,150,English,Approved,1200000,1955,7.2,1.5,7,Comedy,3,0,0
+train,1,73,99,14203943.228603944,The Trouble with Harry ,24891,150,English,Approved,1200000,1955,7.2,1.5,7,Comedy,3,0,0
 train,1,99,85,2199853,But I'm a Cheerleader ,19986,186,English,R,1200000,1999,6.6,1.85,2,Comedy,2,0,0
 train,1,10,113,2859955,Home Run ,2417,32,English,PG13,1200000,2013,6,2.35,1,Drama,2,1,0
 train,1,173,99,2812029,Reservoir Dogs ,664719,931,English,R,1200000,1992,8.4,2.35,8,Crime,3,1,0
-train,0,7,83,114969285.01674818,The Blue Bird ,1047,25,English,Approved,1747150.61444342,1940,6.5,1.37,2,Drama,3,0,0
+train,0,7,83,54916131.31899719,The Blue Bird ,1047,25,English,Approved,1747150.61444342,1940,6.5,1.37,2,Drama,3,0,0
 train,1,38,108,594904,Blue Like Jazz ,2582,89,English,PG13,1200000,2012,6,1.85,1,Comedy,2,0,0
 train,1,12,88,58936,Down and Out with the Dolls ,91,4,English,R,1200000,2001,6.1,1.78,1,Comedy,2,0,0
-train,1,51,88,18909664.900077403,Grand Theft Parsons ,2953,38,English,PG13,28685809.07072051,2003,6.1,1.85,1,Adventure,3,0,0
-train,0,24,100,18785145.74849189,The Charge of the Light Brigade ,3418,52,English,Approved,1200000,1936,7.1,1.37,3,Action,4,0,0
+train,1,51,88,112964097.38838552,Grand Theft Parsons ,2953,38,English,PG13,28685809.07072051,2003,6.1,1.85,1,Adventure,3,0,0
+train,0,24,100,101535040.5915602,The Charge of the Light Brigade ,3418,52,English,Approved,1200000,1936,7.1,1.37,3,Action,4,0,0
 train,1,9,91,2850263,Airborne ,5061,70,English,PG,2600000,1993,6.2,1.85,3,Adventure,3,0,0
-train,1,30,97,57609886.58017,Cotton Comes to Harlem ,1172,27,English,R,1200000,1970,6.6,1.85,1,Action,2,0,0
+train,1,30,97,596986.9163508135,Cotton Comes to Harlem ,1172,27,English,R,1200000,1970,6.6,1.85,1,Action,2,0,0
 train,1,91,94,16101109,Waiting... ,76467,236,English,R,3000000,2005,6.8,1.85,1,Comedy,1,1,0
 train,1,57,92,1400000,From a Whisper to a Scream ,1324,37,English,R,1100000,1987,5.9,1.85,1,Action,4,0,0
 train,1,12,105,247740,Sex with Strangers ,285,8,English,Unknown,1317194.982871189,2002,4.7,1.33,1,Documentary,2,0,0
-train,1,17,89,28914500.212549508,The Dead Undead ,737,15,English,R,1100000,2010,3,1.85,1,Action,3,0,0
-train,1,242,82,65205889.8032372,Casablanca ,387508,1123,English,PG,950000,1942,8.6,1.37,3,Drama,3,0,0
-train,1,87,89,27119178.302383404,Silent Running ,20678,199,English,PG,1000000,1972,6.7,1.85,1,Drama,2,1,0
+train,1,17,89,10225.131026703228,The Dead Undead ,737,15,English,R,1100000,2010,3,1.85,1,Action,3,0,0
+train,1,242,82,160972563.16051656,Casablanca ,387508,1123,English,PG,950000,1942,8.6,1.37,3,Drama,3,0,0
+train,1,87,89,19582258.36038768,Silent Running ,20678,199,English,PG,1000000,1972,6.7,1.85,1,Drama,2,1,0
 train,1,141,145,117235247,Rocky ,375240,542,English,PG,960000,1976,8.1,1.33,2,Drama,2,1,0
 train,1,270,83,31537320,Unfriended ,44329,309,English,R,1000000,2014,5.7,1.85,1,Horror,3,0,0
-train,1,211,110,129889802.02331561,Taxi Driver ,507063,881,English,R,1300000,1976,8.3,1.85,20,Crime,2,1,1
+train,1,211,110,126894477.48421536,Taxi Driver ,507063,881,English,R,1300000,1976,8.3,1.85,20,Crime,2,1,1
 train,1,161,91,17986000,The Howling ,22773,195,English,R,1000000,1981,6.6,1.85,6,Horror,1,0,0
 train,1,270,86,18112929,Chernobyl Diaries ,52642,271,English,R,1000000,2012,5,1.85,1,Horror,4,0,0
 train,1,29,120,20773070,God's Not Dead 2 ,4501,102,English,PG,5000000,2016,3.4,2.35,1,Drama,1,0,0
@@ -2854,7 +2854,7 @@ train,1,377,112,9701559,Blue Valentine ,141425,283,English,R,3500000,2010,7.4,1
 train,1,169,103,9013113,Transamerica ,36321,230,English,R,1000000,2005,7.4,1.85,1,Adventure,3,0,0
 train,1,225,83,53245055,The Devil Inside ,30570,290,English,R,1000000,2012,4.2,1.85,3,Horror,1,0,0
 train,1,101,109,9000000,Beyond the Valley of the Dolls ,7584,137,English,NC17,900000,1970,6.2,2.35,1,Comedy,3,0,0
-train,0,39,89,45229667.04710455,Love Me Tender ,2636,36,English,Unknown,1000000,1956,6.2,2.35,1,Drama,3,0,0
+train,0,39,89,26007365.250203315,Love Me Tender ,2636,36,English,Unknown,1000000,1956,6.2,2.35,1,Drama,3,0,0
 train,1,372,96,23808111,An Inconvenient Truth ,67654,504,English,PG,15014242.944999037,2006,7.5,1.85,3,Documentary,1,0,0
 train,1,129,122,5355376,Shine a Light ,9638,67,English,PG13,18850864.701630495,2008,7.2,1.85,20,Biography,3,0,0
 train,1,285,100,7186670,The Green Inferno ,21468,164,English,R,6000000,2013,5.4,2.35,3,Adventure,2,0,0
@@ -2866,7 +2866,7 @@ train,1,149,91,4946250,20 Feet from Stardom ,9540,80,English,PG13,1000000,2013,
 train,1,54,84,1950218,Two Girls and a Guy ,5933,102,English,R,1000000,1997,5.6,1.85,2,Comedy,2,1,1
 train,1,87,92,1677838,Who Killed the Electric Car? ,11283,155,English,PG,1000000,2006,7.7,1.75,1,Documentary,1,0,0
 train,1,51,94,1744858,The Broken Hearts Club: A Romantic Comedy ,6084,120,English,R,1000000,2000,7,2.35,1,Comedy,4,1,0
-train,1,260,92,185753879.14848378,Bubba Ho-Tep ,38893,366,English,R,1000000,2002,7.2,1.85,3,Comedy,3,0,0
+train,1,260,92,54896113.27311164,Bubba Ho-Tep ,38893,366,English,R,1000000,2002,7.2,1.85,3,Comedy,3,0,0
 train,1,16,100,982214,Slam ,1976,51,English,R,1000000,1998,7.2,1.85,1,Drama,1,0,0
 train,1,12,119,798341,Brigham City ,983,63,English,PG13,1000000,2001,7.2,1.85,1,Crime,3,0,0
 train,1,59,92,582024,Orgazmo ,30396,168,English,NC17,1000000,1997,6.2,1.85,3,Comedy,2,0,0
@@ -2884,20 +2884,20 @@ train,1,112,93,48430,The Perfect Host ,20176,73,English,R,500000,2010,6.8,1.85,
 train,1,33,88,21210,Safe Men ,2735,52,English,R,1000000,1998,6.1,1.85,3,Comedy,2,0,0
 train,1,95,98,22434,The Last Big Thing ,334,17,English,R,11836894.066868355,1996,6.9,1.85,1,Comedy,2,0,0
 train,1,29,82,12996,The Specials ,1938,54,English,R,1000000,2000,6,1.85,2,Action,4,1,0
-train,1,3,89,18101855.054897405,16 to Life ,397,6,English,Unknown,1000000,2009,6.3,1.78,1,Comedy,2,0,0
+train,1,3,89,26104089.704474382,16 to Life ,397,6,English,Unknown,1000000,2009,6.3,1.78,1,Comedy,2,0,0
 train,0,71,78,10018,Alone with Her ,3228,31,English,Not Rated,1000000,2006,6.1,1.85,1,Crime,3,0,0
 train,1,36,97,62480,Creative Control ,1048,7,English,R,1000000,2015,5.5,2.39,1,Drama,2,0,0
-train,1,3,97,39143487.64867454,The Helix... Loaded ,534,9,English,R,1000000,2005,1.9,1.78,1,Action,5,0,0
+train,1,3,97,587554.1567484138,The Helix... Loaded ,534,9,English,R,1000000,2005,1.9,1.78,1,Action,5,0,0
 train,1,9,96,703,The Jimmy Show ,480,21,English,R,1500000,2001,5.4,1.85,1,Comedy,2,0,0
-train,1,14,76,10677107.789259292,Loving Annabelle ,9190,75,English,Not Rated,1000000,2006,6.7,1.85,1,Drama,2,0,0
-train,1,6,90,10003904.811135586,Frat Party ,1612,28,English,R,1000000,2009,2.8,16,1,Comedy,1,0,0
-train,1,12,93,771568.5705373433,The Poker House ,3943,24,English,R,10294029.0845894,2008,6.5,1.85,1,Drama,1,2,1
-train,1,64,89,48013464.836934276,ZMD: Zombies of Mass Destruction ,3650,39,English,R,500000,2009,5.1,1.85,1,Comedy,3,0,0
-train,1,7,83,676046.986093094,Snow White: A Deadly Summer ,634,14,English,PG13,1000000,2012,2.2,1.78,2,Horror,1,0,0
-train,1,21,90,16238702.236359743,My Last Day Without You ,982,12,English,Unknown,1000000,2011,5.7,1.66,1,Comedy,3,0,0
-train,1,1,84,24922094.037443247,Doc Holliday's Revenge ,93,6,English,PG13,1000000,2014,3.8,1.78,2,Other,1,0,0
-train,1,39,95,22430919.93842503,Fear Clinic ,6256,19,English,R,1000000,2015,5.2,2.35,1,Horror,1,0,0
-train,1,150,93,10739859.633637946,Zombie Hunter ,2057,30,English,Not Rated,1000000,2013,3.5,2.35,1,Action,3,0,0
+train,1,14,76,25846.295754547344,Loving Annabelle ,9190,75,English,Not Rated,1000000,2006,6.7,1.85,1,Drama,2,0,0
+train,1,6,90,4206846.506840846,Frat Party ,1612,28,English,R,1000000,2009,2.8,16,1,Comedy,1,0,0
+train,1,12,93,18369665.86157034,The Poker House ,3943,24,English,R,10294029.0845894,2008,6.5,1.85,1,Drama,1,2,1
+train,1,64,89,528809.5203840182,ZMD: Zombies of Mass Destruction ,3650,39,English,R,500000,2009,5.1,1.85,1,Comedy,3,0,0
+train,1,7,83,5442519.268957032,Snow White: A Deadly Summer ,634,14,English,PG13,1000000,2012,2.2,1.78,2,Horror,1,0,0
+train,1,21,90,1062067.5755727952,My Last Day Without You ,982,12,English,Unknown,1000000,2011,5.7,1.66,1,Comedy,3,0,0
+train,1,1,84,23148810.767714515,Doc Holliday's Revenge ,93,6,English,PG13,1000000,2014,3.8,1.78,2,Other,1,0,0
+train,1,39,95,78257137.91017413,Fear Clinic ,6256,19,English,R,1000000,2015,5.2,2.35,1,Horror,1,0,0
+train,1,150,93,11740381.764052195,Zombie Hunter ,2057,30,English,Not Rated,1000000,2013,3.5,2.35,1,Action,3,0,0
 train,0,134,108,9600000,On the Waterfront ,100890,281,English,Not Rated,910000,1954,8.2,1.85,3,Crime,3,0,0
 train,1,18,100,20186,L!fe Happens ,6025,15,English,R,930000,2011,5.7,2.35,1,Comedy,1,0,0
 train,1,231,104,1007962,Hard Candy ,131969,651,English,R,950000,2005,7.1,2.35,3,Crime,3,0,0
@@ -2910,26 +2910,26 @@ train,1,193,92,3094687,Celeste & Jesse Forever ,24391,61,English,R,23485951.664
 train,1,16,95,15278,Time Changer ,1742,158,English,PG,825000,2002,5.6,1.85,1,Drama,3,0,0
 train,1,74,88,4771000,Welcome to the Dollhouse ,26513,174,English,R,800000,1995,7.5,1.85,3,Comedy,2,0,0
 train,1,11,114,1001437,Ruby in Paradise ,2039,28,English,R,800000,1993,7.2,1.85,2,Drama,2,0,0
-train,1,5,95,1262050.5653333815,Harrison Montgomery ,59,1,English,Unknown,850000,2008,7.4,1.78,1,Drama,1,1,0
+train,1,5,95,216577.13203123954,Harrison Montgomery ,59,1,English,Unknown,850000,2008,7.4,1.78,1,Drama,1,1,0
 train,1,100,112,115000000,American Graffiti ,63839,238,English,PG,777000,1973,7.5,2.35,5,Comedy,3,1,0
-train,1,21,75,723843.6888697541,Iraq for Sale: The War Profiteers ,1477,24,English,Unknown,750000,2006,7.7,1.78,2,Documentary,2,0,0
+train,1,21,75,7949348.682186641,Iraq for Sale: The War Profiteers ,1477,24,English,Unknown,750000,2006,7.7,1.78,2,Documentary,2,0,0
 train,1,82,86,5518918,Aqua Teen Hunger Force Colon Movie Film for Theaters ,12160,73,English,R,750000,2007,6.9,1.85,1,Action,6,0,0
 train,1,5,89,7705974,Kevin Hart: Laugh at My Pain ,3543,8,English,R,10286331.159214336,2011,7.5,1.85,2,Comedy,2,0,0
 train,1,292,101,77501,The Innkeepers ,27260,247,English,R,750000,2011,5.5,2.35,2,Horror,1,0,0
 train,1,31,88,47329,Interview with the Assassin ,1661,31,English,R,750000,2002,6.6,1.78,4,Drama,1,0,0
-train,1,233,90,46366231.185771294,All the Boys Love Mandy Lane ,25951,129,English,R,750000,2006,5.6,2.35,4,Horror,1,0,0
-train,1,8,95,3358562.8934069066,Bled ,851,30,English,R,750000,2009,3.1,1.85,1,Horror,1,0,0
-train,0,153,85,53476771.59441055,High Noon ,80193,333,English,PG,750000,1952,8.1,1.37,4,Other,2,0,0
+train,1,233,90,52776608.27389769,All the Boys Love Mandy Lane ,25951,129,English,R,750000,2006,5.6,2.35,4,Horror,1,0,0
+train,1,8,95,2602.994120760779,Bled ,851,30,English,R,750000,2009,3.1,1.85,1,Horror,1,0,0
+train,0,153,85,23505106.181557372,High Noon ,80193,333,English,PG,750000,1952,8.1,1.37,4,Other,2,0,0
 train,1,53,170,7830611,Hoop Dreams ,18980,74,English,PG13,700000,1994,8.3,1.33,2,Documentary,3,0,0
 train,1,49,86,3278611,Rize ,2877,46,English,PG13,764614.531436671,2005,7.1,1.33,1,Documentary,2,0,0
-train,1,23,104,7874759.317175489,The Sisterhood of Night ,1354,17,English,PG13,1000000,2014,6.3,2.35,1,Drama,3,0,0
+train,1,23,104,21346510.011536565,The Sisterhood of Night ,1354,17,English,PG13,1000000,2014,6.3,2.35,1,Drama,3,0,0
 train,1,208,106,2694973,Half Nelson ,70885,189,English,R,700000,2006,7.2,1.85,1,Drama,1,1,1
 train,0,143,90,169719,Escape from Tomorrow ,7384,79,English,Not Rated,12927014.87763152,2013,5.2,1.85,1,Fantasy,2,0,0
-train,1,34,90,25228731.98428817,After ,3699,27,English,PG13,650000,2012,5.4,2.35,1,Fantasy,4,0,0
+train,1,34,90,1645983.7693380998,After ,3699,27,English,PG13,650000,2012,5.4,2.35,1,Fantasy,4,0,0
 train,0,66,81,3000000,Top Hat ,13269,98,English,Approved,609000,1935,7.8,1.37,1,Comedy,3,0,0
 train,0,360,81,140530114,The Blair Witch Project ,186786,3400,English,R,60000,1999,6.4,1.33,1,Horror,1,0,0
 train,1,53,215,13300000,Woodstock ,12631,63,English,R,600000,1970,8.1,2.2,1,Documentary,3,0,0
-train,1,82,83,37153499.11699517,The Kentucky Fried Movie ,13915,109,English,R,650000,1977,6.5,1.85,5,Comedy,1,0,0
+train,1,82,83,20497356.799759574,The Kentucky Fried Movie ,13915,109,English,R,650000,1977,6.5,1.85,5,Comedy,1,0,0
 train,1,15,106,171988,Mercy Streets ,448,16,English,PG13,600000,2000,5.6,1.85,2,Action,3,0,0
 train,1,121,103,23616,Arnolds Park ,94,4,English,PG13,600000,2007,5.6,1.78,1,Mystery,2,0,0
 train,1,18,90,13493,Broken Vessels ,531,19,English,R,600000,1998,6.6,1.85,1,Drama,1,0,0
@@ -2952,45 +2952,45 @@ train,1,155,90,342936,Drinking Buddies ,45928,106,English,R,23222292.62902083,2
 train,1,35,84,52850,Finishing the Game: The Search for a New Bruce Lee ,1656,12,English,Not Rated,500000,2007,6.2,1.85,5,Comedy,1,0,0
 train,1,9,100,31937,Kiss the Bride ,1358,10,English,R,500000,2007,5.7,1.85,2,Comedy,2,0,0
 train,1,17,112,13134,The Slaughter Rule ,2004,32,English,R,500000,2002,6.1,2.35,1,Drama,2,1,1
-train,1,2,87,1240944.416210605,The Californians ,299,11,English,PG,4607521.356086196,2005,5,1.85,1,Drama,1,0,0
+train,1,2,87,106822100.82676692,The Californians ,299,11,English,PG,4607521.356086196,2005,5,1.85,1,Drama,1,0,0
 train,1,29,87,1332,Detention of the Dead ,2038,20,English,Not Rated,500000,2012,4.6,2.35,1,Comedy,2,0,0
-train,1,24,87,44360991.239908114,Everything Put Together ,601,10,English,R,100000,2000,6.6,1.85,7,Drama,1,0,0
+train,1,24,87,11448246.946285991,Everything Put Together ,601,10,English,R,100000,2000,6.6,1.85,7,Drama,1,0,0
 train,1,166,102,316842,Good Kill ,15756,68,English,R,19528044.7886494,2014,6.4,2.35,5,Drama,2,1,0
-train,1,121,127,48539203.606019825,Insomnia Manica ,16,3,English,Unknown,500000,2005,5.8,1.33,1,Other,1,0,0
-train,1,9,96,150137.28516636445,The Outrageous Sophie Tucker ,38,3,English,Unknown,500000,2014,7.2,1.33,1,Documentary,1,0,0
-train,1,64,104,103134737.30968663,Girls Gone Dead ,2012,28,English,R,500000,2012,3.5,2.35,1,Comedy,2,0,0
-train,1,10,97,18842572.851428404,Alleluia! The Devil's Carnival ,259,20,English,Unknown,500000,2016,7.4,1.78,5,Horror,2,0,0
-train,1,96,91,24003756.14238257,The Toxic Avenger ,19253,147,English,Unrated,475000,1984,6.2,1.85,2,Action,4,0,0
+train,1,121,127,30495936.04782354,Insomnia Manica ,16,3,English,Unknown,500000,2005,5.8,1.33,1,Other,1,0,0
+train,1,9,96,15919668.738135474,The Outrageous Sophie Tucker ,38,3,English,Unknown,500000,2014,7.2,1.33,1,Documentary,1,0,0
+train,1,64,104,1037758.769588964,Girls Gone Dead ,2012,28,English,R,500000,2012,3.5,2.35,1,Comedy,2,0,0
+train,1,10,97,58878503.217417076,Alleluia! The Devil's Carnival ,259,20,English,Unknown,500000,2016,7.4,1.78,5,Horror,2,0,0
+train,1,96,91,19071605.242671363,The Toxic Avenger ,19253,147,English,Unrated,475000,1984,6.2,1.85,2,Action,4,0,0
 train,1,8,91,2712293,Straight Out of Brooklyn ,475,11,English,R,450000,1991,5.9,1.85,2,Crime,2,0,0
 train,1,88,103,23000,Poultrygeist: Night of the Chicken Dead ,5931,58,English,Unrated,500000,2006,6.2,1.85,1,Comedy,3,0,0
 train,1,71,98,2938208,Metropolitan ,7143,52,English,PG13,225000,1990,7.5,1.66,2,Comedy,3,0,0
-train,1,15,81,32359933.015952755,Roadside ,268,6,English,Unknown,5873511.704280602,2013,4.1,16,1,Drama,4,0,0
+train,1,15,81,39122.822590708915,Roadside ,268,6,English,Unknown,5873511.704280602,2013,4.1,16,1,Drama,4,0,0
 train,1,220,92,44540956,Napoleon Dynamite ,161448,1473,English,PG,400000,2004,6.9,1.85,1,Comedy,1,0,0
 train,1,279,90,258113,Blue Ruin ,42678,135,English,R,1066167,2013,7.1,2.35,2,Crime,3,0,0
 train,0,86,91,1293295,Dogtown and Z-Boys ,10366,88,English,PG13,1347153.4127275317,2001,7.7,1.37,1,Documentary,2,0,0
-train,1,69,90,1689999,Quinceañera ,3675,48,Spanish,R,400000,2006,7.1,2.35,2,Drama,1,0,0
+train,1,69,90,1689999,Quinceañera ,3675,48,Other,R,400000,2006,7.1,2.35,2,Drama,1,0,0
 train,1,8,96,11798,Gory Gory Hallelujah ,179,18,English,Unknown,100000,2003,4.7,1.78,1,Comedy,4,0,0
 train,1,72,88,592014,Tarnation ,5709,114,English,Unrated,218,2003,7.2,1.37,1,Biography,2,0,0
 train,1,148,101,80276912,What Happens in Vegas ,140740,151,English,PG13,35000000,2008,6.1,2.35,2,Comedy,2,0,0
 train,0,8,84,25918,Fabled ,191,10,English,R,3640982.3957756595,2002,5.8,1.78,1,Drama,4,0,0
-train,0,69,123,38357697.681855194,Intolerance: Love's Struggle Throughout the Ages ,10718,88,English,Not Rated,385907,1916,8,1.33,1,Drama,3,0,0
-train,1,304,96,38679221.45609578,The Evil Dead ,141219,740,English,NC17,375000,1981,7.6,1.37,9,Fantasy,2,0,0
+train,0,69,123,127443549.29330558,Intolerance: Love's Struggle Throughout the Ages ,10718,88,English,Not Rated,385907,1916,8,1.33,1,Drama,3,0,0
+train,1,304,96,49924739.467017755,The Evil Dead ,141219,740,English,NC17,375000,1981,7.6,1.37,9,Fantasy,2,0,0
 train,1,110,88,1523883,Murderball ,9037,70,English,R,1750211,2005,7.8,1.85,1,Documentary,2,0,0
 train,1,40,90,4000000,American Ninja 2: The Confrontation ,6046,46,English,R,350000,1987,4.7,1.85,1,Action,2,0,0
-train,1,4,98,28831013.11421976,Rotor DR1 ,209,8,English,Unknown,350000,2015,3.4,2.35,1,Other,2,0,0
-train,0,177,96,112766770.39385872,12 Angry Men ,447785,888,English,Not Rated,350000,1957,8.9,1.66,4,Crime,2,0,0
+train,1,4,98,160018.04530779584,Rotor DR1 ,209,8,English,Unknown,350000,2015,3.4,2.35,1,Other,2,0,0
+train,0,177,96,109787224.89064038,12 Angry Men ,447785,888,English,Not Rated,350000,1957,8.9,1.66,4,Crime,2,0,0
 train,1,51,83,246574,My Dog Tulip ,1272,15,English,Unknown,35738336.44696691,2009,6.9,1.85,1,Animation,2,0,0
-train,0,124,65,43320091.29476956,It Happened One Night ,64888,235,English,Unrated,325000,1934,8.2,1.37,5,Comedy,2,0,0
+train,0,124,65,131039591.65586437,It Happened One Night ,64888,235,English,Unrated,325000,1934,8.2,1.37,5,Comedy,2,0,0
 train,1,26,112,7707563,Tupac: Resurrection ,7687,32,English,R,8780843.57628399,2003,8,1.85,1,Biography,3,0,0
 train,1,64,102,1281176,Tumbleweeds ,2932,73,English,PG13,312000,1999,6.7,1.85,5,Comedy,2,0,0
 train,1,56,98,16115878,The Prophecy ,24438,194,English,R,8000000,1995,6.6,2.35,1,Action,5,1,0
 train,1,88,76,255352,Old Joy ,4423,57,English,Unrated,300000,2006,6.7,1.66,3,Drama,1,0,0
 train,1,189,80,856942,Wendy and Lucy ,12241,112,English,R,200000,2008,7.1,1.85,3,Drama,1,0,0
 train,1,13,109,5199,Fighting Tommy Riley ,720,23,English,R,200000,2004,6.6,2.35,1,Drama,2,0,0
-train,1,164,80,47655044.574920945,Death Race 2000 ,19875,147,English,R,300000,1975,6.2,1.85,1,Action,4,1,0
+train,1,164,80,15247097.584299281,Death Race 2000 ,19875,147,English,R,300000,1975,6.2,1.85,1,Action,4,1,0
 train,1,10,95,2468,Locker 13 ,241,5,English,R,300000,2014,4.8,1.85,1,Other,1,0,0
-train,1,78,96,19312396.507715803,Graduation Day ,1905,58,English,R,250000,1981,4.5,1.85,1,Horror,2,0,0
-train,1,131,97,3695485.748887495,Some Guy Who Kills People ,4550,58,English,R,300000,2011,6.4,1.85,1,Comedy,6,0,0
+train,1,78,96,93215.13864351326,Graduation Day ,1905,58,English,R,250000,1981,4.5,1.85,1,Horror,2,0,0
+train,1,131,97,14564087.822412498,Some Guy Who Kills People ,4550,58,English,R,300000,2011,6.4,1.85,1,Comedy,6,0,0
 train,1,286,90,318622,Compliance ,24668,175,English,R,270000,2012,6.4,2.35,1,Biography,4,0,0
 train,1,147,113,12006514,Chasing Amy ,114070,500,English,R,250000,1997,7.3,1.85,11,Comedy,3,1,0
 train,1,51,98,3799339,Better Luck Tomorrow ,8000,138,English,R,250000,2002,7.2,1.85,5,Crime,3,0,0
@@ -3000,32 +3000,32 @@ train,1,9,100,902835,American Desi ,1489,40,English,Unrated,250000,2001,6.7,1.8
 train,1,19,75,203134,I Married a Strange Person! ,1428,21,English,R,250000,1997,7,1.85,1,Animation,5,0,0
 train,1,43,78,191309,November ,2787,64,English,R,150000,2004,5.5,1.85,2,Drama,3,0,0
 train,1,206,90,3388210,Like Crazy ,46813,150,English,PG13,250000,2011,6.7,1.78,1,Drama,2,1,1
-train,1,121,96,19178055.400560785,Teeth and Blood ,24,2,English,Unknown,300000,2015,4.3,16,1,Horror,1,0,0
-train,1,27,75,47111,The Motel ,1227,11,Cantonese,Unknown,6513960.742256527,2005,6.8,1.85,1,Comedy,2,0,0
+train,1,121,96,25638911.836129032,Teeth and Blood ,24,2,English,Unknown,300000,2015,4.3,16,1,Horror,1,0,0
+train,1,27,75,47111,The Motel ,1227,11,Other,Unknown,6513960.742256527,2005,6.8,1.85,1,Comedy,2,0,0
 train,1,162,99,49494,The Canyons ,8511,87,English,R,250000,2013,3.9,2.35,4,Drama,2,0,0
 train,1,85,92,45661,Shotgun Stories ,7148,32,English,PG13,9180613.28791796,2007,7.3,2.35,3,Drama,2,0,0
 train,0,8,81,18195,The Sticky Fingers of Time ,336,7,English,Unknown,250000,1997,6.3,1.85,1,Sci-Fi,1,0,0
-train,1,5,93,7891994.461233933,Sunday School Musical ,602,18,English,G,6310046.460897226,2008,2.5,1.85,1,Drama,2,0,0
-train,1,66,107,25818264.286655437,Ink ,18486,215,English,Unknown,37962202.04837437,2009,7,1.78,1,Action,4,0,0
-train,1,15,108,9271979.71021563,Butterfly ,870,18,English,R,3353953.978224514,1982,4.5,1.85,1,Crime,2,0,0
-train,0,48,151,64797225.93316853,The Big Parade ,4849,45,None,Not Rated,245000,1925,8.3,1.33,3,Drama,3,0,0
-train,1,17,108,4825290.654456857,Along the Roadside ,330,2,English,Unknown,250000,2013,7.1,1.85,1,Comedy,3,0,0
+train,1,5,93,519915.3269118824,Sunday School Musical ,602,18,English,G,6310046.460897226,2008,2.5,1.85,1,Drama,2,0,0
+train,1,66,107,8625303.254753545,Ink ,18486,215,English,Unknown,37962202.04837437,2009,7,1.78,1,Action,4,0,0
+train,1,15,108,9545245.81720685,Butterfly ,870,18,English,R,3353953.978224514,1982,4.5,1.85,1,Crime,2,0,0
+train,0,48,151,70963383.70976824,The Big Parade ,4849,45,Other,Not Rated,245000,1925,8.3,1.33,3,Drama,3,0,0
+train,1,17,108,683833.9006009913,Along the Roadside ,330,2,English,Unknown,250000,2013,7.1,1.85,1,Comedy,3,0,0
 train,1,22,86,111300,Burn ,575,6,English,Not Rated,225000,2012,7.5,2.35,1,Documentary,1,0,0
 train,1,38,106,1027119,Urbania ,2742,73,English,R,225000,2000,7,1.85,1,Drama,1,0,0
-train,1,21,93,5349217.395830797,The Stewardesses ,161,5,English,NC17,100000,1969,4,1.37,1,Comedy,2,0,0
+train,1,21,93,31674755.87671535,The Stewardesses ,161,5,English,NC17,100000,1969,4,1.37,1,Comedy,2,0,0
 train,0,67,80,5000000,"The Beast from 20,000 Fathoms ",4812,88,English,Approved,210000,1953,6.7,1.37,1,Adventure,3,0,0
 train,1,77,96,4505922,Swingers ,63951,252,English,R,200000,1996,7.4,1.85,7,Comedy,2,1,0
-train,0,35,66,14746457.7863786,She Done Him Wrong ,4152,59,English,Approved,200000,1933,6.5,1.37,1,Comedy,5,0,0
+train,0,35,66,24799401.731296342,She Done Him Wrong ,4152,59,English,Approved,200000,1933,6.5,1.37,1,Comedy,5,0,0
 train,1,15,85,381225,Short Cut to Nirvana: Kumbh Mela ,131,13,English,Unrated,200000,2004,7.2,1.78,1,Documentary,1,0,0
 train,1,37,97,78030,Middle of Nowhere ,1034,10,English,R,200000,2012,6.5,2.35,1,Drama,1,0,0
-train,1,60,90,18424795.689792514,Malevolence ,2413,112,English,R,200000,2003,5.1,1.33,1,Crime,4,0,0
-train,1,42,94,9277650.68245494,Super Hybrid ,1328,22,English,PG13,13000000,2010,3.9,2.35,1,Horror,3,0,0
+train,1,60,90,1193656.359038749,Malevolence ,2413,112,English,R,200000,2003,5.1,1.33,1,Crime,4,0,0
+train,1,42,94,27598834.76961661,Super Hybrid ,1328,22,English,PG13,13000000,2010,3.9,2.35,1,Horror,3,0,0
 train,1,93,84,140016,Baghead ,3507,40,English,R,12595799.399924703,2008,6,1.85,3,Comedy,4,0,0
 train,1,38,86,15542,Good Dick ,6689,51,English,R,10828704.240538655,2008,6.5,1.85,1,Comedy,3,0,0
-train,1,66,87,9431068.945969118,The Man from Earth ,129799,638,English,Not Rated,200000,2007,8,1.78,1,Drama,3,0,0
+train,1,66,87,1950955.969256206,The Man from Earth ,129799,638,English,Not Rated,200000,2007,8,1.78,1,Drama,3,0,0
 train,1,11,106,1111,The Trials of Darryl Hunt ,771,10,English,PG13,200000,2006,7.7,1.66,1,Crime,2,0,0
-train,0,25,89,8471893.881220607,Yesterday Was a Lie ,374,10,English,PG,2500000,2008,5.4,1.78,1,Drama,5,0,0
-train,1,3,94,13282190.927987441,Archaeology of a Woman ,15,3,English,Unknown,200000,2012,8.1,1.78,1,Drama,1,0,0
+train,0,25,89,16144574.859750636,Yesterday Was a Lie ,374,10,English,PG,2500000,2008,5.4,1.78,1,Drama,5,0,0
+train,1,3,94,360917.1538335075,Archaeology of a Woman ,15,3,English,Unknown,200000,2012,8.1,1.78,1,Drama,1,0,0
 train,0,26,88,7137502,She's Gotta Have It ,4769,26,English,R,175000,1986,6.5,1.85,16,Comedy,2,0,0
 train,1,242,92,1316074,Another Earth ,71387,228,English,PG13,100000,2011,7,1.85,2,Drama,3,0,0
 train,1,38,97,15180000,Sweet Sweetback's Baadasssss Song ,3340,50,English,R,500000,1971,5.5,1.37,1,Crime,3,0,0
@@ -3033,56 +3033,56 @@ train,1,91,78,2882062,Tadpole ,5178,101,English,PG13,150000,2000,6.3,1.85,5,Com
 train,1,29,93,155984,The Horse Boy ,586,9,English,Unrated,160000,2009,7.4,1.85,1,Documentary,1,0,0
 train,1,40,91,6706368,Roger & Me ,22800,133,English,R,160000,1989,7.5,1.66,4,Documentary,1,0,0
 train,1,136,85,405614,Sound of My Voice ,15775,69,English,R,11555008.001340952,2011,6.7,1.85,1,Drama,4,0,0
-train,1,12,90,13473903.943738608,The Blood of My Brother ,102,7,English,Unknown,120000,2005,6.6,1.66,1,Documentary,2,0,0
-train,1,21,120,11492828.555445032,The Birth of a Nation ,1197,8,English,R,10000000,2016,5.4,2.35,1,Biography,2,0,0
+train,1,12,90,3191074.581883709,The Blood of My Brother ,102,7,English,Unknown,120000,2005,6.6,1.66,1,Documentary,2,0,0
+train,1,21,120,7146446.514278319,The Birth of a Nation ,1197,8,English,R,10000000,2016,5.4,2.35,1,Biography,2,0,0
 train,1,159,81,22757819,The Gallows ,13521,150,English,R,100000,2015,4.2,1.85,1,Horror,2,0,0
-train,0,152,89,80604130.91723868,Eraserhead ,69831,535,English,Unrated,20000,1977,7.4,1.37,3,Fantasy,3,0,0
-train,0,1,110,3000000,Over the Hill to the Poorhouse ,5,1,None,Unknown,100000,1920,4.8,1.33,1,Crime,2,0,0
+train,0,152,89,66712673.032177046,Eraserhead ,69831,535,English,Unrated,20000,1977,7.4,1.37,3,Fantasy,3,0,0
+train,0,1,110,3000000,Over the Hill to the Poorhouse ,5,1,Other,Unknown,100000,1920,4.8,1.33,1,Crime,2,0,0
 train,1,21,81,5228617,Hollywood Shuffle ,2770,32,English,R,100000,1987,7,1.85,1,Comedy,1,0,0
 train,1,57,100,2643689,The Mighty ,10499,113,English,PG13,11435790.937349252,1998,7.3,1.85,4,Comedy,2,0,0
-train,1,23,99,132582.20630648764,Penitentiary ,509,10,English,R,100000,1979,5.8,1.85,1,Crime,3,0,0
+train,1,23,99,19767569.40839768,Penitentiary ,509,10,English,R,100000,1979,5.8,1.85,1,Crime,3,0,0
 train,0,88,90,110536,The Lost Skeleton of Cadavra ,4117,118,English,PG,40000,2001,7,1.85,1,Comedy,3,0,0
-train,1,2,82,4005682.437313097,"Dude, Where's My Dog?! ",73,4,English,PG,20000,2014,3.2,1.85,1,Other,1,0,0
+train,1,2,82,11887249.170042783,"Dude, Where's My Dog?! ",73,4,English,PG,20000,2014,3.2,1.85,1,Other,1,0,0
 train,1,193,88,59379,Cheap Thrills ,12796,52,English,Not Rated,200000,2013,6.8,2.35,1,Comedy,5,0,0
-train,0,1,68,16929846.166707598,Open Secret ,67,9,English,Approved,2251763.2235897984,1948,7.1,1.37,1,Crime,2,0,0
-train,1,5,81,14973426.921159249,Echo Dr. ,101,1,English,Unknown,100000,2013,3.6,1.78,1,Action,4,0,0
-train,1,5,77,714692.3709193155,The Past is a Grotesque Animal ,80,1,English,Unrated,100000,2014,7.6,1.78,1,Biography,3,0,0
+train,0,1,68,42858092.03021135,Open Secret ,67,9,English,Approved,2251763.2235897984,1948,7.1,1.37,1,Crime,2,0,0
+train,1,5,81,4099185.1388371405,Echo Dr. ,101,1,English,Unknown,100000,2013,3.6,1.78,1,Action,4,0,0
+train,1,5,77,4958814.6434596805,The Past is a Grotesque Animal ,80,1,English,Unrated,100000,2014,7.6,1.78,1,Biography,3,0,0
 train,0,138,84,3216970,Pi ,142619,586,English,R,60000,1998,7.5,1.66,6,Drama,3,1,0
 train,1,32,87,536767,20 Dates ,1622,83,English,R,60000,1998,5.3,1.85,1,Biography,3,0,0
 train,1,193,100,11529368,Super Size Me ,85028,404,English,PG,65000,2004,7.3,1.78,2,Comedy,3,0,0
 train,1,66,82,40557,The FP ,1389,22,English,R,60000,2011,5.6,2.35,1,Comedy,1,1,0
 train,1,65,82,30084,Happy Christmas ,5507,23,English,R,70000,2014,5.6,1.85,2,Comedy,2,1,0
-train,0,95,70,84085839.07864407,The Brain That Wouldn't Die ,4752,152,English,Approved,62000,1962,4.1,1.66,1,Horror,2,0,0
-train,1,13,75,905481.2370014082,Tiger Orange ,683,8,English,Unrated,100000,2014,6.8,1.78,1,Drama,1,0,0
-train,1,125,87,4389356.45585271,Absentia ,13065,136,English,R,70000,2011,5.8,1.78,2,Drama,3,0,0
+train,0,95,70,163156804.50804552,The Brain That Wouldn't Die ,4752,152,English,Approved,62000,1962,4.1,1.66,1,Horror,2,0,0
+train,1,13,75,44854543.51094334,Tiger Orange ,683,8,English,Unrated,100000,2014,6.8,1.78,1,Drama,1,0,0
+train,1,125,87,3.712110874221598,Absentia ,13065,136,English,R,70000,2011,5.8,1.78,2,Drama,3,0,0
 train,1,36,98,10246600,The Brothers McMullen ,6375,36,English,R,25000,1995,6.6,1.85,3,Comedy,3,0,0
 train,1,113,98,389804,Tiny Furniture ,11816,35,English,Not Rated,65000,2010,6.3,2.35,1,Comedy,3,0,0
-train,1,13,93,230818.5183605174,Hayride ,485,5,English,Not Rated,60000,2012,3.4,1.78,1,Crime,3,0,0
-train,1,12,111,84329.31835541537,Counting ,61,1,English,Unknown,50000,2015,6,1.78,1,Documentary,1,0,0
-train,1,10,92,8656877.399567332,Bending Steel ,53,10,English,Unknown,50000,2013,7.9,16,1,Documentary,1,0,0
-train,1,161,97,17650.458244407677,The Signal ,48236,180,English,PG13,4000000,2014,6.1,2.35,1,Sci-Fi,2,1,0
-train,1,34,83,43245305.02989977,This Is Martin Bonner ,733,7,English,R,42000,2013,6.6,16,1,Drama,1,0,0
-train,1,121,96,8531023.67856559,A True Story ,181,4,English,Unknown,45000,2013,5.5,2.35,1,Comedy,1,0,0
+train,1,13,93,388631.79984587216,Hayride ,485,5,English,Not Rated,60000,2012,3.4,1.78,1,Crime,3,0,0
+train,1,12,111,634235.5027925345,Counting ,61,1,English,Unknown,50000,2015,6,1.78,1,Documentary,1,0,0
+train,1,10,92,30830988.545690898,Bending Steel ,53,10,English,Unknown,50000,2013,7.9,16,1,Documentary,1,0,0
+train,1,161,97,4162686.264945758,The Signal ,48236,180,English,PG13,4000000,2014,6.1,2.35,1,Sci-Fi,2,1,0
+train,1,34,83,11258822.498667423,This Is Martin Bonner ,733,7,English,R,42000,2013,6.6,16,1,Drama,1,0,0
+train,1,121,96,14674290.786508912,A True Story ,181,4,English,Unknown,45000,2013,5.5,2.35,1,Comedy,1,0,0
 train,1,75,90,241816,George Washington ,6246,76,English,Unrated,42000,2000,7.5,2.35,8,Drama,1,0,0
 train,1,21,90,277233,Smiling Fish & Goat on Fire ,2631,26,English,R,40000,1999,7.6,1.85,1,Comedy,2,0,1
 train,1,71,117,321952,The Last Waltz ,12611,113,English,PG,741258.671123909,1978,8.2,1.85,20,Documentary,2,0,0
-train,1,7,75,9511879.685818836,"Run, Hide, Die ",106,5,English,Unknown,50000,2012,3.7,2.35,1,Horror,2,0,0
+train,1,7,75,5163431.732641465,"Run, Hide, Die ",106,5,English,Unknown,50000,2012,3.7,2.35,1,Horror,2,0,0
 train,1,3,78,243768,The Legend of God's Gun ,143,9,English,R,30000,2007,4.1,2.35,1,Other,1,0,0
-train,0,52,109,31433158.383695357,Mutual Appreciation ,1578,23,English,R,15865564.425138537,2005,6.9,1.66,2,Comedy,1,0,0
+train,0,52,109,18630409.242463052,Mutual Appreciation ,1578,23,English,R,15865564.425138537,2005,6.9,1.66,2,Comedy,1,0,0
 train,0,136,102,3151130,Clerks ,181749,615,English,R,230000,1994,7.8,1.37,11,Comedy,1,0,0
 train,1,8,65,8231,Pink Narcissus ,803,16,English,Not Rated,27000,1971,6.7,1.37,1,Drama,2,0,0
-train,1,43,85,23945019.514402147,Funny Ha Ha ,1894,61,English,Unknown,8315904.166575883,2002,6.4,1.37,2,Comedy,2,0,0
-train,1,28,79,2561890.2080094987,Manito ,493,21,English,Unknown,24000,2002,7,1.78,1,Drama,2,0,0
+train,1,43,85,31103533.77516023,Funny Ha Ha ,1894,61,English,Unknown,8315904.166575883,2002,6.4,1.37,2,Comedy,2,0,0
+train,1,28,79,84548.56478819127,Manito ,493,21,English,Unknown,24000,2002,7,1.78,1,Drama,2,0,0
 train,0,61,100,1227508,Slacker ,15103,80,English,R,23000,1991,7.1,1.37,10,Comedy,2,0,0
-train,1,1,90,5864584.982562055,Dry Spell ,114,3,English,Unknown,22000,2013,3.3,1.78,2,Comedy,2,0,0
-train,1,5,120,77444806.31101485,Flywheel ,2986,49,English,Unknown,20000,2003,6.9,1.85,4,Drama,1,0,0
-train,1,43,91,12263788.747443384,Exeter ,3836,33,English,R,5093147.134314329,2015,4.6,1.85,1,Horror,3,0,0
+train,1,1,90,23273503.58751445,Dry Spell ,114,3,English,Unknown,22000,2013,3.3,1.78,2,Comedy,2,0,0
+train,1,5,120,31366630.77191954,Flywheel ,2986,49,English,Unknown,20000,2003,6.9,1.85,4,Drama,1,0,0
+train,1,43,91,14753403.21260281,Exeter ,3836,33,English,R,5093147.134314329,2015,4.6,1.85,1,Horror,3,0,0
 train,1,22,88,76382,Breaking Upwards ,1194,8,English,Unknown,15000,2009,6.2,2.35,1,Other,1,0,0
-train,1,42,78,1096291.8581158842,All Superheroes Must Die ,1771,35,English,Unrated,20000,2011,4,2.35,1,Sci-Fi,2,0,0
+train,1,42,78,639520.1043229903,All Superheroes Must Die ,1771,35,English,Unrated,20000,2011,4,2.35,1,Sci-Fi,2,0,0
 train,1,73,108,180483,Pink Flamingos ,16792,183,English,NC17,10000,1972,6.1,1.37,2,Comedy,3,0,0
-train,1,13,82,1274930.6608706717,Sanctuary; Quite a Conundrum ,133,8,English,Unknown,200000,2012,5.4,16,1,Comedy,3,0,0
+train,1,13,82,356910.39130038867,Sanctuary; Quite a Conundrum ,133,8,English,Unknown,200000,2012,5.4,16,1,Comedy,3,0,0
 train,1,143,77,424760,Primer ,72639,371,English,PG13,7000,2004,7,1.85,1,Drama,3,0,0
-train,1,56,81,2040920,El Mariachi ,52055,130,Spanish,R,7000,1992,6.9,1.37,12,Action,5,0,0
+train,1,56,81,2040920,El Mariachi ,52055,130,Other,R,7000,1992,6.9,1.37,12,Action,5,0,0
 train,1,14,100,10443,Shanghai Calling ,1255,9,English,PG13,14025462.728650523,2012,6.3,2.35,1,Comedy,3,0,0
 train,1,43,90,85222,My Date with Drew ,4285,84,English,PG,1100,2004,6.6,1.85,2,Documentary,1,0,0
 test,1,462,132,73058679,John Carter ,212204,738,English,PG13,263700000,2012,NA,2.35,3,Action,3,0,0
@@ -3173,7 +3173,7 @@ test,1,162,90,23159305,The Iron Giant ,128455,514,English,PG,70000000,1999,NA,2
 test,1,22,99,16671505,Baby's Day Out ,33186,78,English,PG,50000000,1994,NA,1.85,2,Adventure,5,0,0
 test,1,180,95,20488579,Gamer ,113483,245,English,R,50000000,2009,NA,1.85,5,Action,3,1,0
 test,1,371,120,31569268,Chappie ,172965,627,English,R,49000000,2015,NA,2.35,2,Action,5,1,1
-test,1,32,89,20173526.84869613,The Tooth Fairy ,1263,32,English,Unknown,1500000,2006,NA,1.78,1,Horror,2,0,0
+test,1,32,89,10145885.738075435,The Tooth Fairy ,1263,32,English,Unknown,1500000,2006,NA,1.78,1,Horror,2,0,0
 test,1,295,122,53574088,3:10 to Yuma ,237872,560,English,R,55000000,2007,NA,2.35,8,Adventure,4,1,1
 test,1,152,113,69304264,The Thomas Crown Affair ,73068,419,English,R,48000000,1999,NA,2.35,9,Crime,3,1,0
 test,1,142,102,93607673,America's Sweethearts ,47573,343,English,PG13,48000000,2001,NA,2.35,2,Comedy,2,1,0
@@ -3206,7 +3206,7 @@ test,1,31,130,13052741,Ghosts of Mississippi ,8531,57,English,PG13,36000000,199
 test,1,256,101,26505000,A Nightmare on Elm Street ,149285,668,English,NC17,1800000,1984,NA,1.85,10,Horror,1,2,1
 test,1,74,109,52277485,Radio ,32370,196,English,PG,35000000,2003,NA,1.85,2,Biography,3,1,0
 test,1,120,98,43894863,Must Love Dogs ,25883,262,English,PG13,30000000,2005,NA,2.35,1,Comedy,2,0,0
-test,1,40,102,12443918.07350346,The Bad News Bears ,16323,91,English,PG,4813990.522205535,1976,NA,1.85,3,Comedy,4,0,0
+test,1,40,102,14050895.814510997,The Bad News Bears ,16323,91,English,PG,4813990.522205535,1976,NA,1.85,3,Comedy,4,0,0
 test,1,155,87,34507079,Hot Pursuit ,34948,118,English,PG13,35000000,2015,NA,2.35,5,Action,3,0,0
 test,1,227,92,14998070,Lions for Lambs ,41170,298,English,R,35000000,2007,NA,2.35,5,Drama,3,2,0
 test,1,131,103,50041732,Stigmata ,54390,398,English,R,29000000,1999,NA,2.35,1,Horror,1,1,0
@@ -3232,7 +3232,7 @@ test,1,80,193,21500000,The Right Stuff ,45271,170,English,PG,27000000,1983,NA,1
 test,1,134,123,100241322,Shakespeare in Love ,175524,752,English,R,25000000,1998,NA,2.35,2,Comedy,3,1,0
 test,1,153,139,58328680,Open Range ,54096,494,English,R,22000000,2003,NA,2.35,3,Drama,3,1,0
 test,1,335,129,49874933,Pain & Gain ,161168,287,English,R,26000000,2013,NA,2.35,12,Comedy,3,1,0
-test,1,406,120,499263,The Passion of the Christ ,179235,2814,Aramaic,R,30000000,2004,NA,2.35,3,Drama,1,0,0
+test,1,406,120,499263,The Passion of the Christ ,179235,2814,Other,R,30000000,2004,NA,2.35,3,Drama,1,0,0
 test,1,85,118,26761283,The Best of Me ,43084,99,English,PG13,26000000,2014,NA,2.35,2,Drama,2,0,0
 test,1,79,102,47285499,Agent Cody Banks ,26755,104,English,PG,26000000,2003,NA,2.35,2,Action,7,0,0
 test,1,29,97,41067398,Money Talks ,22748,41,English,R,25000000,1997,NA,2.35,7,Action,4,0,0
@@ -3268,7 +3268,7 @@ test,1,210,102,13214030,Ghost Town ,60516,147,English,PG13,20000000,2008,NA,1.8
 test,1,20,106,10555348,We're No Angels ,17349,42,English,PG13,20000000,1989,NA,2.35,3,Comedy,2,2,1
 test,1,42,100,121972,People I Know ,9868,81,English,R,22000000,2002,NA,1.85,1,Crime,3,1,0
 test,1,136,97,6923891,Take Me Home Tonight ,43867,83,English,R,23000000,2011,NA,2.35,1,Comedy,3,0,0
-test,1,63,110,560512,Indignation ,550,3,Hebrew,R,16676017.090331737,2016,NA,2,1,Drama,1,0,0
+test,1,63,110,560512,Indignation ,550,3,Other,R,16676017.090331737,2016,NA,2,1,Drama,1,0,0
 test,1,91,88,65535067,Deuce Bigalow: Male Gigolo ,59380,202,English,R,17000000,1999,NA,1.85,4,Comedy,2,1,0
 test,1,156,94,59573085,My Big Fat Greek Wedding 2 ,13562,103,English,PG13,18000000,2016,NA,2.35,4,Comedy,3,0,0
 test,1,44,103,41382841,Peggy Sue Got Married ,27149,96,English,PG13,18000000,1986,NA,1.85,11,Comedy,4,1,0
@@ -3314,27 +3314,27 @@ test,1,37,91,17292381,Max Keeble's Big Move ,5794,69,English,PG,12000000,2001,N
 test,1,53,93,10198766,Sorority Boys ,12007,105,English,R,12000000,2002,NA,1.85,1,Comedy,1,0,0
 test,1,144,86,5542025,For Your Consideration ,12197,150,English,PG13,12000000,2006,NA,1.85,4,Comedy,1,1,0
 test,1,132,122,6754898,Running with Scissors ,20000,188,English,R,12000000,2006,NA,2.35,2,Comedy,2,0,0
-test,1,2,100,22105864.522159193,The Pursuit of D.B. Cooper ,763,10,English,PG,12000000,1981,NA,1.85,2,Adventure,3,1,0
+test,1,2,100,38493917.39422038,The Pursuit of D.B. Cooper ,763,10,English,PG,12000000,1981,NA,1.85,2,Adventure,3,1,0
 test,1,78,104,1779284,The Dangerous Lives of Altar Boys ,12047,122,English,R,12000000,2002,NA,1.85,1,Comedy,2,0,0
 test,1,75,95,13558739,Tomcats ,15427,121,English,R,11000000,2001,NA,1.85,1,Comedy,1,0,0
 test,1,535,104,13214255,Inside Llewyn Davis ,96233,313,English,R,11000000,2013,NA,1.85,6,Drama,2,0,0
-test,1,43,111,1066555,September Dawn ,2618,111,None,R,11000000,2007,NA,1.85,2,Drama,4,0,0
+test,1,43,111,1066555,September Dawn ,2618,111,Other,R,11000000,2007,NA,1.85,2,Drama,4,0,0
 test,1,161,126,138339411,Good Will Hunting ,604904,682,English,R,10000000,1997,NA,1.85,7,Drama,1,2,1
 test,1,210,121,80150343,Saw III ,142115,614,English,R,10000000,2006,NA,1.85,5,Horror,2,0,0
-test,1,124,75,7702860.600456236,Commando ,111649,437,English,R,10000000,1985,NA,1.85,3,Action,3,0,0
-test,1,78,102,46040518.22182091,Pete's Dragon ,408,6,English,PG,65000000,2016,NA,2.35,1,Adventure,3,0,0
-test,1,52,100,3373262.8172364356,The Long Riders ,7322,78,English,R,10000000,1980,NA,1.85,4,Other,1,1,0
+test,1,124,75,16924410.718813427,Commando ,111649,437,English,R,10000000,1985,NA,1.85,3,Action,3,0,0
+test,1,78,102,37431760.69857664,Pete's Dragon ,408,6,English,PG,65000000,2016,NA,2.35,1,Adventure,3,0,0
+test,1,52,100,28714015.17369655,The Long Riders ,7322,78,English,R,10000000,1980,NA,1.85,4,Other,1,1,0
 test,0,265,101,6619173,Seeking a Friend for the End of the World ,87203,221,English,R,10000000,2012,NA,2.35,1,Adventure,5,1,0
 test,1,198,120,5484375,Rescue Dawn ,84641,205,English,PG13,10000000,2006,NA,1.85,2,Adventure,4,1,1
 test,1,185,93,26583369,The Forest ,20837,127,English,PG13,10000000,2016,NA,1.85,1,Horror,3,0,0
 test,1,144,96,1474508,The Joneses ,33473,88,English,R,5000000,2009,NA,2.35,1,Comedy,2,2,0
 test,1,129,103,3093491,Rosewater ,8307,37,English,R,5000000,2014,NA,1.85,1,Biography,2,0,0
-test,1,59,97,24336704.70726548,Elsa & Fred ,2041,18,English,PG13,10000000,2014,NA,2.35,2,Comedy,3,0,0
+test,1,59,97,3290782.8257474415,Elsa & Fred ,2041,18,English,PG13,10000000,2014,NA,2.35,2,Comedy,3,0,0
 test,1,27,85,70527,Eulogy ,7690,68,English,R,6500000,2004,NA,1.85,1,Comedy,2,3,0
 test,1,55,98,57176582,Next Friday ,27492,84,English,R,9500000,2000,NA,1.85,4,Comedy,1,1,0
-test,1,18,88,24626513.63756693,Re-Kill ,1763,26,English,R,9500000,2015,NA,1.78,1,Action,2,0,0
+test,1,18,88,6500933.730215833,Re-Kill ,1763,26,English,R,9500000,2015,NA,1.78,1,Action,2,0,0
 test,1,66,181,50000000,Fiddler on the Roof ,29839,150,English,G,9000000,1971,NA,2.35,4,Drama,4,0,0
-test,1,115,93,4771426.445944173,Detention ,12520,76,English,R,10000000,2011,NA,2.35,2,Comedy,3,1,0
+test,1,115,93,1303634.2314172473,Detention ,12520,76,English,R,10000000,2011,NA,2.35,2,Comedy,3,1,0
 test,1,119,174,163214286,The Sound of Music ,148172,406,English,G,8200000,1965,NA,2.35,3,Biography,5,0,0
 test,1,59,91,17843379,Drive Me Crazy ,14904,147,English,PG13,8000000,1999,NA,1.85,3,Comedy,3,0,0
 test,1,32,99,127144,The Wendell Baker Story ,5159,27,English,PG13,8000000,2005,NA,2.35,1,Comedy,3,1,0
@@ -3342,11 +3342,11 @@ test,1,35,97,4131640,Witless Protection ,5463,20,English,PG13,7500000,2008,NA,1
 test,1,208,175,134821952,The Godfather ,1155770,2238,English,R,6000000,1972,NA,1.85,11,Crime,2,2,0
 test,1,25,93,5694308,Who's Your Caddy? ,13815,46,English,PG13,7000000,2007,NA,1.85,1,Comedy,2,0,0
 test,1,158,99,2344847,Redbelt ,18561,119,English,R,7000000,2008,NA,2.35,2,Drama,2,0,0
-test,1,18,97,1168846.216803768,Stargate: The Ark of Truth ,15862,42,English,Unknown,31833084.513876915,2008,NA,1.78,1,Action,5,0,0
+test,1,18,97,9536957.236946844,Stargate: The Ark of Truth ,15862,42,English,Unknown,31833084.513876915,2008,NA,1.78,1,Action,5,0,0
 test,1,152,102,7993039,Dazed and Confused ,120036,408,English,R,6900000,1993,NA,1.85,10,Comedy,1,0,0
 test,1,231,99,9203192,Bernie ,45396,136,English,PG13,5000000,2011,NA,1.85,10,Comedy,3,1,0
 test,1,183,89,50820940,Ouija ,31915,159,English,PG13,5000000,2014,NA,2.35,1,Fantasy,2,1,0
-test,1,69,127,31365236.43215107,"20,000 Leagues Under the Sea ",22123,108,English,Approved,5000000,1954,NA,1.37,2,Adventure,5,0,0
+test,1,69,127,22050361.149929658,"20,000 Leagues Under the Sea ",22123,108,English,Approved,5000000,1954,NA,1.37,2,Adventure,5,0,0
 test,1,336,104,27689474,Oculus ,85688,339,English,R,5000000,2013,NA,2.35,2,Horror,2,0,0
 test,1,196,93,21197315,"As Above, So Below ",49948,211,English,R,5000000,2014,NA,1.85,4,Horror,3,0,0
 test,1,129,100,14343976,Friday the 13th Part VIII: Jason Takes Manhattan ,22961,291,English,R,5000000,1989,NA,1.85,1,Adventure,2,0,0
@@ -3354,74 +3354,74 @@ test,1,42,110,14100000,Diner ,14995,87,English,R,5000000,1982,NA,1.85,13,Comedy
 test,1,56,90,6755271,The Forsaken ,7319,131,English,R,5000000,2001,NA,1.85,1,Horror,2,0,0
 test,1,248,91,2221809,Rabbit Hole ,40618,144,English,PG13,5000000,2010,NA,1.85,3,Drama,1,0,0
 test,1,322,95,3219029,Green Room ,28845,125,English,R,5000000,2015,NA,2.35,2,Crime,4,0,0
-test,1,19,87,982476.2837738261,Dead Like Me: Life After Death ,10734,80,English,R,5000000,2009,NA,1.78,8,Comedy,3,0,0
-test,1,64,130,88043842.50626235,Capricorn One ,15988,153,English,PG,5000000,1977,NA,2.35,2,Action,3,0,0
+test,1,19,87,8251061.6353046615,Dead Like Me: Life After Death ,10734,80,English,R,5000000,2009,NA,1.78,8,Comedy,3,0,0
+test,1,64,130,2359172.645989044,Capricorn One ,15988,153,English,PG,5000000,1977,NA,2.35,2,Action,3,0,0
 test,1,303,93,47277326,Hostel ,138814,1516,English,R,4800000,2005,NA,2.35,3,Horror,1,1,0
 test,1,202,108,13060843,25th Hour ,149528,454,English,R,15000000,2002,NA,2.35,16,Drama,1,2,1
-test,1,39,87,157286.68114595595,Silent Movie ,12666,61,None,PG,4400000,1976,NA,1.85,6,Comedy,2,0,0
-test,1,46,86,1077478.1004437094,Hansel & Gretel Get Baked ,2806,11,English,Unknown,4500000,2013,NA,1.78,1,Comedy,2,0,0
-test,1,34,105,508292.42621759156,The Front Page ,9007,50,English,PG,4000000,1974,NA,2.35,4,Comedy,3,0,0
+test,1,39,87,59552948.4797642,Silent Movie ,12666,61,Other,PG,4400000,1976,NA,1.85,6,Comedy,2,0,0
+test,1,46,86,14811781.682440445,Hansel & Gretel Get Baked ,2806,11,English,Unknown,4500000,2013,NA,1.78,1,Comedy,2,0,0
+test,1,34,105,19746740.23225046,The Front Page ,9007,50,English,PG,4000000,1974,NA,2.35,4,Comedy,3,0,0
 test,1,143,110,6525762,The Rules of Attraction ,44339,425,English,R,4000000,2002,NA,1.85,1,Comedy,3,1,0
-test,1,50,127,30530027.5657094,Topaz ,12677,89,English,PG13,4000000,1969,NA,1.85,7,Drama,2,0,0
-test,1,115,102,2601847,Samsara ,22457,69,None,PG13,4000000,2011,NA,2.35,1,Documentary,2,0,0
+test,1,50,127,311024.7629968403,Topaz ,12677,89,English,PG13,4000000,1969,NA,1.85,7,Drama,2,0,0
+test,1,115,102,2601847,Samsara ,22457,69,Other,PG13,4000000,2011,NA,2.35,1,Documentary,2,0,0
 test,1,109,106,58214,Trust ,34224,137,English,R,9500000,2010,NA,2.35,1,Crime,3,0,0
-test,1,46,119,1861721.1729523172,Another Happy Day ,3297,42,English,R,4000000,2011,NA,2.35,1,Comedy,2,1,0
-test,0,88,113,39479761.31031506,Midnight Cowboy ,76616,334,English,NC17,3600000,1969,NA,1.85,3,Drama,1,0,0
-test,1,25,149,26552869.863788974,The Nun's Story ,7071,83,English,Not Rated,3500000,1959,NA,1.78,4,Drama,1,0,0
-test,1,22,121,22700929.765101466,Harper ,5941,74,English,Not Rated,3500000,1966,NA,2.35,2,Action,5,0,0
+test,1,46,119,26158360.53452843,Another Happy Day ,3297,42,English,R,4000000,2011,NA,2.35,1,Comedy,2,1,0
+test,0,88,113,193923.86951327373,Midnight Cowboy ,76616,334,English,NC17,3600000,1969,NA,1.85,3,Drama,1,0,0
+test,1,25,149,43801798.419321746,The Nun's Story ,7071,83,English,Not Rated,3500000,1959,NA,1.78,4,Drama,1,0,0
+test,1,22,121,21478997.09907029,Harper ,5941,74,English,Not Rated,3500000,1966,NA,2.35,2,Action,5,0,0
 test,1,53,115,38168022,The Original Kings of Comedy ,4687,83,English,R,3000000,2000,NA,1.85,16,Comedy,2,1,0
 test,1,114,100,11694528,Dave Chappelle's Block Party ,7721,72,English,R,3000000,2005,NA,1.85,3,Comedy,3,0,0
 test,1,49,84,10017041,Next Day Air ,8265,20,English,R,3000000,2009,NA,1.85,1,Action,3,1,0
 test,1,156,87,418268,Bachelorette ,37156,129,English,R,3000000,2012,NA,2.35,1,Comedy,2,2,0
-test,1,17,88,80600.3048284432,Enter the Dangerous Mind ,704,9,English,Unknown,800000,2013,NA,2.35,2,Other,1,0,0
-test,1,21,136,35980902.74751718,Pocketful of Miracles ,4313,40,English,Approved,2900000,1961,NA,2.35,5,Comedy,2,0,0
+test,1,17,88,145478.20147489663,Enter the Dangerous Mind ,704,9,English,Unknown,800000,2013,NA,2.35,2,Other,1,0,0
+test,1,21,136,16097449.23384517,Pocketful of Miracles ,4313,40,English,Approved,2900000,1961,NA,2.35,5,Comedy,2,0,0
 test,1,159,116,22201636,Hustle & Flow ,33567,206,English,R,8000000,2005,NA,1.85,2,Crime,3,0,0
 test,0,213,102,22202612,The Wizard of Oz ,291875,533,English,Passed,2800000,1939,NA,1.37,3,Adventure,4,0,0
-test,0,9,122,13868994.019869123,A Guy Named Joe ,1553,27,English,Passed,2627000,1943,NA,1.37,3,Drama,4,0,0
-test,1,66,100,11224905.789404467,Timber Falls ,5012,47,English,R,2600000,2007,NA,1.85,1,Horror,2,0,0
+test,0,9,122,29522003.026597753,A Guy Named Joe ,1553,27,English,Passed,2627000,1943,NA,1.37,3,Drama,4,0,0
+test,1,66,100,39914586.96297401,Timber Falls ,5012,47,English,R,2600000,2007,NA,1.85,1,Horror,2,0,0
 test,1,75,149,25809813,That Thing You Do! ,50311,212,English,PG,26000000,1996,NA,1.37,2,Comedy,3,2,0
 test,1,28,120,5731103,Get on the Bus ,4100,35,English,R,2400000,1996,NA,1.85,16,Drama,2,1,0
 test,1,160,92,21300000,Friday the 13th: A New Beginning ,22521,342,English,R,2200000,1985,NA,1.85,1,Horror,3,0,0
 test,1,533,100,14673301,It Follows ,112899,631,English,R,2000000,2014,NA,2.35,1,Horror,2,0,0
 test,1,108,101,2506446,Full Frontal ,8662,172,English,R,2000000,2002,NA,1.85,14,Comedy,2,1,0
 test,1,78,96,198407,Sherrybaby ,10282,78,English,R,2000000,2006,NA,1.85,1,Drama,1,0,0
-test,1,8,90,29034163.369197447,Rockaway ,355,6,English,R,2000000,2007,NA,2.35,1,Action,4,0,0
-test,1,23,90,5486390.899151182,The Marine 4: Moving Target ,2032,15,English,R,1950000,2015,NA,1.78,2,Action,2,0,0
+test,1,8,90,729606.3806457856,Rockaway ,355,6,English,R,2000000,2007,NA,2.35,1,Action,4,0,0
+test,1,23,90,67.46501148388222,The Marine 4: Moving Target ,2032,15,English,R,1950000,2015,NA,1.78,2,Action,2,0,0
 test,1,77,98,1943649,"Happy, Texas ",8697,122,English,PG13,1700000,1999,NA,1.85,1,Comedy,3,0,0
 test,1,71,91,7417210,Kids ,59041,408,English,Unknown,1500000,1995,NA,1.85,2,Drama,1,1,0
 test,1,110,97,7022940,Kissing Jessica Stein ,14018,190,English,R,1000000,2001,NA,1.85,2,Comedy,3,0,0
 test,0,84,98,406035,The Believer ,30314,159,English,R,1500000,2001,NA,1.66,1,Drama,1,1,1
 test,1,88,107,402820,Snow Angels ,10896,57,English,R,13320194.665524812,2007,NA,2.35,8,Drama,2,0,0
 test,1,127,100,373967,Session 9 ,43839,481,English,R,1500000,2001,NA,2.35,3,Horror,2,0,0
-test,1,229,93,1546880.6489093516,Hatchet ,23349,235,English,R,1500000,2006,NA,1.85,1,Comedy,2,0,0
-test,1,6,97,76559155.07152699,Checkmate ,735,18,English,Unknown,1500000,2015,NA,2.35,1,Action,3,0,0
+test,1,229,93,31685108.143793758,Hatchet ,23349,235,English,R,1500000,2006,NA,1.85,1,Comedy,2,0,0
+test,1,6,97,8456.945300376492,Checkmate ,735,18,English,Unknown,1500000,2015,NA,2.35,1,Action,3,0,0
 test,0,35,87,19539,The Hebrew Hammer ,4182,53,English,R,1000000,2003,NA,1.85,1,Comedy,1,1,0
-test,1,77,96,11144208.297646705,C.H.U.D. ,7528,88,English,R,1250000,1984,NA,1.85,1,Horror,2,1,0
-test,1,14,76,32112985.67633561,Extreme Movie ,9560,35,English,R,7105346.691510752,2008,NA,1.85,1,Comedy,1,0,0
-test,0,40,109,32698899.125677574,Sands of Iwo Jima ,7346,69,English,Approved,1000000,1949,NA,1.37,1,Action,4,0,0
+test,1,77,96,79797217.12196562,C.H.U.D. ,7528,88,English,R,1250000,1984,NA,1.85,1,Horror,2,1,0
+test,1,14,76,861716.273548447,Extreme Movie ,9560,35,English,R,7105346.691510752,2008,NA,1.85,1,Comedy,1,0,0
+test,0,40,109,135591510.28338084,Sands of Iwo Jima ,7346,69,English,Approved,1000000,1949,NA,1.37,1,Action,4,0,0
 test,1,38,104,3386698,Next Stop Wonderland ,4195,86,English,R,1000000,1998,NA,1.85,3,Comedy,3,1,1
 test,1,155,84,3122616,Obvious Child ,16594,73,English,R,18944056.644706067,2014,NA,2.35,1,Comedy,2,0,0
 test,1,181,97,2508841,Frozen River ,21746,93,English,R,1000000,2008,NA,1.85,1,Crime,2,0,0
 test,1,56,81,6387,Special ,4862,37,English,R,1000000,2006,NA,1.85,1,Comedy,3,1,0
-test,1,20,96,17285314.421719193,Hits ,1359,8,English,Unknown,1000000,2014,NA,1.78,1,Comedy,2,0,0
-test,1,95,83,19103195.876871616,Black Rock ,6531,47,English,R,4734069.131134269,2012,NA,1.85,1,Horror,2,0,0
-test,1,32,103,56498179.922475606,Charly ,4998,55,English,PG,1105891.0122674159,1968,NA,2.35,1,Drama,3,0,0
+test,1,20,96,2971935.395692125,Hits ,1359,8,English,Unknown,1000000,2014,NA,1.78,1,Comedy,2,0,0
+test,1,95,83,726777.8722076326,Black Rock ,6531,47,English,R,4734069.131134269,2012,NA,1.85,1,Horror,2,0,0
+test,1,32,103,21585631.13994048,Charly ,4998,55,English,PG,1105891.0122674159,1968,NA,2.35,1,Drama,3,0,0
 test,1,62,101,6643,The Brass Teapot ,11965,39,English,R,900000,2012,NA,2.35,1,Comedy,3,0,0
 test,1,271,86,4007792,Safety Not Guaranteed ,101287,260,English,R,750000,2012,NA,2.35,2,Comedy,3,0,0
 test,1,64,97,1141829,L.I.E. ,8509,109,English,NC17,700000,2001,NA,1.85,2,Crime,2,0,0
-test,1,8,91,2742193.317248118,Adulterers ,514,1,English,Unknown,750000,2015,NA,2.35,1,Crime,3,0,0
+test,1,8,91,18833331.86629583,Adulterers ,514,1,English,Unknown,750000,2015,NA,2.35,1,Crime,3,0,0
 test,1,20,120,3773863,To Save a Life ,4583,55,English,PG13,1000000,2009,NA,2.35,1,Drama,1,0,0
 test,1,70,108,2047570,Beyond the Mat ,6790,80,English,R,500000,1999,NA,1.85,1,Biography,3,0,0
-test,1,1,84,1496218.3748325256,The Little Ponderosa Zoo ,15,1,English,Unknown,500000,2016,NA,16,1,Other,1,0,0
+test,1,1,84,27460529.24572158,The Little Ponderosa Zoo ,15,1,English,Unknown,500000,2016,NA,16,1,Other,1,0,0
 test,0,65,89,2300000,42nd Street ,7921,97,English,Unrated,439000,1933,NA,1.37,1,Comedy,3,0,0
 test,1,409,84,107917283,Paranormal Activity ,184824,1189,English,R,15000,2007,NA,1.85,1,Horror,1,0,0
 test,1,4,92,425899,I Want Your Money ,1123,31,English,PG,400000,2010,NA,1.78,1,Documentary,1,0,0
 test,0,36,100,2808000,The Broadway Melody ,4546,71,English,Passed,379000,1929,NA,1.37,1,Other,2,0,0
 test,1,131,80,2360184,Pieces of April ,18035,177,English,PG13,300000,2003,NA,1.85,2,Comedy,2,1,0
 test,1,71,91,4186931,Lovely & Amazing ,6041,85,English,R,250000,2001,NA,1.85,4,Comedy,3,0,0
-test,1,121,90,5894377.51236235,Death Calls ,30,303.7473714953271,English,R,290000,2010,NA,1.85,1,Action,5,0,0
-test,1,6,86,105220.19214081175,An American Girl Holiday ,1338,32,English,Unknown,200000,2004,NA,1.33,1,Drama,2,0,0
-test,1,43,25,111219654.91150077,A Charlie Brown Christmas ,21826,126,English,TV,150000,1965,NA,1.33,1,Animation,3,0,0
+test,1,121,90,7316672.007980645,Death Calls ,30,303.7473714953271,English,R,290000,2010,NA,1.85,1,Action,5,0,0
+test,1,6,86,4859033.524686592,An American Girl Holiday ,1338,32,English,Unknown,200000,2004,NA,1.33,1,Drama,2,0,0
+test,1,43,25,13422033.088665418,A Charlie Brown Christmas ,21826,126,English,TV,150000,1965,NA,1.33,1,Animation,3,0,0
 test,1,31,111,10174663,Facing the Giants ,12399,382,English,PG,100000,2006,NA,1.85,4,Drama,2,0,0
-test,0,60,47,7046476.344184831,The Call of Cthulhu ,6261,99,English,Unknown,50000,2005,NA,1.33,1,Fantasy,4,0,0
-test,1,2,83,353993.1928910321,Raymond Did It ,192,6,English,Unrated,40000,2011,NA,2.35,2,Horror,1,0,0
+test,0,60,47,2132306.4854088533,The Call of Cthulhu ,6261,99,English,Unknown,50000,2005,NA,1.33,1,Fantasy,4,0,0
+test,1,2,83,29910481.4002496,Raymond Did It ,192,6,English,Unrated,40000,2011,NA,2.35,2,Horror,1,0,0

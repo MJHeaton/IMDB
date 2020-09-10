@@ -86,6 +86,11 @@ missing_languages <- c("English", "None", "None", "None", "None")
 imdb <- imdb %>% 
   mutate(language=replace(language, is.na(language), missing_languages))
 
+## Lots of very small categories for language so combine into English vs. Non-English
+imdb <- imdb %>%
+  mutate(language=fct_collapse(language, Other=unique(language[language!="English"])))
+table(imdb$language) 
+
 ## Content-rating - collapse GP --> PG and create "other"
 ## X --> NC-17, TV-?? --> TV, M-->PG13
 imdb <- imdb %>%
