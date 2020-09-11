@@ -37,22 +37,24 @@ imdb.01 <- predict(trans01, newdata=imdb)
 ####################################
 
 ## Split the test and training data
-imdb.train <- imdb %>% filter(!is.na(imdb_score)) %>% select(-Set)
-imdb.test <- imdb %>% filter(is.na(imdb_score)) %>% select(-Set)
+imdb.train <- imdb %>% filter(!is.na(imdb_score))
+imdb.test <- imdb %>% filter(is.na(imdb_score))
 
 ## Fit a linear regression model
-linreg <- train(form=imdb_score~.-movie_title,
-                data=imdb.train,
+linreg <- train(form=imdb_score~.,
+                data=(imdb.train %>% select(-Set, -movie_title)),
                 method="lm",
                 trControl=trainControl(method="repeatedcv",
                                        number=10, #Number of pieces of your data
                                        repeats=3) #repeats=1 = "cv"
 )
 linreg$results
+linreg.preds <- data.frame(Id=imdb.test$movie_title, Predicted=predict(linreg, newdata=imdb.test))
+write_csv(x=linreg.preds, path="./LinearRegressionPredictionsHeaton.csv")
 
 ## Fit an Elastic Net model
-elnet <- train(form=imdb_score~.-movie_title,
-               data=imdb.train,
+elnet <- train(form=imdb_score~.,
+               data=(imdb.train %>% select(-Set, -movie_title)),
                method="glmnet",
                trControl=trainControl(method="repeatedcv",
                                       number=10, #Number of pieces of your data
@@ -63,8 +65,8 @@ plot(elnet)
 ## Tune the elastic net
 enet.grid <- expand.grid(alpha=seq(0.4, 0.8, length=10),
                          lambda=seq(0, 0.02, length=10))
-elnet <- train(form=imdb_score~.-movie_title,
-               data=imdb.train,
+elnet <- train(form=imdb_score~.,
+               data=(imdb.train %>% select(-Set, -movie_title)),
                method="glmnet",
                trControl=trainControl(method="repeatedcv",
                                       number=10, #Number of pieces of your data
@@ -72,6 +74,8 @@ elnet <- train(form=imdb_score~.-movie_title,
                tuneGrid=enet.grid
 )
 plot(elnet)
+elnet.preds <- data.frame(Id=imdb.test$movie_title, Predicted=predict(elnet, newdata=imdb.test))
+write_csv(x=elnet.preds, path="./ElasticNetPredictionsHeaton.csv")
 
 
 
