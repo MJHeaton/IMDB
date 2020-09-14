@@ -15,7 +15,7 @@ imdb <- read_csv("CleanedIMDBData.csv")
 ## models predict better
 ##
 
-## Dummary (Indicator) Variables
+## Dummy (Indicator) Variables
 IVTrans <- dummyVars(imdb_score~.-movie_title-Set, data=imdb)
 imdb.iv <- predict(IVTrans, newdata=imdb)  %>% as.data.frame() %>%
   bind_cols(., imdb %>% select(movie_title, Set, imdb_score))
@@ -74,9 +74,29 @@ elnet <- train(form=imdb_score~.,
                tuneGrid=enet.grid
 )
 plot(elnet)
-elnet.preds <- data.frame(Id=imdb.test$movie_title, Predicted=predict(elnet, newdata=imdb.test))
+elnet.preds <- data.frame(Id=imdb.test$movie_title, 
+                          Predicted=predict(elnet, newdata=imdb.test))
 write_csv(x=elnet.preds, path="./ElasticNetPredictionsHeaton.csv")
 
+## Fit a RF
+rf <- train(form=imdb_score~.,
+            data=(imdb.train %>% select(-Set, -movie_title)),
+            method="ranger",
+            trControl=trainControl(method="repeatedcv",
+                                   number=10, #Number of pieces of your data
+                                   repeats=3) #repeats=1 = "cv"
+)
+plot(rf)
+
+## Fit an xgboost tree model
+xgbtree <- train(form=imdb_score~.,
+      data=(imdb.train %>% select(-Set, -movie_title)),
+      method="xgbTree",
+      trControl=trainControl(method="repeatedcv",
+                             number=3, #Number of pieces of your data
+                             repeats=1) #repeats=1 = "cv"
+)
+plot(xgbtree)
 
 
 

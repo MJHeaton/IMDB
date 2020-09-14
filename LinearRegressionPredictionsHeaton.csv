@@ -1,0 +1,341 @@
+Id,Predicted
+John Carter ,5.896966877
+Avengers: Age of Ultron ,7.398364957
+Cars 2 ,6.15959003
+Green Lantern ,6.294029702
+Terminator Salvation ,6.274885892
+Star Trek Beyond ,5.447850668
+X-Men: Apocalypse ,6.120004752
+The Dark Knight ,10.08205537
+Up ,7.910791864
+Monsters vs. Aliens ,5.652205632
+Inside Out ,7.29389434
+Wreck-It Ralph ,6.716149894
+How to Train Your Dragon ,7.112347496
+Terminator 3: Rise of the Machines ,5.811199463
+Kung Fu Panda 3 ,5.450478424
+Star Trek ,7.336086604
+Gods of Egypt ,5.306902507
+Turbo ,5.694336413
+War of the Worlds ,6.702465705
+Speed Racer ,5.941613955
+Fantastic Four ,5.667429753
+Real Steel ,6.653087726
+Ender's Game ,6.060736311
+Kingdom of Heaven ,6.932895285
+The Martian ,8.256469856
+Django Unchained ,10.69676547
+Point Break ,5.312892813
+Surf's Up ,6.055643443
+Finding Nemo ,8.336211395
+Seventh Son ,5.416364282
+Jurassic Park III ,5.781784795
+The Girl with the Dragon Tattoo ,8.287922148
+Alvin and the Chipmunks: The Road Chip ,5.413568977
+Seabiscuit ,6.660768402
+Enemy of the State ,6.508627115
+It's Complicated ,6.247874996
+The Fast and the Furious: Tokyo Drift ,5.820520347
+Click ,6.394036531
+Cats & Dogs: The Revenge of Kitty Galore ,5.128157472
+Lilo & Stitch ,6.272951254
+RED 2 ,6.043846299
+Zookeeper ,5.884019942
+Déjà Vu ,6.178704626
+What Dreams May Come ,6.179783704
+Journey 2: The Mysterious Island ,5.821169089
+Inspector Gadget ,5.666612223
+Grown Ups ,6.291035072
+Vertical Limit ,5.82690187
+The Man from U.N.C.L.E. ,6.303911262
+Driven ,5.728404315
+Cars ,6.941637669
+The SpongeBob Movie: Sponge Out of Water ,5.733948154
+Wolf ,6.632487006
+The Abyss ,6.773248706
+I Spy ,5.578945393
+The Twilight Saga: Eclipse ,6.891409864
+Need for Speed ,6.278325222
+Lincoln ,8.317785823
+Death Race ,6.498947743
+Hudson Hawk ,5.837461186
+Two Weeks Notice ,5.811613708
+Days of Thunder ,6.022758436
+The Scorch Trials ,6.054371183
+The Family Man ,6.258889267
+Up Close & Personal ,6.150353561
+The Boxtrolls ,6.020560769
+Mercury Rising ,5.98516046
+The Last Castle ,6.130344545
+Dark Water ,6.316827626
+The Internship ,6.385912715
+The Nutty Professor ,6.004627506
+Muppets Most Wanted ,6.394134155
+Flags of Our Fathers ,7.268083313
+Lucky You ,6.301986302
+Valentine's Day ,6.324294456
+Casino ,8.255298376
+Robin Hood: Prince of Thieves ,6.505430436
+Patch Adams ,6.533856278
+22 Jump Street ,6.952701403
+Payback ,6.047997027
+"Crazy, Stupid, Love. ",7.347391305
+The Game ,7.460274328
+Into the Storm ,5.532208272
+For Love of the Game ,6.651560612
+The Iron Giant ,6.023861243
+Baby's Day Out ,5.950481578
+Gamer ,6.07809721
+Chappie ,6.697143317
+The Tooth Fairy ,5.17773843
+3:10 to Yuma ,7.253684694
+The Thomas Crown Affair ,6.631014054
+America's Sweethearts ,5.857511766
+Courage Under Fire ,6.289835751
+The Muppets ,6.855583416
+Blended ,6.050947638
+The Bounty Hunter ,5.936014906
+Pinocchio ,7.788596893
+42 ,6.696550032
+Vantage Point ,6.42801142
+Shall We Dance ,5.759680594
+The Prestige ,9.209483948
+Gothika ,5.736456102
+Amistad ,7.42424161
+The Guilt Trip ,5.613126353
+Scream 4 ,6.280245892
+Pay It Forward ,6.519498872
+A Million Ways to Die in the West ,6.848487771
+Morning Glory ,5.976508644
+Memoirs of an Invisible Man ,5.867374792
+Soul Men ,6.065201632
+The Ugly Truth ,6.464347288
+Sgt. Bilko ,5.602419499
+The Express ,6.622800036
+What to Expect When You're Expecting ,6.09773372
+Cop Out ,6.278509584
+Hot Tub Time Machine ,6.550102082
+Aloha ,5.871439124
+Ghosts of Mississippi ,6.391438335
+A Nightmare on Elm Street ,6.403828294
+Radio ,6.353487067
+Must Love Dogs ,5.617533679
+The Bad News Bears ,6.408183412
+Hot Pursuit ,5.388562722
+Lions for Lambs ,6.727790677
+Stigmata ,5.502243853
+Cats Don't Dance ,6.070905234
+The Good German ,6.924429318
+Going the Distance ,6.022841964
+Vacation ,6.223946915
+The Addams Family ,6.187211372
+Glory Road ,6.423759804
+Sicario ,7.183985055
+The Age of Adaline ,6.555087464
+Little Shop of Horrors ,6.274628203
+Hanna ,6.616090113
+What's the Worst That Could Happen? ,5.609651809
+Virtuosity ,5.922179878
+Love & Other Drugs ,6.824698816
+88 Minutes ,6.468978847
+Mumford ,6.299807856
+Straight Outta Compton ,7.802255513
+Blade Runner ,8.079278676
+3 Days to Kill ,5.946975408
+The Right Stuff ,7.286390325
+Shakespeare in Love ,6.635342856
+Open Range ,6.890369225
+Pain & Gain ,7.210069062
+The Passion of the Christ ,6.652431777
+The Best of Me ,6.034759618
+Agent Cody Banks ,5.756522671
+Money Talks ,5.843364353
+There Will Be Blood ,8.206837909
+He Got Game ,7.008607679
+Don Juan DeMarco ,5.855200795
+Lords of Dogtown ,6.37775921
+Mrs. Winterbourne ,5.763509817
+Tank Girl ,5.916826179
+King's Ransom ,5.414227973
+Jane Got a Gun ,5.630974848
+Old School ,6.408031569
+The Fisher King ,6.674698458
+"Girl, Interrupted ",7.175575849
+Muppets from Space ,6.162083653
+Play It to the Bone ,6.17417656
+I Don't Know How She Does It ,5.656847399
+Zombieland ,7.95454986
+Marvin's Room ,6.268493393
+Vanity Fair ,6.434160524
+Spaceballs ,6.664121039
+Delivery Man ,5.825855313
+The Conjuring ,7.078010326
+White Chicks ,5.816523244
+Lakeview Terrace ,6.205235801
+Vampires Suck ,5.537814957
+Nancy Drew ,5.837708501
+Shorts ,5.704879897
+Psycho ,8.047306134
+Under the Rainbow ,5.990277165
+The Weather Man ,6.295291444
+Ghost Town ,6.149648329
+We're No Angels ,5.988698119
+People I Know ,6.07931966
+Take Me Home Tonight ,5.934508286
+Indignation ,6.006868321
+Deuce Bigalow: Male Gigolo ,6.156109249
+My Big Fat Greek Wedding 2 ,5.62304806
+Peggy Sue Got Married ,6.288104414
+Honey ,6.237061624
+Small Time Crooks ,6.396682251
+Youth in Revolt ,6.384362621
+The Salton Sea ,6.24711615
+Let's Be Cops ,6.123130501
+Good Boy! ,5.678090182
+Lottery Ticket ,5.410368487
+ATL ,5.629034537
+Fur: An Imaginary Portrait of Diane Arbus ,6.643499858
+Sense and Sensibility ,6.975021914
+Dead Poets Society ,7.06229352
+The Women ,5.851059205
+Boys and Girls ,5.695814056
+How to Deal ,5.60256527
+Philadelphia ,7.018195322
+Why Did I Get Married? ,5.697116728
+The Great Debaters ,6.572839506
+The Object of My Affection ,6.100355654
+When the Game Stands Tall ,6.056382463
+The Place Beyond the Pines ,7.658736647
+One Day ,6.653445745
+The Midnight Meat Train ,6.01551549
+The Good Night ,5.774563524
+Pretty Woman ,7.154567278
+My Bloody Valentine ,5.776040967
+Stomp the Yard ,6.135484313
+Poetic Justice ,6.524069697
+Thinner ,5.830767801
+Margaret ,6.934749836
+Justin Bieber: Never Say Never ,7.30588519
+10 Things I Hate About You ,6.408644739
+Loaded Weapon 1 ,5.690318857
+Admission ,5.850294365
+Antwone Fisher ,6.502189415
+The Exorcist ,7.403089311
+Jaws ,8.955502568
+Act of Valor ,6.137825743
+Harold & Kumar Escape from Guantanamo Bay ,6.464097495
+Max Keeble's Big Move ,5.700193974
+Sorority Boys ,5.766058024
+For Your Consideration ,5.744445363
+Running with Scissors ,6.139851564
+The Pursuit of D.B. Cooper ,6.304314479
+The Dangerous Lives of Altar Boys ,5.942030167
+Tomcats ,5.876070799
+Inside Llewyn Davis ,7.70115939
+September Dawn ,6.261438783
+Good Will Hunting ,8.62112185
+Saw III ,6.023109481
+Commando ,6.286554736
+Pete's Dragon ,5.430720046
+The Long Riders ,6.281775602
+Seeking a Friend for the End of the World ,6.888128929
+Rescue Dawn ,6.546179243
+The Forest ,5.075362644
+The Joneses ,6.143078607
+Rosewater ,6.354849727
+Elsa & Fred ,5.384754693
+Eulogy ,5.846267993
+Next Friday ,6.057996601
+Re-Kill ,5.20718704
+Fiddler on the Roof ,7.773618369
+Detention ,5.895970239
+The Sound of Music ,8.375571684
+Drive Me Crazy ,5.704768414
+The Wendell Baker Story ,5.583740567
+Witless Protection ,5.438095148
+The Godfather ,10.51572122
+Who's Your Caddy? ,5.417582919
+Redbelt ,6.469276666
+Stargate: The Ark of Truth ,5.595392919
+Dazed and Confused ,6.667112481
+Bernie ,6.27881747
+Ouija ,5.571119871
+"20,000 Leagues Under the Sea ",7.312390415
+Oculus ,5.985838364
+"As Above, So Below ",5.507297679
+Friday the 13th Part VIII: Jason Takes Manhattan ,6.486721945
+Diner ,6.572951804
+The Forsaken ,5.187565802
+Rabbit Hole ,6.450062489
+Green Room ,6.642271979
+Dead Like Me: Life After Death ,5.685873792
+Capricorn One ,6.380341121
+Hostel ,5.714580121
+25th Hour ,7.317654166
+Silent Movie ,6.292444591
+Hansel & Gretel Get Baked ,5.669291564
+The Front Page ,6.423447382
+The Rules of Attraction ,6.282150421
+Topaz ,7.088135211
+Samsara ,6.873638923
+Trust ,6.157895594
+Another Happy Day ,5.869356219
+Midnight Cowboy ,7.22911706
+The Nun's Story ,7.461558377
+Harper ,6.548102255
+The Original Kings of Comedy ,6.35664679
+Dave Chappelle's Block Party ,6.068825601
+Next Day Air ,5.548956199
+Bachelorette ,6.046856189
+Enter the Dangerous Mind ,5.41641994
+Pocketful of Miracles ,6.839675657
+Hustle & Flow ,6.510264919
+The Wizard of Oz ,8.277528903
+A Guy Named Joe ,7.412423784
+Timber Falls ,5.215801327
+That Thing You Do! ,6.486448658
+Get on the Bus ,6.838490554
+Friday the 13th: A New Beginning ,5.864422945
+It Follows ,6.452505723
+Full Frontal ,6.295866106
+Sherrybaby ,6.244166498
+Rockaway ,5.447251709
+The Marine 4: Moving Target ,5.288109597
+"Happy, Texas ",5.789552536
+Kids ,6.65543329
+Kissing Jessica Stein ,6.082752591
+The Believer ,6.647975868
+Snow Angels ,6.417970553
+Session 9 ,5.453292833
+Hatchet ,6.257782888
+Checkmate ,5.416612547
+The Hebrew Hammer ,5.929255166
+C.H.U.D. ,5.808095907
+Extreme Movie ,5.433353826
+Sands of Iwo Jima ,7.053346085
+Next Stop Wonderland ,6.077886994
+Obvious Child ,5.735700634
+Frozen River ,6.35086095
+Special ,5.782420911
+Hits ,5.653263449
+Black Rock ,5.037000155
+Charly ,6.912661914
+The Brass Teapot ,5.750197172
+Safety Not Guaranteed ,6.426838538
+L.I.E. ,5.874281822
+Adulterers ,5.785658736
+To Save a Life ,5.929956857
+Beyond the Mat ,6.581091063
+The Little Ponderosa Zoo ,4.750800978
+42nd Street ,7.860957
+Paranormal Activity ,6.149664481
+I Want Your Money ,6.568232874
+The Broadway Melody ,6.94816499
+Pieces of April ,5.785294803
+Lovely & Amazing ,5.979050546
+Death Calls ,5.648184276
+An American Girl Holiday ,6.195050329
+A Charlie Brown Christmas ,5.862287546
+Facing the Giants ,6.054882018
+The Call of Cthulhu ,5.62802726
+Raymond Did It ,5.07034536
