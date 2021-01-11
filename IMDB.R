@@ -7,7 +7,7 @@ library(tidyverse)
 library(caret)
 library(DataExplorer)
 
-## Read in the data
+## Read in the data - comment
 imdb <- read_csv("CleanedIMDBData.csv")
 
 ##
@@ -94,7 +94,7 @@ xgbtree <- train(form=imdb_score~.,
       method="xgbTree",
       trControl=trainControl(method="repeatedcv",
                              number=3, #Number of pieces of your data
-                             repeats=1) #repeats=1 = "cv"
+                             repeats=1)
 )
 plot(xgbtree)
 
